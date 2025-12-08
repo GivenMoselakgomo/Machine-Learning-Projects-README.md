@@ -1,0 +1,2001 @@
+Item_Weight,Item_MRP,Item_Visibility,Item_Type,Outlet_Size,Outlet_Location_Type,Outlet_Type,Item_Outlet_Sales
+13.99,192.49,0.06863032952121506,Health & Hygiene,Large,Tier 2,Supermarket Type1,807.05
+11.45,73.1,0.1620111527547203,Health & Hygiene,Small,Tier 3,Supermarket Type1,100.0
+14.59,172.09,0.015152117195144765,Health & Hygiene,Medium,Tier 1,Grocery Store,261.78
+18.09,88.85,0.05773840730474702,Health & Hygiene,Medium,Tier 1,Grocery Store,344.15
+11.06,332.88,0.11441171598029386,Household,Small,Tier 2,Supermarket Type1,218.49
+11.06,381.69,0.017829830509270114,Household,Small,Tier 2,Supermarket Type1,100.0
+18.32,75.31,0.043766347713941736,Frozen Foods,Medium,Tier 2,Supermarket Type1,100.0
+15.07,384.29,0.05510599739225095,Household,Medium,Tier 2,Supermarket Type1,636.49
+10.12,232.9,0.021803079085467424,Health & Hygiene,Large,Tier 1,Supermarket Type1,1088.68
+14.17,154.85,0.01195597443881829,Soft Drinks,Small,Tier 2,Supermarket Type1,565.03
+10.15,76.9,0.1320840912074635,Soft Drinks,Medium,Tier 2,Supermarket Type1,100.0
+10.14,225.22,0.013291429343640075,Household,Small,Tier 2,Supermarket Type1,455.13
+12.97,328.08,0.03055788645532298,Health & Hygiene,Small,Tier 2,Supermarket Type1,456.34
+4.35,297.48,0.03131384340832482,Health & Hygiene,Medium,Tier 2,Supermarket Type1,816.76
+5.1,67.58,0.03242384097460112,Household,Small,Tier 2,Supermarket Type1,100.0
+9.75,75.52,0.03328246203636087,Health & Hygiene,Medium,Tier 2,Supermarket Type1,100.0
+7.95,191.01,0.07698756071290756,Household,Medium,Tier 2,Supermarket Type1,309.21
+13.26,153.35,0.07194580593409435,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,261.41
+8.37,131.33,0.08111505948721334,Snack Foods,Large,Tier 2,Supermarket Type1,695.12
+6.35,148.35,0.04230938484482123,Snack Foods,Medium,Tier 3,Supermarket Type1,436.64
+17.86,331.22,0.1120057124822179,Fruits & Vegetables,Medium,Tier 2,Supermarket Type2,291.69
+11.1,375.23,0.03649049260905177,Household,Medium,Tier 1,Supermarket Type1,901.42
+12.27,191.79,0.06329817641897348,Health & Hygiene,Medium,Tier 3,Supermarket Type2,349.1
+6.3,367.14,0.04140946604719687,Snack Foods,Small,Tier 1,Supermarket Type1,690.53
+9.82,162.52,0.08512072380694574,Soft Drinks,Small,Tier 1,Supermarket Type2,301.91
+12.44,216.75,0.03595252290553235,Household,Small,Tier 2,Supermarket Type1,228.98
+7.4,129.11,0.1236740908530993,Fruits & Vegetables,Medium,Tier 2,Supermarket Type2,358.67
+13.5,274.17,0.04917654263132263,Household,Large,Tier 1,Grocery Store,908.39
+9.6,392.64,0.06631501327870039,Household,Small,Tier 2,Grocery Store,404.33
+10.83,261.22,0.026307388334718556,Household,Small,Tier 2,Supermarket Type1,188.9
+9.59,175.23,0.05639479479943148,Household,Large,Tier 1,Supermarket Type2,787.5
+19.41,276.74,0.03684725290879472,Snack Foods,Large,Tier 2,Supermarket Type1,811.2
+11.95,93.02,0.05659493018410904,Household,Medium,Tier 2,Grocery Store,161.47
+7.77,361.03,0.09501318881297768,Health & Hygiene,Small,Tier 2,Supermarket Type1,492.75
+15.29,226.08,0.1594428611298885,Household,Small,Tier 1,Supermarket Type1,100.0
+7.12,207.27,0.0661876655933372,Snack Foods,Small,Tier 1,Supermarket Type1,510.37
+12.84,255.05,0.006766308992709784,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,637.61
+4.16,268.67,0.06474738725515865,Snack Foods,Small,Tier 3,Supermarket Type2,258.03
+6.69,75.12,0.01846320076656281,Fruits & Vegetables,Medium,Tier 2,Supermarket Type2,544.05
+12.79,288.92,0.0450880686439532,Health & Hygiene,Small,Tier 2,Supermarket Type1,157.92
+14.95,134.68,0.017162647773194727,Soft Drinks,Small,Tier 1,Supermarket Type1,178.98
+12.69,299.88,0.05559415168470422,Snack Foods,Small,Tier 2,Supermarket Type1,325.12
+11.54,337.89,0.09090135202793334,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,985.62
+10.8,331.39,0.058019975790982954,Snack Foods,Medium,Tier 3,Grocery Store,451.99
+6.09,243.38,0.03932944036390578,Soft Drinks,Medium,Tier 2,Supermarket Type1,611.35
+9.12,232.06,0.03102218760148984,Household,Small,Tier 3,Supermarket Type1,100.0
+10.16,100.01,0.10800195693305427,Snack Foods,Small,Tier 2,Supermarket Type2,522.45
+16.23,321.37,0.05465758329812964,Health & Hygiene,Small,Tier 3,Supermarket Type2,714.44
+13.37,144.99,0.08993830185525371,Soft Drinks,Small,Tier 1,Grocery Store,100.0
+4.95,223.84,0.07525593376813079,Health & Hygiene,Large,Tier 1,Supermarket Type2,614.8
+13.3,149.5,0.03712815652059032,Health & Hygiene,Large,Tier 3,Supermarket Type1,656.39
+10.46,96.84,0.04324689703628195,Health & Hygiene,Medium,Tier 2,Supermarket Type1,449.82
+9.29,270.35,0.10235221153047079,Frozen Foods,Large,Tier 3,Supermarket Type1,772.06
+14.45,69.02,0.043419373490486635,Snack Foods,Medium,Tier 1,Supermarket Type1,608.19
+16.12,312.03,0.03079867754639882,Soft Drinks,Small,Tier 2,Supermarket Type1,681.77
+15.73,161.16,0.027951221592156784,Soft Drinks,Large,Tier 2,Supermarket Type1,700.78
+8.64,50.05,0.07659081478214856,Health & Hygiene,Small,Tier 1,Grocery Store,100.0
+10.76,228.9,0.032782527783222624,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,495.38
+13.33,66.4,0.036781647519191676,Frozen Foods,Small,Tier 2,Supermarket Type1,100.0
+15.9,146.66,0.07411825716819079,Household,Small,Tier 1,Grocery Store,640.34
+10.08,297.44,0.013498398253173165,Household,Medium,Tier 1,Supermarket Type1,641.53
+11.26,71.94,0.05090529523434658,Household,Medium,Tier 1,Supermarket Type1,560.76
+7.57,343.77,0.08679797960833371,Soft Drinks,Small,Tier 1,Supermarket Type1,346.3
+7.22,51.34,0.05220532389155793,Fruits & Vegetables,Small,Tier 2,Grocery Store,100.0
+15.25,136.39,0.04541460624836089,Soft Drinks,Small,Tier 1,Supermarket Type2,100.0
+17.42,309.32,0.06262237939791844,Soft Drinks,Large,Tier 1,Supermarket Type1,1039.75
+11.71,160.69,0.06310440469394356,Household,Medium,Tier 3,Grocery Store,489.25
+16.01,85.66,0.04545628983936354,Household,Medium,Tier 2,Supermarket Type1,126.02
+13.45,176.08,0.00874730227353735,Snack Foods,Small,Tier 2,Supermarket Type1,194.25
+9.42,144.64,0.06563141328164991,Soft Drinks,Large,Tier 2,Grocery Store,836.36
+13.45,344.95,0.01652033976968903,Health & Hygiene,Small,Tier 3,Supermarket Type1,100.0
+18.15,159.67,0.07336722380825492,Health & Hygiene,Small,Tier 1,Supermarket Type2,537.25
+11.86,326.13,0.008504135018814153,Health & Hygiene,Small,Tier 2,Supermarket Type1,122.4
+18.26,362.16,0.019833895896623942,Snack Foods,Large,Tier 2,Grocery Store,1055.75
+4.0,201.84,0.04894353174952004,Health & Hygiene,Small,Tier 2,Supermarket Type2,301.92
+15.29,368.48,0.03866423325867099,Health & Hygiene,Small,Tier 3,Supermarket Type1,100.0
+12.35,182.06,0.03480371734160046,Health & Hygiene,Medium,Tier 3,Supermarket Type2,156.26
+10.8,387.43,0.13452887759992854,Fruits & Vegetables,Small,Tier 3,Grocery Store,112.01
+12.37,81.25,0.06615905007082327,Health & Hygiene,Medium,Tier 1,Supermarket Type1,100.0
+4.05,290.46,0.008884289803671458,Snack Foods,Medium,Tier 1,Supermarket Type1,1386.25
+11.12,222.83,0.07853280418696222,Soft Drinks,Medium,Tier 3,Grocery Store,188.2
+13.43,185.68,0.06664618247323283,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,100.0
+17.91,271.45,0.044943495037310564,Frozen Foods,Small,Tier 1,Supermarket Type1,142.91
+9.93,296.35,0.03269696496210121,Household,Large,Tier 2,Grocery Store,996.25
+8.77,51.53,0.06899960685888284,Household,Large,Tier 1,Supermarket Type1,813.29
+9.99,108.43,0.05537878879008345,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,537.51
+15.66,299.57,0.07672922449589331,Health & Hygiene,Small,Tier 3,Grocery Store,100.0
+13.32,283.23,0.026375059487414927,Fruits & Vegetables,Small,Tier 1,Supermarket Type2,493.23
+9.88,388.12,0.029896927047067194,Household,Medium,Tier 1,Supermarket Type2,809.97
+14.05,316.36,0.018906730532398445,Household,Medium,Tier 1,Supermarket Type1,766.41
+12.39,382.77,0.023441165389574466,Snack Foods,Small,Tier 2,Supermarket Type1,932.84
+15.87,295.89,0.038865776503283565,Household,Medium,Tier 1,Supermarket Type1,544.57
+9.19,154.32,0.05457943948589961,Household,Medium,Tier 2,Supermarket Type1,305.65
+10.69,86.88,0.02673620516873337,Snack Foods,Large,Tier 2,Supermarket Type2,804.12
+10.43,323.64,0.04923088874760603,Snack Foods,Small,Tier 3,Supermarket Type1,529.08
+6.15,275.45,0.09433241091847878,Fruits & Vegetables,Small,Tier 1,Supermarket Type2,570.85
+13.18,66.87,0.06143496797992651,Household,Small,Tier 3,Supermarket Type1,100.0
+13.04,176.02,0.029208254221759485,Household,Large,Tier 1,Supermarket Type1,1149.47
+12.02,384.88,0.0024330310817371977,Health & Hygiene,Medium,Tier 2,Supermarket Type2,405.0
+11.06,225.14,0.050202232444312,Frozen Foods,Medium,Tier 2,Supermarket Type1,310.72
+6.34,201.46,0.027515802299878215,Snack Foods,Small,Tier 1,Supermarket Type1,886.23
+10.32,210.19,0.020500270216401054,Household,Small,Tier 2,Supermarket Type1,327.03
+10.63,123.11,0.04904048332442481,Snack Foods,Small,Tier 1,Supermarket Type1,626.47
+8.79,179.05,0.07995807626162368,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,276.34
+11.35,179.43,0.033439790063376246,Fruits & Vegetables,Small,Tier 2,Supermarket Type2,100.0
+13.62,68.32,0.08040137486598972,Snack Foods,Small,Tier 2,Supermarket Type1,473.37
+19.54,318.65,0.040761798635485014,Frozen Foods,Medium,Tier 1,Supermarket Type2,531.75
+12.7,195.78,0.06867713960743979,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,203.82
+13.03,337.76,0.09459361972051275,Soft Drinks,Medium,Tier 1,Supermarket Type1,758.25
+11.7,347.62,0.002885937690735149,Health & Hygiene,Small,Tier 2,Supermarket Type2,351.31
+4.32,124.2,0.04582019779932681,Frozen Foods,Large,Tier 2,Supermarket Type1,741.94
+11.89,280.07,0.1150069974023021,Snack Foods,Medium,Tier 1,Grocery Store,859.75
+12.24,215.3,0.08187595800753014,Health & Hygiene,Large,Tier 1,Supermarket Type1,847.82
+21.85,358.05,0.02268060981358955,Health & Hygiene,Medium,Tier 2,Supermarket Type1,481.8
+11.23,125.51,0.05488254068644809,Snack Foods,Large,Tier 3,Grocery Store,621.26
+13.21,287.23,0.12146129985609604,Soft Drinks,Large,Tier 2,Supermarket Type2,433.25
+11.86,262.71,0.03189184515809897,Fruits & Vegetables,Medium,Tier 3,Supermarket Type2,440.77
+7.33,153.36,0.0825429383996537,Snack Foods,Large,Tier 1,Supermarket Type1,916.89
+16.57,97.81,0.05114357356264516,Household,Small,Tier 3,Supermarket Type1,172.2
+15.01,278.07,0.03354114622821698,Household,Small,Tier 2,Supermarket Type2,234.58
+15.16,308.51,0.07144077958843303,Frozen Foods,Small,Tier 3,Supermarket Type1,100.0
+8.36,160.47,0.08410658923414216,Fruits & Vegetables,Medium,Tier 1,Grocery Store,460.44
+17.61,275.69,0.024036023961502433,Soft Drinks,Medium,Tier 2,Grocery Store,438.74
+6.39,188.3,0.09313582020757029,Snack Foods,Medium,Tier 2,Grocery Store,797.72
+14.35,299.62,0.0008346586201127003,Snack Foods,Small,Tier 2,Grocery Store,486.67
+20.76,119.73,0.035770686779823424,Fruits & Vegetables,Medium,Tier 3,Supermarket Type1,177.46
+8.04,361.58,0.05462177596688664,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,515.24
+9.73,150.59,0.03378719202364965,Snack Foods,Medium,Tier 3,Grocery Store,562.45
+12.4,178.73,0.049884963234645606,Health & Hygiene,Small,Tier 2,Grocery Store,548.82
+9.99,70.33,0.034291986125680865,Fruits & Vegetables,Large,Tier 2,Supermarket Type1,883.32
+5.8,89.03,0.04788710962013962,Household,Small,Tier 1,Supermarket Type1,117.58
+12.27,230.55,0.0688171872025083,Health & Hygiene,Small,Tier 3,Supermarket Type1,320.25
+7.75,143.66,0.03958098844470536,Fruits & Vegetables,Large,Tier 2,Grocery Store,961.75
+13.89,342.42,0.11359075768678474,Health & Hygiene,Medium,Tier 2,Supermarket Type2,774.25
+8.32,55.14,0.04429587534476651,Snack Foods,Small,Tier 2,Supermarket Type2,556.46
+18.2,182.68,0.036559123012538323,Frozen Foods,Medium,Tier 2,Supermarket Type1,576.06
+8.87,168.07,0.15078037815067893,Household,Small,Tier 3,Supermarket Type1,100.0
+10.71,56.76,0.09236173020314759,Household,Large,Tier 1,Supermarket Type2,500.4
+15.25,93.53,0.07040315539185642,Household,Medium,Tier 1,Grocery Store,369.27
+7.08,194.77,0.01193244196833596,Health & Hygiene,Small,Tier 1,Supermarket Type2,166.88
+12.91,222.5,0.1079619444086038,Soft Drinks,Medium,Tier 3,Supermarket Type1,445.04
+17.23,191.5,0.07309359267462252,Snack Foods,Small,Tier 1,Supermarket Type1,575.68
+5.57,235.83,0.014693065861901632,Soft Drinks,Medium,Tier 1,Supermarket Type1,930.86
+12.74,258.3,0.07311552045376005,Household,Large,Tier 1,Supermarket Type1,557.57
+13.04,53.47,0.024899943796528504,Snack Foods,Large,Tier 2,Supermarket Type1,1111.07
+15.13,212.43,0.0982729093441479,Snack Foods,Small,Tier 2,Supermarket Type1,237.81
+7.05,387.22,0.10754646286040546,Soft Drinks,Small,Tier 1,Supermarket Type1,183.5
+6.72,231.66,0.06563916950261162,Household,Small,Tier 3,Grocery Store,422.37
+14.09,287.14,0.029249053803770582,Snack Foods,Medium,Tier 3,Supermarket Type1,850.69
+13.19,159.15,0.07194420053804207,Health & Hygiene,Medium,Tier 1,Supermarket Type1,488.93
+13.0,320.9,0.015949440674111127,Frozen Foods,Medium,Tier 2,Supermarket Type1,590.61
+13.39,320.52,0.058903439223378706,Fruits & Vegetables,Large,Tier 2,Grocery Store,798.63
+9.28,232.45,0.038752765523790735,Snack Foods,Small,Tier 1,Grocery Store,738.64
+12.93,391.6,0.04260679095259583,Frozen Foods,Small,Tier 1,Supermarket Type1,468.79
+13.17,93.94,0.013167120331775974,Snack Foods,Small,Tier 2,Supermarket Type1,401.51
+9.14,55.93,0.05029047787234292,Health & Hygiene,Small,Tier 2,Grocery Store,475.35
+19.46,319.56,0.021420452753827177,Snack Foods,Small,Tier 1,Supermarket Type2,1320.47
+13.9,332.5,0.031113731314957226,Snack Foods,Medium,Tier 3,Supermarket Type1,998.65
+7.23,92.07,0.06603736349143034,Snack Foods,Small,Tier 2,Supermarket Type1,469.06
+14.63,142.95,0.05472387522183104,Fruits & Vegetables,Small,Tier 2,Grocery Store,107.25
+8.1,56.14,0.029727872025518215,Household,Medium,Tier 1,Supermarket Type1,314.7
+15.15,152.66,0.02043757013921547,Health & Hygiene,Small,Tier 2,Supermarket Type1,100.0
+16.63,320.6,0.03385359344017983,Snack Foods,Medium,Tier 2,Supermarket Type2,728.88
+8.72,231.29,0.03203099489787478,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,745.19
+15.85,171.83,0.03505299837253726,Household,Medium,Tier 3,Supermarket Type1,680.88
+13.65,180.11,0.06154079320313621,Soft Drinks,Large,Tier 3,Supermarket Type2,638.99
+15.29,50.47,0.0379644170813525,Soft Drinks,Small,Tier 2,Grocery Store,100.0
+19.59,154.93,0.10130765162375781,Health & Hygiene,Medium,Tier 2,Grocery Store,409.87
+11.02,276.26,0.022704042493014685,Household,Large,Tier 3,Supermarket Type1,735.24
+8.99,390.97,0.058280001909843546,Health & Hygiene,Medium,Tier 2,Grocery Store,233.08
+8.44,346.47,0.01744319064239806,Snack Foods,Small,Tier 1,Grocery Store,905.9
+8.74,58.26,0.02401015029443012,Soft Drinks,Small,Tier 2,Supermarket Type1,100.0
+11.69,364.5,0.0010187945814989381,Snack Foods,Medium,Tier 1,Supermarket Type1,787.15
+13.36,324.12,0.023770213659096373,Fruits & Vegetables,Large,Tier 3,Supermarket Type1,573.85
+13.11,323.13,0.0069970956533470805,Health & Hygiene,Small,Tier 2,Supermarket Type2,220.92
+15.31,210.3,0.03908559783442114,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,182.99
+12.05,189.3,0.028374096487215214,Household,Small,Tier 1,Grocery Store,393.97
+17.81,156.02,0.007698402356401231,Health & Hygiene,Small,Tier 2,Grocery Store,100.0
+10.94,72.99,0.05433767197537557,Snack Foods,Small,Tier 3,Grocery Store,525.83
+22.88,129.88,0.08696666827861944,Health & Hygiene,Small,Tier 1,Grocery Store,100.0
+14.5,136.31,0.12713278533162614,Snack Foods,Small,Tier 2,Grocery Store,100.0
+8.57,219.43,0.010860466497764374,Frozen Foods,Small,Tier 3,Supermarket Type1,122.57
+7.72,311.61,0.049434116629069394,Health & Hygiene,Large,Tier 2,Supermarket Type1,755.04
+13.93,215.83,0.063611676159328,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,459.23
+11.11,70.25,0.07549740504573554,Health & Hygiene,Small,Tier 2,Supermarket Type2,104.86
+14.86,385.23,0.03910765471473145,Household,Small,Tier 2,Supermarket Type1,592.52
+13.89,379.95,0.053411557374239686,Health & Hygiene,Large,Tier 1,Supermarket Type1,1093.99
+11.71,324.82,0.07350852510762852,Fruits & Vegetables,Medium,Tier 1,Grocery Store,619.33
+8.61,396.96,0.09183030323475547,Snack Foods,Medium,Tier 2,Supermarket Type1,904.02
+5.94,240.57,0.046786688835086916,Health & Hygiene,Small,Tier 3,Supermarket Type1,100.0
+10.21,386.97,0.00572483058019817,Snack Foods,Large,Tier 1,Grocery Store,1371.45
+15.43,76.46,0.03816037181524374,Soft Drinks,Medium,Tier 1,Supermarket Type2,717.86
+12.86,177.99,0.06577856660503875,Health & Hygiene,Small,Tier 2,Supermarket Type1,987.02
+7.02,128.88,0.0300809448868229,Soft Drinks,Medium,Tier 3,Grocery Store,100.0
+12.69,118.54,0.06701795694978357,Health & Hygiene,Large,Tier 1,Supermarket Type2,872.09
+13.54,99.28,0.012451032415235949,Snack Foods,Medium,Tier 3,Supermarket Type2,391.24
+8.46,267.84,0.11982970082678712,Household,Large,Tier 1,Supermarket Type1,1132.1
+12.61,323.46,0.025611291684423422,Fruits & Vegetables,Large,Tier 3,Supermarket Type1,522.33
+12.23,252.4,0.01648054761089135,Household,Small,Tier 2,Supermarket Type1,449.62
+7.43,101.44,0.0224000860559054,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,100.0
+13.43,333.89,0.07480780795356914,Snack Foods,Small,Tier 2,Grocery Store,521.68
+14.24,272.58,0.02494730803214467,Household,Large,Tier 3,Supermarket Type1,635.22
+16.33,185.86,0.053386475656480574,Fruits & Vegetables,Small,Tier 1,Supermarket Type2,506.46
+16.22,285.95,0.10849518334405996,Fruits & Vegetables,Large,Tier 1,Supermarket Type1,691.25
+6.49,140.97,0.022027370673270655,Health & Hygiene,Small,Tier 2,Supermarket Type2,356.78
+8.25,170.82,0.0882280141541946,Snack Foods,Small,Tier 3,Supermarket Type2,196.31
+14.06,371.12,0.06960400059075326,Frozen Foods,Small,Tier 3,Supermarket Type1,287.02
+14.06,151.68,0.005741145277045904,Health & Hygiene,Small,Tier 2,Supermarket Type1,500.09
+14.06,214.5,0.08994522067209816,Fruits & Vegetables,Large,Tier 2,Grocery Store,320.89
+27.41,361.55,0.06748047255994132,Health & Hygiene,Small,Tier 1,Supermarket Type1,682.02
+14.28,297.7,0.005337066907573071,Snack Foods,Medium,Tier 3,Supermarket Type1,634.23
+16.54,71.77,0.04705397547738872,Household,Small,Tier 3,Grocery Store,171.5
+15.82,101.56,0.052843646285887454,Snack Foods,Small,Tier 2,Supermarket Type1,446.81
+14.61,52.74,0.03860345808966158,Soft Drinks,Small,Tier 2,Supermarket Type2,100.0
+10.74,270.82,0.029768473026915127,Frozen Foods,Small,Tier 3,Supermarket Type1,100.0
+15.04,206.69,0.009978535004589907,Health & Hygiene,Large,Tier 3,Grocery Store,870.66
+8.91,97.0,0.06561644370281418,Household,Medium,Tier 2,Grocery Store,526.8
+11.05,385.28,0.0016543930355609436,Household,Small,Tier 2,Supermarket Type1,452.96
+10.06,235.38,0.04654796592121489,Fruits & Vegetables,Medium,Tier 2,Supermarket Type2,275.12
+12.33,134.66,0.03167348776601986,Household,Small,Tier 2,Supermarket Type2,325.53
+21.26,225.21,0.04148756774768644,Household,Small,Tier 2,Supermarket Type1,100.0
+4.53,287.87,0.06224503659131102,Health & Hygiene,Medium,Tier 2,Supermarket Type1,108.35
+14.75,76.68,0.029269796395273422,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,100.0
+5.55,146.15,0.06380647414760558,Frozen Foods,Medium,Tier 2,Grocery Store,268.68
+10.11,332.44,0.045227166248848975,Snack Foods,Medium,Tier 2,Supermarket Type1,552.86
+16.36,210.88,0.032232602467456246,Health & Hygiene,Medium,Tier 1,Supermarket Type1,251.33
+12.26,241.3,0.04894367427358122,Health & Hygiene,Large,Tier 3,Supermarket Type1,390.49
+7.69,201.49,0.043278121023510654,Soft Drinks,Small,Tier 2,Supermarket Type2,413.52
+9.14,65.36,0.08932682337387879,Health & Hygiene,Small,Tier 1,Supermarket Type1,100.0
+14.72,108.01,0.06796118599496527,Soft Drinks,Small,Tier 2,Supermarket Type1,100.0
+9.08,205.94,0.06915865619515284,Health & Hygiene,Small,Tier 3,Grocery Store,437.94
+12.87,123.21,0.06873029568684837,Soft Drinks,Large,Tier 3,Supermarket Type2,429.07
+12.18,67.49,0.017426620141568136,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,460.56
+9.39,345.28,0.02414067296757,Frozen Foods,Medium,Tier 3,Supermarket Type2,299.9
+20.58,393.42,0.030176298659819804,Snack Foods,Medium,Tier 1,Supermarket Type1,1511.62
+14.54,327.6,0.05169118220864002,Frozen Foods,Small,Tier 3,Supermarket Type1,178.15
+4.0,348.82,0.008118103722136717,Household,Medium,Tier 1,Supermarket Type1,630.91
+12.75,134.69,0.040645908730418664,Snack Foods,Medium,Tier 1,Grocery Store,1039.87
+9.35,386.22,0.07650910020399476,Health & Hygiene,Medium,Tier 2,Supermarket Type1,418.39
+15.41,118.92,0.08069069506039771,Fruits & Vegetables,Small,Tier 2,Supermarket Type2,110.14
+8.83,383.0,0.008801776198942474,Soft Drinks,Medium,Tier 2,Grocery Store,683.86
+11.54,398.19,0.05483782675222548,Soft Drinks,Small,Tier 3,Grocery Store,303.8
+14.02,299.1,0.040851261102852934,Health & Hygiene,Medium,Tier 3,Supermarket Type1,437.13
+15.46,393.4,0.06455397158376941,Health & Hygiene,Medium,Tier 2,Supermarket Type1,744.69
+7.2,249.34,0.03888730490066678,Soft Drinks,Small,Tier 2,Supermarket Type1,228.31
+10.66,140.84,0.06293545205535256,Snack Foods,Medium,Tier 1,Supermarket Type1,608.7
+10.1,202.95,0.02559583752663545,Household,Large,Tier 1,Supermarket Type1,762.94
+9.39,257.75,0.014853740379090336,Snack Foods,Small,Tier 2,Supermarket Type2,328.59
+19.06,75.58,0.06828941652357813,Soft Drinks,Large,Tier 1,Supermarket Type1,434.44
+13.62,267.82,0.0664673109930828,Health & Hygiene,Medium,Tier 2,Supermarket Type2,595.55
+6.96,393.41,0.07262758634824878,Soft Drinks,Medium,Tier 2,Supermarket Type1,766.07
+15.67,116.54,0.04815142132552009,Household,Large,Tier 1,Supermarket Type2,1008.53
+20.49,327.41,0.02196226565397841,Snack Foods,Medium,Tier 2,Grocery Store,289.3
+16.13,367.76,0.014543607657108864,Frozen Foods,Large,Tier 1,Grocery Store,969.13
+5.92,380.3,0.046664364946648385,Fruits & Vegetables,Small,Tier 2,Grocery Store,280.07
+10.06,386.05,0.04391352844942378,Household,Small,Tier 3,Supermarket Type1,170.49
+17.07,232.51,0.04970726025323554,Fruits & Vegetables,Medium,Tier 2,Supermarket Type2,314.38
+9.17,392.06,0.02214280400182679,Health & Hygiene,Large,Tier 1,Supermarket Type1,1185.54
+13.78,315.06,0.01935413177116706,Household,Large,Tier 2,Supermarket Type2,895.02
+15.1,106.59,0.025229223003563558,Household,Medium,Tier 1,Supermarket Type1,168.69
+8.29,216.92,0.060263916872426965,Health & Hygiene,Medium,Tier 2,Supermarket Type1,188.85
+11.76,301.42,0.08281491440093414,Frozen Foods,Small,Tier 2,Supermarket Type2,330.48
+4.0,136.57,0.02552646057563725,Fruits & Vegetables,Large,Tier 2,Supermarket Type1,772.74
+7.9,274.22,0.0178680022626186,Household,Small,Tier 3,Supermarket Type1,100.0
+10.99,283.31,0.029225478382709197,Fruits & Vegetables,Medium,Tier 2,Grocery Store,212.04
+7.01,106.94,0.10874143087727674,Fruits & Vegetables,Medium,Tier 1,Supermarket Type2,399.82
+18.53,247.78,0.025472295187879964,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,407.21
+6.28,320.07,0.05628696101343644,Snack Foods,Small,Tier 3,Supermarket Type1,100.0
+10.24,224.61,0.029636356002696873,Household,Large,Tier 1,Grocery Store,829.13
+12.52,54.24,0.027926079588252113,Frozen Foods,Medium,Tier 2,Supermarket Type1,236.79
+17.77,53.16,0.07349854840630812,Health & Hygiene,Large,Tier 2,Supermarket Type2,362.66
+6.26,174.96,0.08669281050563722,Frozen Foods,Small,Tier 2,Supermarket Type2,100.0
+16.65,374.17,0.02279102938539681,Health & Hygiene,Medium,Tier 3,Grocery Store,524.06
+12.04,130.04,0.010293485809720724,Snack Foods,Medium,Tier 2,Supermarket Type1,567.94
+8.07,272.03,0.05258291091755716,Frozen Foods,Medium,Tier 2,Supermarket Type1,543.3
+13.85,127.73,0.044497803291704864,Soft Drinks,Large,Tier 3,Grocery Store,432.28
+12.8,162.58,0.053402147647662386,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,245.04
+9.6,346.81,0.023002647342189205,Fruits & Vegetables,Small,Tier 2,Grocery Store,454.62
+12.28,305.1,0.06602455362082035,Snack Foods,Medium,Tier 2,Supermarket Type1,890.23
+10.46,83.39,0.028130680120812344,Snack Foods,Small,Tier 2,Supermarket Type1,689.42
+12.45,200.05,0.04374660846346741,Soft Drinks,Large,Tier 3,Supermarket Type1,768.39
+14.65,60.21,0.10856081062023804,Health & Hygiene,Small,Tier 1,Supermarket Type1,180.68
+18.34,218.31,0.0256488725562934,Frozen Foods,Medium,Tier 2,Supermarket Type2,419.68
+7.05,281.85,0.029462269595346216,Snack Foods,Small,Tier 3,Grocery Store,433.38
+20.53,91.48,0.019449154618875444,Snack Foods,Medium,Tier 2,Supermarket Type1,467.56
+4.19,151.11,0.030161249112211724,Health & Hygiene,Small,Tier 1,Grocery Store,400.74
+11.39,189.24,0.08224983509496557,Health & Hygiene,Small,Tier 2,Supermarket Type1,349.51
+14.35,371.84,0.1036500277911973,Health & Hygiene,Small,Tier 3,Grocery Store,100.0
+13.12,397.64,0.04982638285775818,Household,Small,Tier 3,Grocery Store,251.31
+9.51,65.72,0.044926554807490346,Soft Drinks,Large,Tier 2,Supermarket Type1,459.26
+11.17,316.35,0.017574331760304117,Household,Small,Tier 1,Supermarket Type1,547.82
+10.03,180.1,0.0333307884822449,Household,Medium,Tier 3,Supermarket Type2,184.8
+9.64,187.36,0.012856040493992431,Health & Hygiene,Large,Tier 2,Supermarket Type1,674.62
+15.4,313.99,0.06877662525087112,Fruits & Vegetables,Medium,Tier 3,Supermarket Type2,179.74
+13.43,371.45,0.01595293338887243,Health & Hygiene,Large,Tier 2,Supermarket Type1,1154.11
+9.23,382.83,0.026014665386441507,Fruits & Vegetables,Large,Tier 1,Grocery Store,992.87
+15.6,251.99,0.013135086318850379,Health & Hygiene,Medium,Tier 2,Supermarket Type1,495.38
+13.23,174.99,0.031244661473501266,Household,Medium,Tier 1,Supermarket Type1,628.61
+15.25,325.64,0.03969117517752274,Frozen Foods,Small,Tier 2,Supermarket Type1,261.31
+14.52,137.85,0.06408632547378974,Household,Medium,Tier 3,Supermarket Type1,443.49
+8.68,247.43,0.033438869927260376,Snack Foods,Large,Tier 2,Supermarket Type1,813.37
+9.76,175.5,0.01729307220393172,Frozen Foods,Medium,Tier 3,Supermarket Type1,227.66
+14.99,279.82,0.09860503510885717,Snack Foods,Medium,Tier 2,Grocery Store,363.65
+14.44,134.14,0.07793848506012567,Fruits & Vegetables,Medium,Tier 3,Grocery Store,100.0
+11.92,117.06,0.050381753164511725,Fruits & Vegetables,Small,Tier 3,Grocery Store,100.0
+12.47,371.38,0.04436787351424723,Fruits & Vegetables,Large,Tier 2,Grocery Store,1147.95
+17.11,85.63,0.10919370052904724,Frozen Foods,Medium,Tier 2,Supermarket Type1,331.04
+9.63,227.09,0.03198037008652316,Health & Hygiene,Small,Tier 2,Grocery Store,450.48
+14.19,127.3,0.03903906901606679,Health & Hygiene,Large,Tier 2,Supermarket Type1,702.06
+11.19,63.63,0.06609627075962986,Household,Medium,Tier 1,Supermarket Type1,267.56
+11.13,62.61,0.0436506859200002,Snack Foods,Medium,Tier 3,Grocery Store,275.25
+16.4,111.33,0.0315415872667042,Soft Drinks,Medium,Tier 3,Supermarket Type2,554.14
+15.3,353.37,0.06428395475960608,Household,Small,Tier 2,Supermarket Type1,614.32
+15.25,148.87,0.07582537130446718,Frozen Foods,Large,Tier 2,Grocery Store,614.13
+17.22,382.66,0.023716407872500817,Snack Foods,Medium,Tier 2,Supermarket Type2,743.68
+12.08,253.57,0.04699615394336742,Fruits & Vegetables,Small,Tier 2,Grocery Store,560.38
+14.73,202.81,0.10119135514599285,Fruits & Vegetables,Small,Tier 2,Grocery Store,100.0
+10.76,253.03,0.0652526794258674,Household,Large,Tier 3,Supermarket Type1,654.32
+13.3,230.84,0.04880619682149218,Snack Foods,Small,Tier 2,Supermarket Type1,803.59
+11.48,315.57,0.057573596040018646,Fruits & Vegetables,Large,Tier 1,Supermarket Type1,770.17
+12.39,148.87,0.016530457469793036,Household,Small,Tier 3,Grocery Store,283.04
+14.38,173.57,0.041335296658751276,Frozen Foods,Medium,Tier 2,Supermarket Type2,475.69
+8.73,362.93,0.023743599611254152,Fruits & Vegetables,Large,Tier 3,Supermarket Type1,667.38
+20.37,381.26,0.05313296886077646,Household,Small,Tier 1,Grocery Store,229.13
+7.98,362.4,0.10459643179239553,Health & Hygiene,Medium,Tier 1,Supermarket Type1,553.11
+7.14,196.81,0.021714367013844316,Fruits & Vegetables,Medium,Tier 3,Supermarket Type2,323.34
+16.63,323.13,0.04209753279903734,Snack Foods,Medium,Tier 1,Grocery Store,724.0
+15.17,216.72,0.027411080009447898,Frozen Foods,Medium,Tier 3,Supermarket Type1,315.12
+14.5,224.14,0.021787632962093174,Snack Foods,Medium,Tier 3,Supermarket Type1,700.2
+14.51,121.64,0.059392799822598714,Snack Foods,Medium,Tier 2,Supermarket Type1,817.07
+11.95,256.9,0.01841487032781048,Household,Large,Tier 1,Supermarket Type1,717.32
+8.41,115.15,0.06441885260543306,Health & Hygiene,Medium,Tier 2,Supermarket Type2,558.92
+12.3,166.05,0.06417012114714739,Snack Foods,Small,Tier 3,Grocery Store,576.78
+9.29,349.26,0.03156776448031778,Health & Hygiene,Large,Tier 2,Grocery Store,1068.56
+15.9,122.48,0.048680148757721566,Frozen Foods,Medium,Tier 2,Supermarket Type2,142.89
+11.41,74.91,0.14655121969489723,Health & Hygiene,Small,Tier 2,Supermarket Type1,100.0
+8.7,74.15,0.005237569488598439,Soft Drinks,Small,Tier 1,Supermarket Type1,340.95
+10.71,379.27,0.037964951131224105,Health & Hygiene,Small,Tier 3,Supermarket Type1,268.27
+13.65,227.42,0.09956109103177714,Snack Foods,Small,Tier 3,Supermarket Type1,204.53
+9.75,193.29,0.060773001505043674,Snack Foods,Small,Tier 3,Supermarket Type1,374.18
+8.71,333.81,0.059076131790849376,Soft Drinks,Small,Tier 2,Supermarket Type2,348.43
+12.97,342.54,0.10097096938915966,Health & Hygiene,Medium,Tier 3,Supermarket Type1,288.26
+12.98,166.27,0.07975681691271821,Health & Hygiene,Small,Tier 1,Supermarket Type1,223.35
+9.97,292.77,0.057092847769925056,Household,Small,Tier 2,Supermarket Type1,289.69
+10.12,319.89,0.0685905215114556,Soft Drinks,Small,Tier 2,Supermarket Type1,263.72
+12.93,279.13,0.02291840910202045,Household,Small,Tier 3,Supermarket Type1,508.68
+6.21,103.06,0.03960011754043812,Snack Foods,Small,Tier 3,Supermarket Type1,537.04
+6.37,356.56,0.09573919693221324,Household,Medium,Tier 3,Grocery Store,512.6
+9.13,238.68,0.09673053955492684,Frozen Foods,Large,Tier 3,Supermarket Type1,724.11
+11.15,148.87,0.053533923650895834,Health & Hygiene,Large,Tier 3,Supermarket Type1,627.42
+13.24,198.83,0.03936971722097107,Fruits & Vegetables,Large,Tier 1,Supermarket Type1,978.13
+17.9,63.15,0.023128959182708617,Snack Foods,Small,Tier 3,Supermarket Type1,100.0
+15.43,94.75,0.06822290234907505,Snack Foods,Small,Tier 2,Grocery Store,285.99
+11.36,317.94,0.00507712047695797,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,331.14
+11.92,50.0,0.025450364435573133,Household,Medium,Tier 1,Supermarket Type1,277.17
+7.99,195.8,0.05840351631563824,Snack Foods,Small,Tier 2,Supermarket Type1,130.17
+11.93,232.88,0.057459463408361056,Household,Medium,Tier 2,Supermarket Type1,595.52
+10.85,69.12,0.03996290340623205,Health & Hygiene,Small,Tier 2,Supermarket Type1,199.39
+13.29,390.58,0.06840173171522966,Health & Hygiene,Small,Tier 2,Grocery Store,119.17
+8.69,129.14,0.05593111790504625,Household,Large,Tier 3,Supermarket Type1,332.97
+14.08,156.47,0.11951997389617312,Household,Medium,Tier 3,Grocery Store,298.13
+18.13,156.38,0.03820024355303923,Snack Foods,Large,Tier 2,Supermarket Type1,794.56
+11.56,130.65,0.020084567014904877,Soft Drinks,Medium,Tier 2,Grocery Store,450.19
+13.61,50.52,0.0554076078977667,Household,Large,Tier 1,Grocery Store,708.69
+14.76,305.27,0.0197469255959062,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,669.47
+10.4,388.4,0.01561466306312535,Snack Foods,Large,Tier 1,Supermarket Type1,1180.9
+12.9,128.5,0.03411451892811961,Health & Hygiene,Small,Tier 3,Supermarket Type1,100.0
+12.05,282.07,0.01856658814441997,Frozen Foods,Medium,Tier 2,Supermarket Type1,643.49
+12.39,309.66,0.05623102297518461,Frozen Foods,Medium,Tier 1,Supermarket Type1,680.49
+8.91,346.95,0.021525090227211496,Health & Hygiene,Small,Tier 2,Supermarket Type1,361.65
+12.1,197.92,0.04353494121333298,Soft Drinks,Large,Tier 2,Supermarket Type1,850.24
+13.99,156.03,0.020986436469055642,Soft Drinks,Large,Tier 2,Supermarket Type1,1189.58
+17.8,163.85,0.013967073386340628,Snack Foods,Medium,Tier 1,Supermarket Type1,1384.09
+15.84,299.42,0.06683720140804868,Health & Hygiene,Small,Tier 3,Supermarket Type1,100.0
+20.61,335.87,0.0941452026482631,Soft Drinks,Medium,Tier 1,Supermarket Type2,185.0
+8.93,113.56,0.06607563100767448,Health & Hygiene,Large,Tier 1,Grocery Store,868.61
+15.49,179.83,0.015245894933448027,Soft Drinks,Medium,Tier 1,Supermarket Type2,600.93
+12.73,365.68,0.1345595264386929,Soft Drinks,Small,Tier 2,Grocery Store,483.42
+20.76,332.34,0.027167483072939178,Household,Medium,Tier 1,Supermarket Type1,698.8
+8.77,394.7,0.031949155581889106,Household,Small,Tier 1,Supermarket Type1,644.6
+8.64,313.99,0.10688223416691296,Soft Drinks,Medium,Tier 2,Supermarket Type1,537.1
+9.6,187.62,0.0569764455804944,Household,Small,Tier 2,Grocery Store,432.9
+4.0,256.72,0.03800836185896002,Snack Foods,Medium,Tier 1,Supermarket Type2,536.36
+9.9,281.35,0.03718592859782951,Household,Medium,Tier 2,Supermarket Type2,355.83
+8.96,77.46,0.07887016096323653,Health & Hygiene,Small,Tier 2,Supermarket Type1,100.0
+12.6,240.57,0.037182126239854243,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,394.48
+13.37,298.26,0.03727636629404745,Health & Hygiene,Small,Tier 2,Supermarket Type2,256.97
+19.5,108.56,0.028929352818852765,Snack Foods,Small,Tier 1,Supermarket Type2,703.95
+15.8,323.22,0.02428894934290735,Household,Small,Tier 1,Supermarket Type1,712.35
+9.69,254.32,0.03891959245125677,Snack Foods,Large,Tier 2,Supermarket Type1,1436.73
+8.41,383.28,0.08786368217467129,Household,Large,Tier 1,Supermarket Type1,1180.46
+13.97,64.85,0.012438781078813457,Household,Large,Tier 1,Supermarket Type1,681.31
+6.72,142.86,0.04132147667502203,Frozen Foods,Large,Tier 2,Supermarket Type1,699.15
+19.33,260.54,0.027407505895320705,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,118.27
+16.72,153.8,0.03497789247893562,Health & Hygiene,Small,Tier 2,Grocery Store,363.5
+10.12,300.05,0.032267773275811595,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,333.75
+5.15,315.65,0.03717054853919716,Snack Foods,Large,Tier 3,Supermarket Type1,1428.54
+17.42,85.88,0.09318084268641667,Frozen Foods,Medium,Tier 3,Supermarket Type2,100.0
+11.54,229.85,0.026296976251752553,Snack Foods,Small,Tier 3,Supermarket Type2,542.81
+16.95,228.11,0.08375613500334246,Frozen Foods,Small,Tier 2,Supermarket Type1,691.73
+5.62,179.25,0.053406543108947976,Snack Foods,Medium,Tier 2,Supermarket Type1,562.13
+9.6,376.52,0.11547763522737121,Soft Drinks,Medium,Tier 1,Grocery Store,507.82
+12.02,339.63,0.013635202805869858,Soft Drinks,Large,Tier 2,Supermarket Type1,658.86
+12.19,294.02,0.010698099120046545,Fruits & Vegetables,Small,Tier 3,Grocery Store,340.08
+10.2,300.01,0.03662022321903248,Snack Foods,Large,Tier 2,Supermarket Type1,925.87
+14.49,211.6,0.05085131933866174,Household,Medium,Tier 2,Supermarket Type1,622.39
+7.73,372.35,0.08394894802042595,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,616.67
+11.43,293.11,0.022762484286003512,Frozen Foods,Large,Tier 2,Grocery Store,581.87
+12.48,305.14,0.006987148176792191,Snack Foods,Large,Tier 2,Supermarket Type2,1295.77
+14.06,351.59,0.12981989230850788,Snack Foods,Small,Tier 2,Supermarket Type1,444.55
+14.85,145.93,0.035737162487932364,Soft Drinks,Small,Tier 2,Grocery Store,377.79
+7.5,332.47,0.07615366612574592,Household,Medium,Tier 2,Grocery Store,206.0
+5.86,118.33,0.01821906649140524,Household,Medium,Tier 3,Supermarket Type1,313.89
+17.11,170.87,0.03589376598921716,Fruits & Vegetables,Medium,Tier 3,Grocery Store,389.0
+13.33,167.46,0.013655123749342336,Soft Drinks,Large,Tier 1,Supermarket Type1,846.81
+9.01,392.48,0.12686606931825983,Snack Foods,Small,Tier 3,Supermarket Type1,193.3
+18.2,349.79,0.03206630171933502,Frozen Foods,Medium,Tier 2,Supermarket Type2,577.03
+12.46,295.41,0.010552873916505584,Soft Drinks,Small,Tier 2,Grocery Store,583.84
+16.72,304.47,0.09900450482617638,Snack Foods,Large,Tier 2,Supermarket Type1,1113.33
+12.27,246.73,0.037458115697066044,Snack Foods,Large,Tier 2,Supermarket Type1,1006.14
+20.24,381.48,0.12223760922916928,Snack Foods,Medium,Tier 1,Supermarket Type1,699.07
+19.02,223.69,0.045666504510871286,Snack Foods,Small,Tier 2,Supermarket Type1,388.95
+11.0,183.18,0.03983648796703586,Snack Foods,Medium,Tier 2,Supermarket Type2,555.53
+15.89,107.06,0.08444631844502841,Household,Medium,Tier 2,Grocery Store,369.0
+14.58,325.17,0.022208301164232242,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,423.65
+17.47,307.06,0.03515225689573675,Household,Large,Tier 2,Supermarket Type2,680.46
+8.14,184.52,0.0539054115655497,Snack Foods,Large,Tier 2,Grocery Store,1186.68
+14.74,58.82,0.06739829412984231,Health & Hygiene,Medium,Tier 3,Grocery Store,152.2
+16.23,343.65,0.047015885916184046,Frozen Foods,Medium,Tier 2,Grocery Store,745.95
+4.97,54.0,0.007949395529476764,Household,Small,Tier 1,Supermarket Type1,100.0
+7.27,296.29,0.043565282338717974,Soft Drinks,Medium,Tier 2,Supermarket Type1,133.02
+4.0,389.59,0.0347571289419177,Health & Hygiene,Medium,Tier 2,Grocery Store,294.72
+10.92,203.18,0.04544831083077088,Health & Hygiene,Small,Tier 2,Supermarket Type1,167.44
+14.87,132.24,0.04195031955221277,Snack Foods,Small,Tier 1,Supermarket Type1,700.48
+18.01,296.7,0.042310457638860516,Health & Hygiene,Small,Tier 2,Grocery Store,100.0
+12.3,335.99,0.05140876899886413,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,547.93
+18.51,241.25,0.0801451483993039,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,411.28
+6.48,388.46,0.02011719520765345,Fruits & Vegetables,Medium,Tier 2,Supermarket Type2,810.35
+5.19,68.08,0.03418241063719597,Soft Drinks,Medium,Tier 3,Supermarket Type1,100.0
+11.78,226.68,0.021107164779826833,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,254.71
+13.54,301.46,0.029659017883299377,Snack Foods,Medium,Tier 2,Supermarket Type1,751.06
+11.87,351.92,0.0460867405404437,Snack Foods,Large,Tier 2,Supermarket Type1,1377.81
+4.0,112.74,0.017802519565930253,Household,Medium,Tier 3,Supermarket Type1,191.96
+11.64,330.0,0.05128245216949078,Health & Hygiene,Large,Tier 2,Supermarket Type2,901.61
+6.78,243.45,0.04957257513874735,Household,Medium,Tier 1,Supermarket Type1,769.42
+14.68,188.79,0.019718012870309068,Frozen Foods,Medium,Tier 1,Supermarket Type2,495.53
+13.47,96.1,0.029980051314224144,Soft Drinks,Small,Tier 2,Supermarket Type2,207.23
+8.24,352.85,0.006692661283312887,Fruits & Vegetables,Medium,Tier 3,Grocery Store,106.32
+9.94,105.05,0.02399821432632496,Snack Foods,Large,Tier 1,Grocery Store,1211.55
+7.76,158.43,0.031973686280992654,Health & Hygiene,Large,Tier 1,Grocery Store,1212.16
+11.75,151.52,0.02778362936082999,Health & Hygiene,Large,Tier 3,Supermarket Type1,353.95
+15.82,354.99,0.008295749280988435,Health & Hygiene,Small,Tier 3,Grocery Store,301.93
+8.06,285.45,0.01749917138129849,Household,Medium,Tier 1,Supermarket Type2,851.91
+14.02,328.84,0.039632109232849703,Snack Foods,Medium,Tier 2,Grocery Store,702.37
+9.88,137.66,0.09270799021925147,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,349.84
+8.83,268.71,0.06387982114968889,Household,Small,Tier 2,Grocery Store,110.33
+11.57,250.11,0.048377438075087244,Fruits & Vegetables,Large,Tier 3,Supermarket Type2,605.62
+7.86,341.49,0.06064688821700885,Household,Large,Tier 1,Supermarket Type1,946.52
+9.79,367.13,0.10458176247780983,Health & Hygiene,Medium,Tier 1,Supermarket Type2,570.21
+7.21,54.25,0.015373449948608264,Frozen Foods,Small,Tier 1,Supermarket Type2,100.0
+19.86,285.91,0.09727188864068802,Snack Foods,Small,Tier 1,Supermarket Type1,660.69
+12.14,68.14,0.05577647141862512,Snack Foods,Medium,Tier 1,Grocery Store,1003.91
+9.2,242.1,0.08587684576267457,Snack Foods,Small,Tier 1,Grocery Store,484.5
+12.86,150.67,0.01734201630216026,Health & Hygiene,Large,Tier 3,Grocery Store,338.88
+11.55,157.37,0.035111500154606026,Household,Medium,Tier 1,Supermarket Type1,579.78
+11.12,173.54,0.07389487232357494,Snack Foods,Medium,Tier 3,Grocery Store,330.19
+14.46,267.45,0.03796534592299878,Frozen Foods,Medium,Tier 2,Grocery Store,186.49
+15.03,166.92,0.029339473024154666,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,224.23
+9.88,306.44,0.10742501836923311,Snack Foods,Large,Tier 1,Supermarket Type1,895.73
+9.7,191.58,0.0431825020106867,Health & Hygiene,Medium,Tier 1,Supermarket Type1,419.83
+10.9,73.92,0.044348613991587744,Fruits & Vegetables,Large,Tier 2,Supermarket Type1,640.86
+4.0,324.32,0.09105559699291878,Fruits & Vegetables,Medium,Tier 2,Supermarket Type2,172.91
+5.94,150.02,0.09654374459126853,Household,Medium,Tier 3,Supermarket Type1,100.0
+17.47,201.47,0.018402100402707625,Soft Drinks,Small,Tier 3,Grocery Store,252.73
+18.58,289.91,0.043792539903525954,Soft Drinks,Medium,Tier 2,Supermarket Type1,148.05
+11.0,166.36,0.06677548818464664,Snack Foods,Medium,Tier 2,Supermarket Type2,388.16
+14.31,69.8,0.10630515828866578,Snack Foods,Medium,Tier 3,Grocery Store,100.0
+13.25,180.87,0.020835274899572476,Health & Hygiene,Medium,Tier 2,Supermarket Type1,311.9
+24.32,380.56,0.07197072429004621,Soft Drinks,Small,Tier 3,Supermarket Type1,165.51
+16.48,274.61,0.03814264396388391,Health & Hygiene,Large,Tier 3,Grocery Store,744.16
+11.49,285.02,0.09532913959975288,Health & Hygiene,Large,Tier 1,Supermarket Type2,1361.48
+8.18,271.3,0.02187265637164917,Snack Foods,Small,Tier 2,Supermarket Type1,721.54
+5.57,119.65,0.09892928441469977,Snack Foods,Large,Tier 2,Supermarket Type1,608.49
+12.81,196.42,0.05761435232952309,Health & Hygiene,Small,Tier 2,Supermarket Type1,100.0
+8.97,312.83,0.03561274570025961,Health & Hygiene,Medium,Tier 2,Supermarket Type1,1103.11
+6.31,85.48,0.011767380239525655,Fruits & Vegetables,Small,Tier 3,Grocery Store,263.0
+9.41,147.25,0.05802792093667089,Fruits & Vegetables,Large,Tier 1,Grocery Store,925.03
+7.67,146.71,0.0446829038320576,Health & Hygiene,Small,Tier 1,Grocery Store,331.26
+18.75,201.21,0.007686474870265468,Household,Medium,Tier 1,Grocery Store,659.35
+15.53,393.13,0.10000890508250948,Health & Hygiene,Medium,Tier 2,Supermarket Type1,254.43
+11.97,73.63,0.03400620622222486,Frozen Foods,Small,Tier 2,Supermarket Type2,195.56
+17.92,231.55,0.08959906261689145,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,453.86
+12.31,112.78,0.06246840709985218,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,100.0
+8.55,389.74,0.10699102469117497,Household,Medium,Tier 1,Supermarket Type1,575.04
+18.09,89.66,0.0033969243973585024,Household,Large,Tier 1,Supermarket Type1,1186.67
+14.16,191.26,0.05323606798794383,Snack Foods,Large,Tier 2,Supermarket Type2,990.92
+7.85,308.26,0.1208596236000209,Soft Drinks,Large,Tier 2,Grocery Store,1031.22
+11.24,296.59,0.02190361323775904,Health & Hygiene,Small,Tier 2,Supermarket Type2,100.0
+8.5,197.96,0.05002109612279745,Snack Foods,Small,Tier 3,Supermarket Type1,152.08
+6.47,171.28,0.013401059655940907,Snack Foods,Medium,Tier 3,Supermarket Type2,275.07
+15.7,189.16,0.12390937773772945,Snack Foods,Small,Tier 1,Supermarket Type1,201.33
+19.64,142.5,0.0374771115572247,Snack Foods,Large,Tier 2,Supermarket Type1,807.35
+6.41,121.87,0.05824878573761124,Snack Foods,Small,Tier 2,Grocery Store,481.15
+14.25,219.06,0.03848374482489006,Fruits & Vegetables,Large,Tier 3,Grocery Store,641.87
+9.4,143.99,0.08464312239491252,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,100.0
+10.05,150.61,0.03141872901863046,Fruits & Vegetables,Large,Tier 1,Supermarket Type2,379.29
+9.63,279.86,0.029311751831983444,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,758.52
+8.54,388.99,0.045296261845035435,Soft Drinks,Small,Tier 2,Supermarket Type1,294.99
+12.19,261.27,0.010023180404764867,Household,Medium,Tier 2,Supermarket Type2,270.82
+8.68,76.94,0.006136522762546277,Health & Hygiene,Small,Tier 2,Supermarket Type1,279.36
+13.08,76.45,0.059379581537275364,Health & Hygiene,Medium,Tier 1,Supermarket Type1,468.28
+11.8,383.0,0.007851981914989767,Health & Hygiene,Medium,Tier 2,Grocery Store,631.7
+11.04,154.05,0.035045196853060685,Health & Hygiene,Small,Tier 1,Grocery Store,432.63
+8.37,82.22,0.021421190759704226,Household,Large,Tier 1,Supermarket Type2,619.75
+9.69,259.67,0.04146093259496191,Snack Foods,Medium,Tier 1,Supermarket Type2,1093.08
+15.02,268.28,0.07575133478827868,Household,Medium,Tier 2,Supermarket Type1,166.34
+14.0,276.98,0.07578835612589889,Health & Hygiene,Medium,Tier 2,Supermarket Type1,374.29
+8.09,143.59,0.04288002147334462,Health & Hygiene,Medium,Tier 2,Supermarket Type1,493.59
+12.4,55.29,0.051967549999556314,Health & Hygiene,Small,Tier 1,Supermarket Type2,500.2
+15.01,387.76,0.07699638968918814,Snack Foods,Small,Tier 1,Supermarket Type1,1099.51
+5.32,137.81,0.055413391305846944,Soft Drinks,Medium,Tier 1,Supermarket Type1,744.99
+14.17,286.61,0.026781687793236406,Fruits & Vegetables,Medium,Tier 2,Grocery Store,391.99
+9.35,297.32,0.008262662913623656,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,245.22
+14.28,263.5,0.07897193837926207,Soft Drinks,Medium,Tier 2,Grocery Store,756.28
+8.95,159.52,0.12882353424409926,Frozen Foods,Medium,Tier 1,Supermarket Type2,692.46
+4.78,144.88,0.02996301829360316,Health & Hygiene,Small,Tier 1,Supermarket Type1,181.02
+5.49,259.18,0.03603472789658363,Fruits & Vegetables,Small,Tier 1,Supermarket Type2,712.15
+12.19,353.13,0.006078171831874702,Health & Hygiene,Medium,Tier 1,Supermarket Type1,608.69
+13.04,381.36,0.03385156993191424,Snack Foods,Small,Tier 2,Supermarket Type2,987.28
+8.38,87.07,0.03914746987916344,Health & Hygiene,Small,Tier 2,Supermarket Type1,100.0
+14.55,104.19,0.025473266489467017,Health & Hygiene,Small,Tier 3,Supermarket Type1,404.71
+5.35,380.66,0.02294743787867164,Health & Hygiene,Large,Tier 1,Supermarket Type1,1114.45
+11.74,307.79,0.046096191170274005,Household,Medium,Tier 1,Grocery Store,1090.32
+7.16,359.05,0.042907397232903544,Health & Hygiene,Small,Tier 2,Supermarket Type2,247.63
+9.39,120.92,0.02480947607895549,Household,Small,Tier 3,Supermarket Type1,100.91
+12.19,255.66,0.08067107351478617,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,259.12
+8.56,295.4,0.0025966727078665028,Snack Foods,Medium,Tier 2,Supermarket Type2,1086.89
+10.46,288.04,0.07207552131292792,Health & Hygiene,Medium,Tier 2,Supermarket Type2,648.11
+16.03,192.85,0.024560670302334605,Snack Foods,Large,Tier 1,Supermarket Type1,1598.47
+9.69,55.39,0.0392640766896793,Health & Hygiene,Medium,Tier 3,Supermarket Type2,246.17
+15.34,254.02,0.060170531859549,Soft Drinks,Small,Tier 2,Grocery Store,426.1
+7.48,138.59,0.05100574368346039,Household,Medium,Tier 3,Grocery Store,126.49
+14.12,207.59,0.030496347691429046,Health & Hygiene,Large,Tier 2,Supermarket Type1,895.65
+17.77,385.15,0.027236704239959414,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,631.36
+4.0,189.66,0.040256288487050214,Health & Hygiene,Medium,Tier 1,Supermarket Type1,595.14
+8.81,343.93,0.08381308643142137,Household,Small,Tier 2,Supermarket Type1,219.22
+14.31,115.99,0.0536427082828802,Snack Foods,Small,Tier 1,Supermarket Type1,506.57
+11.19,285.36,0.021839303330934114,Frozen Foods,Medium,Tier 2,Supermarket Type2,570.51
+13.48,391.95,0.10888793807374719,Household,Large,Tier 2,Supermarket Type1,721.96
+9.58,85.66,0.010779599858623794,Frozen Foods,Medium,Tier 3,Supermarket Type2,201.29
+12.35,52.91,0.09190025697092567,Household,Medium,Tier 2,Supermarket Type1,442.49
+11.38,201.75,0.06529468912676926,Household,Small,Tier 2,Supermarket Type1,236.16
+16.67,82.42,0.012248757469709512,Household,Small,Tier 1,Supermarket Type1,403.3
+13.02,311.93,0.08052594974071194,Snack Foods,Medium,Tier 2,Supermarket Type1,521.17
+13.35,370.09,0.0673890878638884,Soft Drinks,Small,Tier 1,Supermarket Type2,611.33
+10.35,201.91,0.06163675418276318,Snack Foods,Medium,Tier 2,Grocery Store,741.49
+10.05,140.55,0.021945422742869907,Health & Hygiene,Small,Tier 3,Grocery Store,100.0
+10.27,202.04,0.041115700572279486,Snack Foods,Medium,Tier 1,Supermarket Type2,1244.61
+13.58,303.21,0.030799389161333686,Soft Drinks,Large,Tier 1,Supermarket Type1,620.7
+10.32,53.17,0.0589433075563935,Snack Foods,Medium,Tier 2,Grocery Store,683.53
+13.16,256.31,0.018234052069838552,Snack Foods,Small,Tier 3,Grocery Store,632.0
+20.3,264.65,0.11322523256590207,Soft Drinks,Medium,Tier 2,Supermarket Type2,519.84
+15.48,273.19,0.05022361493867027,Fruits & Vegetables,Large,Tier 1,Supermarket Type2,1029.03
+10.7,134.71,0.03524570600422554,Health & Hygiene,Medium,Tier 3,Supermarket Type1,375.1
+16.8,299.92,0.06164982562971756,Soft Drinks,Small,Tier 3,Supermarket Type1,379.77
+10.37,81.99,0.10305288086054108,Household,Small,Tier 1,Supermarket Type2,100.0
+4.0,119.74,0.02805561597034204,Soft Drinks,Small,Tier 3,Supermarket Type1,100.0
+7.97,357.11,0.08382984579500553,Fruits & Vegetables,Small,Tier 2,Supermarket Type2,334.83
+4.52,308.55,0.049071120586479035,Household,Large,Tier 2,Supermarket Type1,594.98
+10.59,54.81,0.038465873706126925,Fruits & Vegetables,Large,Tier 2,Supermarket Type2,748.79
+12.07,136.93,0.0048433182450758425,Soft Drinks,Small,Tier 3,Supermarket Type1,100.0
+18.71,125.04,0.05202871808271626,Soft Drinks,Small,Tier 2,Grocery Store,100.0
+13.31,144.78,0.06742305524534649,Health & Hygiene,Small,Tier 1,Supermarket Type1,205.83
+11.12,136.65,0.08731380064407823,Fruits & Vegetables,Large,Tier 3,Supermarket Type1,301.91
+15.32,71.88,0.07250306115461767,Snack Foods,Medium,Tier 1,Supermarket Type2,856.89
+4.0,210.63,0.04159848181674416,Soft Drinks,Medium,Tier 2,Grocery Store,527.63
+12.94,306.46,0.023588778537470732,Household,Medium,Tier 2,Supermarket Type2,792.87
+15.08,262.36,0.005479205934869966,Snack Foods,Medium,Tier 1,Supermarket Type1,882.54
+6.09,285.51,0.07693964263374954,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,561.4
+16.58,78.4,0.06427968863727529,Household,Small,Tier 3,Grocery Store,518.71
+13.35,383.02,0.04348586030864122,Snack Foods,Medium,Tier 2,Supermarket Type1,878.0
+10.34,343.47,0.021203716245017833,Snack Foods,Medium,Tier 2,Supermarket Type1,985.12
+14.53,331.78,0.00954190134972146,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,630.91
+21.08,338.04,0.104048060877461,Household,Small,Tier 2,Grocery Store,100.0
+12.73,376.45,0.10246706513149499,Household,Small,Tier 2,Supermarket Type1,507.31
+12.99,240.49,0.13712895856685545,Household,Medium,Tier 1,Supermarket Type2,516.39
+10.16,120.1,0.11039805490491035,Household,Medium,Tier 2,Supermarket Type1,173.66
+8.6,265.87,0.04083702377794758,Frozen Foods,Large,Tier 3,Supermarket Type1,491.34
+15.32,310.01,0.01749868249320959,Snack Foods,Small,Tier 2,Supermarket Type1,685.44
+8.58,308.27,0.03588948579107173,Snack Foods,Small,Tier 1,Supermarket Type2,548.8
+12.29,232.51,0.021287290941012057,Soft Drinks,Small,Tier 3,Supermarket Type1,660.74
+10.09,73.96,0.025764819890572613,Soft Drinks,Medium,Tier 3,Grocery Store,220.46
+13.92,179.89,0.06245477408946567,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,311.33
+13.33,372.27,0.02144233053741481,Fruits & Vegetables,Medium,Tier 3,Supermarket Type1,353.8
+16.15,254.56,0.05197521570118448,Health & Hygiene,Small,Tier 2,Grocery Store,233.97
+9.96,238.42,0.014843347463153125,Fruits & Vegetables,Medium,Tier 1,Supermarket Type2,1106.19
+10.92,144.1,0.05014878273747391,Fruits & Vegetables,Large,Tier 1,Supermarket Type1,642.29
+8.08,178.96,0.0416543092159342,Fruits & Vegetables,Large,Tier 2,Supermarket Type1,755.71
+10.22,363.37,0.1127983455051375,Snack Foods,Large,Tier 3,Supermarket Type1,648.2
+13.51,283.26,0.015201423160390012,Snack Foods,Medium,Tier 1,Supermarket Type2,1087.27
+15.03,325.59,0.03241061507721009,Health & Hygiene,Large,Tier 1,Grocery Store,924.78
+8.31,209.02,0.03302450937378584,Health & Hygiene,Small,Tier 2,Supermarket Type1,100.0
+15.48,270.59,0.08474301220819591,Frozen Foods,Small,Tier 2,Grocery Store,193.26
+17.42,136.93,0.03528399026667204,Frozen Foods,Small,Tier 1,Supermarket Type1,286.16
+13.65,296.91,0.06125478677729627,Household,Medium,Tier 1,Supermarket Type1,411.02
+19.51,199.66,0.05079254647652162,Household,Large,Tier 2,Supermarket Type1,666.28
+8.9,204.89,0.01649629983985639,Fruits & Vegetables,Small,Tier 3,Grocery Store,425.0
+7.02,277.26,0.022202032070768856,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,414.08
+4.89,377.7,0.0710549071004606,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,279.18
+17.98,72.4,0.05856396741009008,Household,Large,Tier 2,Supermarket Type1,515.7
+14.62,338.66,0.03329189334448529,Household,Medium,Tier 2,Supermarket Type2,695.95
+11.78,152.33,0.007947714548988351,Health & Hygiene,Large,Tier 3,Supermarket Type1,394.44
+13.12,205.37,0.02018072003189507,Snack Foods,Small,Tier 3,Supermarket Type1,766.81
+7.5,57.67,0.0494821540450436,Health & Hygiene,Small,Tier 1,Grocery Store,409.78
+21.78,155.37,0.023077320022952322,Frozen Foods,Medium,Tier 2,Supermarket Type1,767.02
+12.52,225.92,0.11863337990855559,Snack Foods,Small,Tier 2,Supermarket Type2,493.04
+12.44,69.66,0.15269922728607435,Household,Small,Tier 2,Supermarket Type2,100.0
+14.9,221.88,0.03727860890853743,Household,Medium,Tier 2,Supermarket Type1,754.73
+13.92,374.49,0.07104699315208315,Fruits & Vegetables,Medium,Tier 3,Supermarket Type1,193.0
+12.9,86.89,0.05654710914443971,Health & Hygiene,Medium,Tier 3,Grocery Store,100.0
+8.84,317.55,0.08036834000149579,Health & Hygiene,Small,Tier 2,Supermarket Type2,237.28
+13.89,193.38,0.14291575256542915,Fruits & Vegetables,Medium,Tier 3,Supermarket Type1,289.61
+19.53,279.31,0.057594945080270576,Household,Small,Tier 3,Supermarket Type1,262.74
+17.38,141.08,0.002124342832422378,Frozen Foods,Small,Tier 3,Grocery Store,291.01
+18.37,105.82,0.050865225093673506,Household,Medium,Tier 3,Supermarket Type2,109.7
+9.96,106.16,0.09614355169676195,Frozen Foods,Small,Tier 1,Supermarket Type1,152.08
+8.04,74.67,0.008727335345284516,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,394.65
+11.5,114.98,0.11494882950875011,Snack Foods,Medium,Tier 3,Supermarket Type1,325.42
+12.22,282.48,0.11353431165813918,Household,Small,Tier 3,Supermarket Type1,269.07
+16.38,358.59,0.08548252820550674,Frozen Foods,Large,Tier 3,Supermarket Type1,902.46
+5.23,334.94,0.013058266221339628,Fruits & Vegetables,Medium,Tier 1,Supermarket Type2,933.03
+18.12,289.8,0.03900026661147427,Frozen Foods,Large,Tier 2,Supermarket Type2,233.41
+11.37,88.65,0.024452554613134253,Health & Hygiene,Small,Tier 1,Supermarket Type1,348.21
+10.29,151.22,0.04202368532374142,Household,Medium,Tier 2,Supermarket Type2,333.7
+7.95,158.43,0.02144598607022918,Health & Hygiene,Small,Tier 1,Supermarket Type1,479.46
+5.38,137.48,0.09666707636489857,Health & Hygiene,Large,Tier 1,Supermarket Type1,556.59
+15.29,230.25,0.03441347601187125,Health & Hygiene,Small,Tier 1,Supermarket Type2,175.68
+12.29,237.44,0.031522894656808645,Soft Drinks,Small,Tier 2,Supermarket Type1,427.84
+6.84,174.91,0.03626978178098566,Snack Foods,Large,Tier 2,Supermarket Type1,956.37
+6.82,173.83,0.025929917862293816,Health & Hygiene,Small,Tier 1,Supermarket Type2,541.93
+10.66,339.99,0.04526972754498315,Fruits & Vegetables,Small,Tier 2,Grocery Store,255.8
+18.68,326.25,0.007269926203405763,Snack Foods,Small,Tier 1,Supermarket Type1,1088.19
+10.96,157.73,0.05230416890089603,Health & Hygiene,Medium,Tier 3,Supermarket Type2,441.31
+5.99,369.83,0.018894263642084914,Soft Drinks,Small,Tier 2,Supermarket Type1,380.87
+11.02,383.49,0.0788614740507357,Health & Hygiene,Medium,Tier 2,Grocery Store,578.65
+10.91,164.36,0.08285095927703459,Soft Drinks,Small,Tier 3,Supermarket Type1,149.52
+4.0,174.05,0.08217614209097159,Health & Hygiene,Medium,Tier 2,Grocery Store,356.07
+11.78,226.97,0.06119176242498771,Soft Drinks,Medium,Tier 2,Supermarket Type1,534.97
+11.08,379.39,0.048597418085275006,Soft Drinks,Medium,Tier 2,Supermarket Type1,781.02
+14.78,356.71,0.08554646262445127,Snack Foods,Medium,Tier 3,Supermarket Type1,959.45
+19.4,85.9,0.06311715680069906,Health & Hygiene,Small,Tier 1,Supermarket Type1,100.0
+16.51,187.46,0.06271144568333097,Health & Hygiene,Small,Tier 3,Supermarket Type1,100.0
+10.92,243.68,0.07568959663178158,Health & Hygiene,Small,Tier 3,Supermarket Type1,100.0
+7.57,226.1,0.09149001573247068,Snack Foods,Medium,Tier 2,Supermarket Type2,268.69
+22.29,117.85,0.12218779550053102,Household,Medium,Tier 2,Supermarket Type1,224.23
+12.24,350.59,0.011224403079402681,Fruits & Vegetables,Large,Tier 2,Supermarket Type2,1143.49
+12.06,286.93,0.06870136572656356,Health & Hygiene,Small,Tier 1,Supermarket Type1,393.78
+11.9,343.27,0.020411741836911468,Snack Foods,Medium,Tier 1,Supermarket Type1,879.72
+12.79,350.57,0.04784703148888324,Household,Medium,Tier 3,Supermarket Type1,547.86
+11.42,311.92,0.02033339285236425,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,704.85
+9.71,203.72,0.03444082267373122,Health & Hygiene,Large,Tier 2,Supermarket Type1,781.97
+9.81,263.69,0.01324732843796514,Health & Hygiene,Small,Tier 3,Grocery Store,371.44
+11.87,106.13,0.08729681932496294,Health & Hygiene,Small,Tier 2,Supermarket Type2,100.0
+9.83,285.78,0.06374226716775316,Snack Foods,Medium,Tier 1,Supermarket Type1,1226.03
+9.15,112.74,0.11459710008974502,Frozen Foods,Small,Tier 2,Supermarket Type2,100.0
+12.43,292.88,0.08761939572843695,Household,Small,Tier 2,Grocery Store,523.03
+10.98,130.36,0.012522914902461244,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,145.71
+18.02,91.14,0.10377469769402356,Health & Hygiene,Small,Tier 3,Grocery Store,100.0
+4.0,107.85,0.023563026133452444,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,415.14
+16.37,50.7,0.05632214848662725,Snack Foods,Small,Tier 2,Supermarket Type2,542.42
+16.98,301.56,0.01696370944633814,Snack Foods,Medium,Tier 1,Grocery Store,875.6
+4.0,306.34,0.10929325697405483,Snack Foods,Medium,Tier 2,Supermarket Type1,681.03
+10.63,230.23,0.021421261107862227,Health & Hygiene,Medium,Tier 2,Grocery Store,435.65
+10.51,106.48,0.03029484027646711,Fruits & Vegetables,Large,Tier 2,Supermarket Type1,830.79
+6.37,79.24,0.09943023615587075,Soft Drinks,Small,Tier 3,Supermarket Type2,100.0
+8.89,56.7,0.03769895173071451,Fruits & Vegetables,Large,Tier 1,Supermarket Type1,1114.42
+7.56,108.01,0.11461513826810316,Fruits & Vegetables,Medium,Tier 3,Supermarket Type1,100.0
+19.01,361.8,0.04648336373006774,Frozen Foods,Medium,Tier 2,Supermarket Type1,180.65
+15.74,134.54,0.03415684424929799,Fruits & Vegetables,Medium,Tier 3,Supermarket Type2,439.94
+17.09,173.99,0.007326027879277058,Soft Drinks,Medium,Tier 2,Supermarket Type1,332.62
+14.89,86.87,0.07544204059316159,Snack Foods,Large,Tier 1,Supermarket Type1,959.42
+7.48,127.83,0.10955050757788169,Fruits & Vegetables,Large,Tier 1,Supermarket Type1,602.3
+9.9,231.73,0.05776306012864691,Fruits & Vegetables,Small,Tier 3,Supermarket Type2,100.0
+13.96,262.71,0.1283560775631303,Snack Foods,Small,Tier 3,Supermarket Type1,211.04
+7.11,135.87,0.029582247985896717,Health & Hygiene,Medium,Tier 2,Supermarket Type1,619.17
+14.85,70.21,0.07179097084529172,Snack Foods,Large,Tier 2,Supermarket Type1,1018.03
+11.04,186.86,0.03730055261972793,Snack Foods,Small,Tier 2,Grocery Store,568.68
+10.5,131.97,0.12154393627738376,Soft Drinks,Medium,Tier 3,Supermarket Type1,252.85
+14.84,126.84,0.03757279226903721,Snack Foods,Medium,Tier 3,Supermarket Type1,305.37
+13.78,385.95,0.053291686478811724,Household,Medium,Tier 3,Supermarket Type1,377.54
+10.56,265.71,0.0814322297552,Snack Foods,Medium,Tier 3,Supermarket Type1,675.96
+16.64,244.91,0.09221749556793919,Snack Foods,Medium,Tier 3,Grocery Store,387.33
+7.68,195.52,0.1201464738683143,Soft Drinks,Large,Tier 1,Supermarket Type1,744.09
+14.46,200.13,0.009416320189171325,Snack Foods,Medium,Tier 3,Supermarket Type2,381.36
+14.37,239.32,0.08982911660937182,Health & Hygiene,Medium,Tier 2,Supermarket Type2,100.0
+10.76,293.75,0.045431064045524445,Household,Small,Tier 3,Supermarket Type1,325.54
+13.3,295.75,0.052662637078548104,Health & Hygiene,Medium,Tier 2,Supermarket Type1,446.09
+7.0,110.09,0.05071209488381173,Snack Foods,Small,Tier 1,Supermarket Type2,756.43
+15.7,225.04,0.01663192480994039,Snack Foods,Small,Tier 2,Supermarket Type1,493.26
+11.26,194.19,0.062142683940468776,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,192.71
+9.91,354.68,0.0267223650503718,Frozen Foods,Medium,Tier 1,Supermarket Type2,630.41
+16.2,271.0,0.01609261434617666,Soft Drinks,Medium,Tier 2,Supermarket Type1,633.79
+9.18,236.38,0.07342191414072761,Soft Drinks,Small,Tier 2,Supermarket Type1,175.89
+6.37,90.39,0.07424164785082998,Fruits & Vegetables,Medium,Tier 2,Grocery Store,445.92
+5.77,261.97,0.08682793284529917,Snack Foods,Medium,Tier 2,Grocery Store,447.7
+14.42,91.02,0.03920210069077361,Fruits & Vegetables,Medium,Tier 1,Grocery Store,454.36
+6.88,168.02,0.1134332753071447,Health & Hygiene,Small,Tier 3,Supermarket Type2,100.0
+19.02,99.99,0.0370726751680682,Health & Hygiene,Medium,Tier 3,Supermarket Type1,457.27
+4.0,292.23,0.10713498694667332,Fruits & Vegetables,Large,Tier 1,Supermarket Type1,777.34
+18.79,122.19,0.09144966309911133,Health & Hygiene,Small,Tier 3,Supermarket Type2,251.57
+12.84,187.15,0.03147463939985637,Health & Hygiene,Small,Tier 2,Supermarket Type1,100.0
+11.61,363.49,0.036305508158963086,Frozen Foods,Medium,Tier 1,Supermarket Type1,864.16
+9.82,121.51,0.050944826305202986,Soft Drinks,Medium,Tier 2,Supermarket Type1,406.43
+13.6,227.73,0.1301806576809943,Snack Foods,Medium,Tier 2,Supermarket Type2,736.31
+11.85,196.75,0.03181414087465793,Snack Foods,Medium,Tier 2,Grocery Store,513.69
+16.41,56.34,0.06009897693093263,Frozen Foods,Small,Tier 3,Grocery Store,279.51
+12.46,327.47,0.05156155355626208,Household,Small,Tier 2,Grocery Store,351.44
+12.6,74.17,0.038467449846714456,Frozen Foods,Small,Tier 1,Supermarket Type1,100.0
+10.55,215.99,0.11127810400327531,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,100.0
+11.77,246.24,0.03501796681946602,Health & Hygiene,Medium,Tier 1,Supermarket Type1,617.73
+13.23,269.95,0.049935465376394005,Frozen Foods,Small,Tier 2,Grocery Store,912.6
+5.16,291.02,0.056305482066967644,Frozen Foods,Large,Tier 1,Supermarket Type1,1090.82
+6.61,138.65,0.08120982697888267,Health & Hygiene,Large,Tier 2,Grocery Store,583.86
+14.97,53.49,0.05233101651448308,Snack Foods,Large,Tier 2,Grocery Store,825.77
+12.68,303.21,0.03098814727922887,Snack Foods,Large,Tier 1,Supermarket Type1,1537.2
+11.26,237.48,0.10287747940711621,Health & Hygiene,Medium,Tier 2,Supermarket Type2,587.43
+12.07,342.64,0.001453060491810908,Health & Hygiene,Large,Tier 1,Supermarket Type2,454.36
+13.39,337.49,0.03967376815778357,Household,Small,Tier 2,Supermarket Type2,467.21
+9.84,345.16,0.04097479964012414,Snack Foods,Small,Tier 2,Supermarket Type1,589.08
+8.89,219.78,0.08604980045038302,Health & Hygiene,Medium,Tier 1,Supermarket Type1,306.65
+12.78,166.77,0.03198729657495428,Frozen Foods,Small,Tier 3,Supermarket Type1,285.5
+8.09,327.05,0.07385958170290326,Frozen Foods,Large,Tier 1,Supermarket Type1,1399.88
+13.63,207.95,0.04634924719862838,Household,Medium,Tier 1,Grocery Store,662.66
+5.19,114.2,0.06242644195891332,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,577.32
+16.12,349.24,0.08438159526696155,Soft Drinks,Small,Tier 2,Supermarket Type1,676.4
+13.89,358.9,0.06567143189564956,Soft Drinks,Medium,Tier 2,Supermarket Type1,475.87
+13.02,213.21,0.08273909733285303,Health & Hygiene,Small,Tier 1,Supermarket Type1,100.0
+15.93,76.49,0.05834707972669509,Soft Drinks,Large,Tier 3,Grocery Store,596.89
+18.66,185.74,0.02909015581665029,Household,Small,Tier 2,Supermarket Type1,240.89
+16.06,331.24,0.02227770795490016,Fruits & Vegetables,Medium,Tier 1,Grocery Store,424.45
+4.64,365.62,0.07184121964406046,Health & Hygiene,Small,Tier 2,Supermarket Type2,420.22
+6.88,121.22,0.02442376245817963,Frozen Foods,Small,Tier 3,Grocery Store,159.13
+9.5,73.44,0.0066213666665454396,Household,Medium,Tier 2,Supermarket Type1,383.2
+12.1,357.07,0.1280288707807492,Health & Hygiene,Small,Tier 1,Supermarket Type2,306.45
+14.07,186.29,0.1225085187088465,Snack Foods,Medium,Tier 2,Supermarket Type1,447.62
+9.1,239.62,0.021748911208531584,Household,Small,Tier 1,Grocery Store,481.13
+12.75,388.82,0.036388197408125135,Health & Hygiene,Small,Tier 2,Supermarket Type1,100.0
+8.98,73.3,0.02714456077817916,Health & Hygiene,Medium,Tier 3,Grocery Store,192.88
+9.55,276.91,0.06712712339564599,Fruits & Vegetables,Small,Tier 2,Grocery Store,100.0
+6.37,75.94,0.02778429758901371,Health & Hygiene,Small,Tier 2,Grocery Store,296.26
+8.31,181.41,0.0323000800517062,Frozen Foods,Large,Tier 3,Supermarket Type1,317.51
+6.59,331.34,0.0769072698575242,Snack Foods,Small,Tier 2,Supermarket Type2,686.82
+8.1,201.72,0.015662623792316335,Health & Hygiene,Small,Tier 2,Supermarket Type1,169.98
+16.21,399.01,0.057949245004492604,Health & Hygiene,Small,Tier 1,Supermarket Type1,395.3
+8.2,245.67,0.015455952392847463,Household,Medium,Tier 2,Grocery Store,617.36
+22.53,162.41,0.0252021536689183,Household,Medium,Tier 2,Supermarket Type1,228.88
+13.97,127.04,0.013297172979636947,Fruits & Vegetables,Small,Tier 2,Supermarket Type2,303.18
+12.74,172.68,0.04094984583333418,Snack Foods,Medium,Tier 3,Grocery Store,355.66
+8.57,180.39,0.0576182874914033,Fruits & Vegetables,Small,Tier 3,Supermarket Type2,100.0
+14.8,74.05,0.004640250265402494,Frozen Foods,Medium,Tier 2,Supermarket Type1,460.72
+9.7,179.35,0.041808878345331126,Fruits & Vegetables,Small,Tier 2,Supermarket Type2,100.0
+12.49,212.48,0.012876519969536211,Frozen Foods,Medium,Tier 2,Supermarket Type1,274.27
+22.24,302.96,0.13711194089108716,Fruits & Vegetables,Large,Tier 1,Supermarket Type1,926.45
+11.62,279.86,0.08512221312418199,Health & Hygiene,Medium,Tier 2,Supermarket Type1,454.06
+16.6,298.07,0.047434123373601075,Household,Large,Tier 3,Supermarket Type1,754.05
+9.19,52.93,0.08843846516117543,Household,Small,Tier 2,Grocery Store,100.0
+11.86,126.18,0.03488163719685919,Health & Hygiene,Small,Tier 3,Supermarket Type2,100.0
+19.08,281.59,0.0738693042545333,Soft Drinks,Small,Tier 1,Grocery Store,471.87
+9.49,219.4,0.021916302852398057,Household,Small,Tier 2,Grocery Store,368.93
+19.25,51.86,0.04191369365589564,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,100.0
+14.83,331.57,0.022828112021243855,Soft Drinks,Small,Tier 2,Supermarket Type1,100.0
+9.75,320.48,0.16637303343433776,Frozen Foods,Medium,Tier 3,Supermarket Type2,572.48
+14.53,241.95,0.005466079361344217,Soft Drinks,Small,Tier 3,Supermarket Type1,257.01
+15.89,73.26,0.009850055754406332,Snack Foods,Small,Tier 1,Grocery Store,807.01
+14.49,318.28,0.025047441113374293,Frozen Foods,Small,Tier 1,Supermarket Type1,552.08
+5.72,254.3,0.07464363907636265,Snack Foods,Large,Tier 1,Supermarket Type1,1074.17
+9.09,323.69,0.03888298215576222,Soft Drinks,Small,Tier 2,Supermarket Type1,238.95
+11.01,313.11,0.02918239949279222,Health & Hygiene,Medium,Tier 2,Supermarket Type1,965.38
+11.7,331.05,0.0721435854503141,Fruits & Vegetables,Medium,Tier 2,Grocery Store,479.25
+14.48,231.3,0.15172549251481962,Snack Foods,Medium,Tier 2,Supermarket Type1,448.1
+12.71,99.11,0.03143720059566115,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,100.0
+6.66,284.91,0.06523965581234005,Snack Foods,Small,Tier 3,Supermarket Type1,780.48
+13.52,267.17,0.06943840846886172,Health & Hygiene,Medium,Tier 2,Supermarket Type1,436.6
+14.44,309.79,0.025881723847012966,Frozen Foods,Small,Tier 2,Grocery Store,571.52
+14.24,109.46,0.01327905290957051,Health & Hygiene,Small,Tier 1,Grocery Store,513.38
+16.32,118.24,0.02622211201516965,Snack Foods,Small,Tier 2,Supermarket Type1,339.34
+15.34,361.64,0.061072645384127044,Health & Hygiene,Large,Tier 2,Grocery Store,956.66
+13.84,312.49,0.047626130235855275,Soft Drinks,Medium,Tier 2,Supermarket Type1,369.97
+11.72,367.88,0.03736556988673466,Fruits & Vegetables,Medium,Tier 3,Supermarket Type2,364.24
+5.36,315.55,0.022941711521963004,Household,Medium,Tier 3,Supermarket Type1,729.21
+13.72,259.0,0.026529474687150723,Frozen Foods,Large,Tier 3,Supermarket Type1,631.77
+12.83,278.95,0.05605782382458157,Household,Medium,Tier 2,Supermarket Type1,652.75
+13.09,361.19,0.042801909941064455,Snack Foods,Medium,Tier 2,Supermarket Type1,865.07
+6.89,252.58,0.037905177897601845,Snack Foods,Large,Tier 2,Supermarket Type2,1217.01
+7.68,271.34,0.0016755262870810194,Health & Hygiene,Medium,Tier 1,Supermarket Type2,363.5
+16.21,104.77,0.0304649413532153,Snack Foods,Small,Tier 2,Supermarket Type1,331.04
+11.84,215.87,0.08714969971966122,Soft Drinks,Small,Tier 1,Supermarket Type1,237.71
+14.73,300.74,0.08839923215650222,Health & Hygiene,Medium,Tier 2,Supermarket Type1,179.91
+12.11,144.83,0.06379871763593314,Health & Hygiene,Large,Tier 2,Grocery Store,708.32
+12.12,120.79,0.07311482888614385,Household,Medium,Tier 3,Supermarket Type1,385.56
+15.75,159.84,0.039927203635501105,Snack Foods,Medium,Tier 2,Supermarket Type2,952.94
+9.94,134.53,0.08389141222874588,Frozen Foods,Medium,Tier 3,Grocery Store,100.0
+12.38,125.22,0.022066319866194402,Frozen Foods,Medium,Tier 1,Supermarket Type2,634.68
+10.15,198.7,0.08658351913627824,Frozen Foods,Medium,Tier 1,Supermarket Type2,614.9
+10.26,367.74,0.030756770140734975,Health & Hygiene,Small,Tier 2,Supermarket Type2,564.94
+10.76,227.47,0.06141769023045191,Snack Foods,Large,Tier 2,Supermarket Type1,836.39
+12.89,115.77,0.06756378257345624,Snack Foods,Medium,Tier 1,Grocery Store,1051.31
+10.09,76.94,0.04430438350271547,Health & Hygiene,Medium,Tier 1,Supermarket Type1,666.79
+17.02,293.65,0.004432066810287481,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,671.95
+8.42,183.98,0.1210328884523108,Snack Foods,Small,Tier 2,Grocery Store,569.28
+11.25,337.64,0.07101642338990845,Soft Drinks,Medium,Tier 2,Supermarket Type1,628.1
+10.24,280.83,0.05089179387330003,Household,Medium,Tier 2,Supermarket Type1,327.94
+17.79,328.68,0.06276205242924046,Snack Foods,Medium,Tier 1,Grocery Store,837.68
+12.79,145.18,0.011679499516887936,Household,Small,Tier 3,Supermarket Type1,100.0
+16.13,292.33,0.0261849967318133,Health & Hygiene,Medium,Tier 1,Grocery Store,864.3
+6.06,142.42,0.0820007251184039,Household,Large,Tier 2,Supermarket Type1,524.45
+13.07,378.67,0.10888156306673095,Household,Small,Tier 3,Supermarket Type1,194.11
+15.56,272.73,0.022652881773089006,Snack Foods,Medium,Tier 3,Grocery Store,823.6
+12.33,163.58,0.05322393022447803,Household,Medium,Tier 2,Supermarket Type2,286.15
+16.26,144.33,0.04651626136102021,Household,Medium,Tier 2,Grocery Store,364.82
+9.93,116.82,0.07611703498775262,Frozen Foods,Medium,Tier 2,Supermarket Type1,327.95
+17.64,293.12,0.036694032515436965,Frozen Foods,Medium,Tier 2,Supermarket Type1,238.18
+21.2,126.55,0.06986655644520931,Snack Foods,Large,Tier 2,Supermarket Type1,853.64
+10.55,258.36,0.08005887445941527,Snack Foods,Small,Tier 2,Grocery Store,100.0
+10.22,142.62,0.03407911854972645,Snack Foods,Medium,Tier 3,Supermarket Type2,401.57
+17.81,281.69,0.062153791834417875,Snack Foods,Small,Tier 1,Supermarket Type2,814.57
+18.32,335.23,0.023520113191158838,Household,Small,Tier 3,Supermarket Type1,292.33
+9.91,322.31,0.08781793168204646,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,100.0
+10.32,316.3,0.013281204453079008,Soft Drinks,Small,Tier 2,Grocery Store,454.27
+10.87,115.7,0.08661977403475135,Health & Hygiene,Large,Tier 2,Supermarket Type1,360.22
+6.62,80.93,0.08945712378935831,Household,Large,Tier 2,Supermarket Type1,557.2
+8.33,294.63,0.06303973826783683,Frozen Foods,Small,Tier 3,Supermarket Type1,760.99
+7.98,178.92,0.053993531876900265,Snack Foods,Medium,Tier 1,Supermarket Type1,1103.2
+8.93,201.32,0.030022278780368138,Snack Foods,Medium,Tier 2,Supermarket Type1,739.96
+11.86,60.9,0.07749156789286936,Snack Foods,Large,Tier 2,Grocery Store,826.11
+12.94,140.85,0.0085502740168391,Fruits & Vegetables,Medium,Tier 3,Grocery Store,102.43
+18.2,61.79,0.03430166135937082,Soft Drinks,Small,Tier 3,Grocery Store,100.0
+8.01,357.72,0.06023464244717268,Fruits & Vegetables,Medium,Tier 2,Grocery Store,617.95
+15.94,135.19,0.03591025407770726,Snack Foods,Medium,Tier 1,Supermarket Type1,724.61
+11.14,245.07,0.03224926345965686,Health & Hygiene,Medium,Tier 2,Supermarket Type1,711.15
+11.8,63.64,0.041699006692945004,Snack Foods,Large,Tier 1,Supermarket Type1,1336.99
+14.7,283.4,0.04658802774229954,Fruits & Vegetables,Large,Tier 3,Supermarket Type1,764.73
+7.51,163.06,0.011509475282935637,Health & Hygiene,Medium,Tier 2,Supermarket Type1,433.24
+13.53,364.27,0.04156327687293911,Health & Hygiene,Medium,Tier 3,Supermarket Type1,100.0
+12.67,360.84,0.06278728682820005,Soft Drinks,Large,Tier 2,Supermarket Type1,875.42
+13.97,163.85,0.06646780418877049,Frozen Foods,Small,Tier 2,Supermarket Type1,100.0
+13.16,365.34,0.07750661406700261,Household,Small,Tier 1,Supermarket Type1,304.27
+21.82,398.66,0.05963327232645452,Health & Hygiene,Small,Tier 2,Grocery Store,696.65
+9.45,338.9,0.004722817063927572,Snack Foods,Large,Tier 1,Grocery Store,1544.6
+9.88,345.7,0.13145345371178985,Health & Hygiene,Medium,Tier 2,Supermarket Type1,326.94
+9.51,137.15,0.0645618829567503,Frozen Foods,Small,Tier 1,Supermarket Type2,184.44
+9.78,251.85,0.03100857422750667,Frozen Foods,Large,Tier 2,Supermarket Type1,630.78
+9.45,73.54,0.03740352552476125,Health & Hygiene,Medium,Tier 2,Supermarket Type1,100.0
+16.76,83.22,0.054626625946409005,Snack Foods,Large,Tier 2,Supermarket Type1,746.1
+17.68,399.61,0.022759146508253055,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,264.17
+9.72,164.32,0.0194299095782146,Household,Medium,Tier 2,Supermarket Type1,589.46
+8.67,311.86,0.04052786789383495,Snack Foods,Medium,Tier 2,Supermarket Type2,883.01
+13.89,332.33,0.1376450419426607,Fruits & Vegetables,Medium,Tier 2,Grocery Store,531.83
+9.79,350.31,0.07995697246215411,Snack Foods,Medium,Tier 1,Supermarket Type1,596.52
+14.53,399.17,0.02159690111845462,Frozen Foods,Large,Tier 3,Grocery Store,634.45
+12.81,134.52,0.0017827954241498166,Soft Drinks,Small,Tier 3,Supermarket Type1,127.43
+5.94,64.12,0.018941830592098658,Frozen Foods,Large,Tier 1,Supermarket Type2,837.03
+18.19,193.92,0.06058786952191406,Health & Hygiene,Small,Tier 2,Supermarket Type1,140.79
+19.18,95.53,0.0373660179798841,Household,Small,Tier 2,Supermarket Type1,100.0
+9.55,57.85,0.08117532980646643,Snack Foods,Small,Tier 2,Supermarket Type2,618.09
+10.45,176.15,0.024078741493626984,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,545.88
+13.14,324.31,0.04244953511358318,Soft Drinks,Small,Tier 1,Supermarket Type1,884.22
+13.34,248.16,0.07931296752478577,Health & Hygiene,Large,Tier 1,Supermarket Type2,1192.28
+14.63,159.47,0.02276209663038091,Health & Hygiene,Medium,Tier 2,Supermarket Type1,779.54
+20.04,279.02,0.027807804511245413,Snack Foods,Medium,Tier 3,Supermarket Type1,361.92
+11.29,131.21,0.04550751254774596,Snack Foods,Medium,Tier 2,Grocery Store,739.83
+8.81,55.03,0.06166525893846052,Health & Hygiene,Small,Tier 3,Grocery Store,100.0
+6.48,317.52,0.04282900972030127,Health & Hygiene,Small,Tier 1,Supermarket Type1,241.52
+9.08,268.31,0.011026343385956525,Health & Hygiene,Medium,Tier 1,Supermarket Type1,1065.04
+11.87,316.81,0.024479158013810207,Frozen Foods,Medium,Tier 2,Supermarket Type2,561.67
+19.18,63.63,0.0402510331210113,Health & Hygiene,Medium,Tier 1,Supermarket Type2,267.45
+9.93,342.99,0.03580048578465003,Household,Medium,Tier 2,Supermarket Type2,506.2
+12.9,266.83,0.08976029878525142,Household,Medium,Tier 2,Supermarket Type1,330.82
+11.93,247.19,0.10675591175662455,Fruits & Vegetables,Medium,Tier 1,Supermarket Type2,319.45
+16.75,268.61,0.10166275871318903,Household,Large,Tier 2,Supermarket Type1,683.26
+22.11,352.55,0.02097712260970083,Soft Drinks,Small,Tier 2,Supermarket Type1,773.97
+9.88,255.43,0.08650706486753824,Health & Hygiene,Medium,Tier 2,Supermarket Type1,345.93
+10.04,253.33,0.04486102849229508,Soft Drinks,Medium,Tier 3,Grocery Store,715.59
+16.18,396.74,0.028610046122725517,Snack Foods,Large,Tier 1,Grocery Store,1638.23
+14.73,314.86,0.048099002126173296,Snack Foods,Small,Tier 3,Supermarket Type2,520.15
+19.39,204.8,0.04559583031638702,Soft Drinks,Medium,Tier 2,Supermarket Type1,540.16
+14.34,297.59,0.11139019415048555,Frozen Foods,Small,Tier 3,Supermarket Type1,100.0
+10.56,186.23,0.07389493978727336,Health & Hygiene,Medium,Tier 1,Supermarket Type1,795.24
+14.36,130.11,0.004124538059444241,Snack Foods,Small,Tier 2,Supermarket Type2,640.73
+16.43,258.9,0.11443896637993875,Soft Drinks,Small,Tier 2,Supermarket Type1,100.0
+15.28,374.86,0.00591489259849523,Snack Foods,Medium,Tier 3,Supermarket Type1,817.37
+14.03,375.2,0.06675686652110208,Health & Hygiene,Small,Tier 2,Grocery Store,422.66
+16.27,169.67,0.08367575110495695,Household,Small,Tier 2,Supermarket Type1,113.6
+16.68,234.69,0.07319141713177775,Frozen Foods,Small,Tier 3,Supermarket Type2,100.0
+17.53,124.07,0.014607626107295237,Soft Drinks,Small,Tier 2,Supermarket Type1,118.13
+14.59,398.47,0.08455459063330603,Snack Foods,Large,Tier 1,Supermarket Type1,878.81
+11.33,393.39,0.06830851240562541,Health & Hygiene,Medium,Tier 2,Supermarket Type1,198.18
+12.59,277.33,0.027481804735688196,Frozen Foods,Large,Tier 2,Supermarket Type2,608.88
+16.83,331.54,0.023307520616949216,Frozen Foods,Medium,Tier 2,Supermarket Type1,658.77
+8.73,300.29,0.049900483109244005,Health & Hygiene,Large,Tier 2,Supermarket Type1,222.26
+13.47,257.61,0.04553684435481043,Snack Foods,Medium,Tier 3,Supermarket Type1,366.93
+10.43,68.67,0.010048387831993882,Snack Foods,Medium,Tier 2,Grocery Store,485.36
+12.11,209.17,0.07768666825458465,Frozen Foods,Medium,Tier 1,Supermarket Type2,486.74
+17.11,286.18,0.07900216004164594,Household,Medium,Tier 1,Supermarket Type2,179.36
+12.76,287.14,0.011549294058448479,Snack Foods,Medium,Tier 3,Supermarket Type2,789.99
+12.19,180.59,0.07042398247220916,Fruits & Vegetables,Small,Tier 2,Supermarket Type2,100.0
+6.56,379.59,0.07671654543270091,Health & Hygiene,Small,Tier 3,Supermarket Type2,490.65
+14.99,108.57,0.031056879035442925,Soft Drinks,Medium,Tier 2,Supermarket Type1,279.88
+14.58,225.13,0.12851395119503065,Household,Medium,Tier 2,Supermarket Type2,341.72
+20.65,291.81,0.031103295427370614,Soft Drinks,Small,Tier 2,Supermarket Type1,425.75
+10.77,294.0,0.028262941966010126,Snack Foods,Small,Tier 1,Grocery Store,762.63
+12.88,277.02,0.024601275664262876,Household,Medium,Tier 2,Supermarket Type1,524.14
+13.0,146.35,0.11581821605441149,Household,Large,Tier 2,Supermarket Type2,482.54
+18.31,104.67,0.04645494226090117,Frozen Foods,Small,Tier 2,Supermarket Type1,187.86
+11.62,272.58,0.03909234310515806,Soft Drinks,Small,Tier 3,Supermarket Type2,211.25
+13.12,259.76,0.02100159924013284,Snack Foods,Large,Tier 3,Grocery Store,706.4
+14.43,112.77,0.09214934823617545,Snack Foods,Medium,Tier 3,Supermarket Type1,443.27
+12.75,296.8,0.02379486359372822,Soft Drinks,Small,Tier 3,Supermarket Type1,453.84
+10.21,209.31,0.026795056736509257,Soft Drinks,Large,Tier 2,Grocery Store,873.18
+12.78,283.72,0.007039538052213902,Snack Foods,Medium,Tier 2,Grocery Store,919.55
+16.29,343.08,0.03498647629346143,Soft Drinks,Medium,Tier 3,Grocery Store,508.71
+7.89,109.4,0.013410717533040177,Frozen Foods,Large,Tier 2,Supermarket Type2,492.18
+12.53,56.7,0.036100594889365976,Health & Hygiene,Large,Tier 1,Grocery Store,632.85
+9.2,322.69,0.07383786822470424,Snack Foods,Small,Tier 2,Supermarket Type1,527.7
+16.78,263.39,0.0313614383523739,Health & Hygiene,Small,Tier 1,Grocery Store,679.93
+5.91,294.87,0.02966465443528323,Snack Foods,Small,Tier 2,Supermarket Type1,1135.02
+9.76,343.35,0.018965835606785043,Household,Small,Tier 2,Supermarket Type1,494.45
+13.51,330.98,0.10756253891394321,Snack Foods,Small,Tier 1,Supermarket Type1,375.68
+18.26,386.32,0.10434177623678434,Frozen Foods,Small,Tier 3,Supermarket Type1,100.0
+11.74,237.58,0.0694240426875389,Soft Drinks,Large,Tier 3,Grocery Store,1077.78
+9.78,220.97,0.06157716941097213,Snack Foods,Large,Tier 3,Supermarket Type1,807.73
+19.52,190.66,0.01893840117787114,Health & Hygiene,Medium,Tier 2,Supermarket Type2,427.54
+6.21,103.79,0.06450236849007987,Snack Foods,Medium,Tier 3,Grocery Store,196.0
+4.0,250.41,0.04793272240427281,Soft Drinks,Small,Tier 3,Supermarket Type1,397.03
+13.76,146.95,0.07032316100682293,Household,Small,Tier 2,Grocery Store,194.87
+9.99,372.46,0.005584344347821823,Health & Hygiene,Small,Tier 3,Grocery Store,139.26
+7.92,254.12,0.027963278246407704,Health & Hygiene,Medium,Tier 1,Supermarket Type1,547.46
+14.83,257.49,0.014773589559011917,Soft Drinks,Small,Tier 3,Supermarket Type1,253.39
+12.98,174.22,0.02948299152060766,Frozen Foods,Large,Tier 2,Grocery Store,777.46
+9.74,68.2,0.03504992612598568,Snack Foods,Medium,Tier 2,Supermarket Type1,763.03
+6.88,61.11,0.04852130841604825,Fruits & Vegetables,Small,Tier 1,Supermarket Type2,379.26
+15.49,198.17,0.06180317261755232,Snack Foods,Small,Tier 2,Supermarket Type2,352.51
+14.6,79.6,0.09214112869673495,Fruits & Vegetables,Medium,Tier 2,Supermarket Type2,138.76
+11.6,262.4,0.025942379824175847,Snack Foods,Large,Tier 3,Supermarket Type1,959.21
+19.39,358.34,0.07656490490553368,Snack Foods,Medium,Tier 3,Supermarket Type1,408.93
+7.72,359.02,0.05333410578786573,Frozen Foods,Small,Tier 3,Supermarket Type1,133.96
+5.9,280.67,0.006757176230863359,Snack Foods,Medium,Tier 2,Grocery Store,920.7
+9.23,123.93,0.041097443069571124,Health & Hygiene,Small,Tier 3,Supermarket Type1,100.0
+11.82,352.05,0.10316122206362627,Fruits & Vegetables,Large,Tier 2,Supermarket Type1,815.48
+12.97,360.13,0.08782921683282845,Soft Drinks,Medium,Tier 3,Supermarket Type1,272.49
+11.04,118.83,0.03587767916563231,Household,Medium,Tier 1,Supermarket Type2,352.92
+13.41,308.1,0.04609178121089043,Fruits & Vegetables,Medium,Tier 2,Grocery Store,447.22
+6.99,150.28,0.07085895366148118,Household,Medium,Tier 3,Supermarket Type1,219.24
+17.78,330.92,0.07365789023748986,Soft Drinks,Small,Tier 3,Grocery Store,100.0
+11.67,399.03,0.0525008527400724,Frozen Foods,Small,Tier 2,Supermarket Type1,517.41
+16.47,60.51,0.031727740328665176,Health & Hygiene,Small,Tier 3,Grocery Store,179.45
+13.37,364.08,0.0859267299071569,Snack Foods,Large,Tier 1,Supermarket Type1,1543.91
+13.83,267.92,0.029022881121809313,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,512.14
+14.28,390.68,0.07269046256392962,Soft Drinks,Small,Tier 2,Supermarket Type1,211.11
+13.79,212.75,0.015880755160079134,Fruits & Vegetables,Large,Tier 1,Supermarket Type1,858.74
+14.57,346.59,0.0756315175088585,Soft Drinks,Small,Tier 1,Supermarket Type1,224.85
+17.32,71.84,0.014184227028264109,Household,Small,Tier 1,Supermarket Type1,692.25
+12.79,167.35,0.0760501179962847,Frozen Foods,Small,Tier 2,Supermarket Type1,532.3
+14.84,73.46,0.08757700589900352,Soft Drinks,Medium,Tier 1,Supermarket Type1,501.77
+11.64,391.37,0.04562225068692827,Health & Hygiene,Medium,Tier 2,Supermarket Type2,669.93
+17.76,335.94,0.0686787588104924,Frozen Foods,Medium,Tier 2,Supermarket Type1,542.03
+9.29,348.39,0.0786222259103427,Health & Hygiene,Medium,Tier 2,Supermarket Type1,626.16
+19.2,378.29,0.09650246456111287,Household,Small,Tier 2,Supermarket Type2,100.0
+11.84,79.79,0.024859108939361267,Health & Hygiene,Medium,Tier 2,Supermarket Type2,369.37
+6.28,184.96,0.03561898163068577,Snack Foods,Small,Tier 2,Supermarket Type2,358.56
+12.51,74.86,0.10444539390339565,Household,Medium,Tier 2,Supermarket Type1,274.0
+9.28,123.78,0.04967929645976288,Household,Medium,Tier 2,Supermarket Type1,378.2
+15.36,130.28,0.06410707626470578,Fruits & Vegetables,Medium,Tier 3,Supermarket Type1,533.25
+9.39,214.19,0.02953511269267368,Frozen Foods,Medium,Tier 2,Supermarket Type1,720.78
+10.22,144.0,0.08216432614810326,Household,Medium,Tier 1,Supermarket Type2,504.53
+4.44,85.34,0.03629403504297497,Snack Foods,Small,Tier 2,Supermarket Type1,371.75
+10.19,108.62,0.008470522781253188,Health & Hygiene,Large,Tier 2,Supermarket Type2,1028.33
+4.0,101.55,0.13910416475509627,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,100.0
+5.66,390.58,0.03930311274564608,Snack Foods,Small,Tier 2,Supermarket Type1,784.16
+15.04,315.75,0.051151997342760214,Snack Foods,Medium,Tier 2,Supermarket Type2,884.36
+15.14,388.72,0.006651587851866403,Health & Hygiene,Medium,Tier 1,Supermarket Type1,809.43
+13.7,203.91,0.03484747134315565,Snack Foods,Small,Tier 2,Supermarket Type2,494.17
+8.13,147.43,0.012716695804199206,Snack Foods,Large,Tier 2,Supermarket Type1,613.4
+11.81,329.4,0.04360139846901321,Snack Foods,Large,Tier 3,Supermarket Type1,602.48
+11.99,164.19,0.07435827854290897,Household,Medium,Tier 3,Supermarket Type1,225.83
+7.37,154.78,0.04255441185256898,Fruits & Vegetables,Medium,Tier 2,Supermarket Type2,682.85
+18.01,131.38,0.06500488573385724,Frozen Foods,Medium,Tier 3,Supermarket Type1,225.74
+15.51,95.39,0.043437219203795306,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,100.0
+11.12,139.76,0.06903113689878629,Snack Foods,Medium,Tier 3,Supermarket Type1,181.9
+12.11,174.36,0.08857832890030823,Household,Large,Tier 3,Supermarket Type1,678.33
+12.83,285.9,0.008268860140104176,Snack Foods,Large,Tier 1,Grocery Store,1073.93
+4.0,71.9,0.04181578760777367,Fruits & Vegetables,Large,Tier 2,Supermarket Type1,734.99
+11.01,123.68,0.032854962000626264,Health & Hygiene,Small,Tier 2,Grocery Store,245.32
+9.27,333.16,0.04876576423099622,Health & Hygiene,Small,Tier 1,Supermarket Type1,524.19
+7.99,101.42,0.022464143798397347,Household,Small,Tier 1,Supermarket Type2,319.24
+10.88,169.93,0.052364224722758465,Frozen Foods,Medium,Tier 3,Supermarket Type1,303.17
+19.19,352.63,0.03048826944768602,Snack Foods,Small,Tier 3,Supermarket Type2,486.52
+14.56,104.22,0.047388370615381856,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,100.0
+9.72,78.96,0.04702094785252634,Frozen Foods,Medium,Tier 3,Supermarket Type2,100.0
+14.29,219.59,0.01859668769691003,Household,Medium,Tier 3,Grocery Store,100.0
+17.6,155.85,0.03380995189183391,Health & Hygiene,Medium,Tier 1,Grocery Store,551.15
+15.7,247.19,0.07075394407404292,Health & Hygiene,Large,Tier 1,Supermarket Type2,1228.97
+12.24,331.33,0.03200870130427993,Snack Foods,Small,Tier 1,Supermarket Type1,877.98
+9.41,98.0,0.059619825299529645,Snack Foods,Small,Tier 1,Grocery Store,531.17
+14.79,253.24,0.047430125336116756,Health & Hygiene,Medium,Tier 1,Supermarket Type2,437.49
+13.57,226.93,0.007959250833552693,Health & Hygiene,Medium,Tier 2,Supermarket Type1,668.84
+15.58,100.43,0.010666078411285711,Health & Hygiene,Medium,Tier 3,Supermarket Type2,237.88
+14.54,268.4,0.016554618480036247,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,445.37
+16.2,145.77,0.01858322445262659,Household,Small,Tier 2,Supermarket Type1,100.0
+9.86,220.74,0.13763645531538402,Snack Foods,Medium,Tier 3,Supermarket Type1,169.25
+17.27,78.8,0.06015061656845964,Snack Foods,Large,Tier 2,Supermarket Type1,690.39
+12.79,210.85,0.041054586159876456,Fruits & Vegetables,Large,Tier 3,Supermarket Type1,230.96
+20.3,157.26,0.04259695190387502,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,217.09
+9.24,337.83,0.03415958315438009,Health & Hygiene,Medium,Tier 1,Grocery Store,661.32
+18.94,69.94,0.07374774870700662,Health & Hygiene,Large,Tier 3,Supermarket Type1,245.08
+12.79,196.51,0.027570106804502188,Frozen Foods,Medium,Tier 2,Grocery Store,100.0
+9.39,210.45,0.04057780686972602,Health & Hygiene,Medium,Tier 2,Supermarket Type2,687.85
+10.06,303.75,0.0662339368185804,Snack Foods,Large,Tier 2,Supermarket Type1,603.63
+10.72,251.0,0.043232570998360774,Health & Hygiene,Medium,Tier 2,Supermarket Type1,623.56
+13.7,283.52,0.014937311562279138,Frozen Foods,Large,Tier 3,Supermarket Type2,739.52
+14.09,321.97,0.11178303665926737,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,767.58
+9.71,351.77,0.04812793268987093,Snack Foods,Medium,Tier 3,Supermarket Type2,832.26
+11.9,159.86,0.0709191272717948,Snack Foods,Large,Tier 1,Supermarket Type1,986.44
+20.57,238.31,0.062338874513622855,Snack Foods,Small,Tier 2,Grocery Store,294.96
+18.91,344.04,0.07751543087594272,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,913.46
+13.75,396.31,0.019072444177641944,Health & Hygiene,Small,Tier 3,Supermarket Type1,100.0
+12.15,361.33,0.01658767718148881,Household,Large,Tier 1,Supermarket Type2,1180.73
+12.48,180.01,0.11233482239640442,Household,Medium,Tier 2,Supermarket Type1,304.59
+14.45,118.31,0.06214977224994594,Snack Foods,Small,Tier 1,Supermarket Type1,486.59
+7.91,221.29,0.0008526324589583557,Snack Foods,Medium,Tier 1,Supermarket Type1,1053.21
+10.97,309.57,0.053540489378686586,Snack Foods,Medium,Tier 3,Supermarket Type1,749.45
+5.33,222.4,0.018693983572485653,Soft Drinks,Medium,Tier 1,Grocery Store,773.82
+13.6,219.11,0.0288289779532184,Snack Foods,Medium,Tier 1,Supermarket Type1,944.89
+14.59,343.38,0.0553923859444192,Snack Foods,Large,Tier 1,Supermarket Type2,1430.67
+10.07,176.49,0.02549479208392201,Soft Drinks,Medium,Tier 2,Supermarket Type2,406.79
+18.3,350.93,0.08751632947297525,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,374.3
+7.1,192.38,0.014846349221609248,Snack Foods,Small,Tier 1,Supermarket Type1,716.81
+6.14,164.88,0.06608180964625598,Health & Hygiene,Large,Tier 1,Grocery Store,713.33
+12.9,208.9,0.04913202425627327,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,129.36
+16.19,316.86,0.015382741002749192,Frozen Foods,Medium,Tier 2,Supermarket Type1,597.18
+18.74,94.1,0.08600643115111108,Health & Hygiene,Large,Tier 3,Supermarket Type1,413.45
+10.16,118.75,0.05378371222061818,Frozen Foods,Small,Tier 3,Grocery Store,100.0
+16.31,383.01,0.010218385172046875,Snack Foods,Medium,Tier 2,Supermarket Type2,956.2
+11.85,111.42,0.0639555050456489,Health & Hygiene,Small,Tier 2,Supermarket Type2,100.0
+11.31,248.7,0.025691861271041217,Household,Medium,Tier 2,Supermarket Type1,557.15
+15.53,252.76,0.10257039381411455,Fruits & Vegetables,Medium,Tier 3,Grocery Store,221.86
+14.61,221.37,0.07733326527897831,Health & Hygiene,Large,Tier 2,Grocery Store,554.22
+5.69,275.66,0.0468300889124743,Health & Hygiene,Large,Tier 3,Grocery Store,636.18
+17.91,130.44,0.050397189789900064,Snack Foods,Medium,Tier 2,Supermarket Type1,848.77
+17.52,243.43,0.09477549939237662,Snack Foods,Medium,Tier 2,Grocery Store,630.67
+9.5,180.26,0.03427220528573613,Health & Hygiene,Medium,Tier 2,Supermarket Type2,524.94
+13.58,281.58,0.00571736624615582,Soft Drinks,Small,Tier 2,Supermarket Type2,316.25
+13.98,99.43,0.05480222202630776,Household,Medium,Tier 1,Supermarket Type1,868.65
+13.04,249.81,0.06113671210990298,Fruits & Vegetables,Large,Tier 3,Supermarket Type1,451.12
+9.8,114.84,0.026247637846934235,Snack Foods,Medium,Tier 3,Supermarket Type1,182.54
+9.31,147.53,0.03868323877401096,Health & Hygiene,Small,Tier 3,Supermarket Type2,241.55
+11.9,126.55,0.0458646342242568,Health & Hygiene,Small,Tier 2,Supermarket Type2,127.69
+16.69,113.99,0.00652981375011674,Health & Hygiene,Medium,Tier 1,Grocery Store,491.51
+14.17,339.0,0.09196640440425267,Health & Hygiene,Small,Tier 1,Grocery Store,239.31
+10.52,150.0,0.04326578088404919,Snack Foods,Medium,Tier 2,Supermarket Type1,976.57
+15.09,374.49,0.10722997301172459,Snack Foods,Medium,Tier 3,Supermarket Type1,570.97
+4.0,389.47,0.0875740629710571,Soft Drinks,Medium,Tier 2,Grocery Store,550.92
+16.6,249.94,0.04616223811238298,Soft Drinks,Small,Tier 1,Supermarket Type1,476.74
+5.04,100.05,0.021595944549520785,Snack Foods,Medium,Tier 3,Supermarket Type1,577.69
+10.55,181.09,0.05177880923331455,Fruits & Vegetables,Large,Tier 3,Grocery Store,853.64
+7.52,329.21,0.08402817867814212,Health & Hygiene,Large,Tier 2,Supermarket Type2,809.92
+6.82,178.59,0.016394507487734366,Snack Foods,Medium,Tier 2,Grocery Store,463.15
+16.64,80.46,0.014461873527797386,Frozen Foods,Small,Tier 3,Supermarket Type1,225.91
+10.13,244.87,0.08026385597980526,Snack Foods,Large,Tier 2,Supermarket Type1,1032.22
+13.39,345.79,0.06253420648640247,Snack Foods,Medium,Tier 3,Supermarket Type1,598.04
+11.81,328.57,0.057373627601923376,Household,Small,Tier 1,Supermarket Type1,638.33
+13.91,111.29,0.03553383322501417,Health & Hygiene,Small,Tier 2,Supermarket Type1,130.96
+12.31,285.47,0.07776113679436437,Household,Small,Tier 2,Supermarket Type2,231.65
+6.87,127.18,0.02272866203700426,Household,Small,Tier 3,Supermarket Type1,100.0
+15.99,126.37,0.02007412083555608,Frozen Foods,Small,Tier 3,Supermarket Type1,100.0
+10.02,355.93,0.01870069776313454,Soft Drinks,Large,Tier 3,Supermarket Type1,949.42
+5.77,137.38,0.02618766599903941,Health & Hygiene,Medium,Tier 2,Supermarket Type1,100.0
+10.29,142.14,0.03659081300936038,Health & Hygiene,Medium,Tier 3,Supermarket Type2,750.16
+18.0,50.23,0.163197095842929,Health & Hygiene,Large,Tier 2,Grocery Store,542.39
+15.4,354.73,0.053101316069143395,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,235.71
+10.61,327.41,0.06166642868479675,Fruits & Vegetables,Large,Tier 1,Supermarket Type1,1005.17
+10.6,269.57,0.025385929397269708,Snack Foods,Large,Tier 3,Grocery Store,902.42
+10.71,312.59,0.06254142226477265,Household,Medium,Tier 3,Supermarket Type2,419.69
+20.31,103.22,0.03375511074024776,Health & Hygiene,Large,Tier 1,Supermarket Type1,607.23
+13.53,210.41,0.03231044873293372,Snack Foods,Medium,Tier 1,Supermarket Type1,841.94
+13.72,172.93,0.10012466956779628,Health & Hygiene,Small,Tier 3,Supermarket Type2,100.0
+16.12,82.82,0.054706981702544163,Household,Medium,Tier 2,Supermarket Type1,160.5
+12.96,220.15,0.02765230345680102,Snack Foods,Medium,Tier 3,Supermarket Type1,354.62
+10.96,372.26,0.05742550304873073,Snack Foods,Large,Tier 1,Grocery Store,1329.67
+11.21,64.02,0.11037153025352482,Household,Small,Tier 1,Supermarket Type1,100.0
+11.71,152.01,0.11194313607271501,Snack Foods,Medium,Tier 2,Grocery Store,597.17
+11.85,122.64,0.052558083329446566,Snack Foods,Small,Tier 1,Supermarket Type1,721.8
+14.91,133.35,0.08509736291394296,Snack Foods,Small,Tier 1,Supermarket Type1,446.74
+12.21,367.95,0.07467297739246738,Frozen Foods,Small,Tier 1,Supermarket Type1,382.06
+14.93,213.82,0.04144224743659073,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,832.73
+11.68,213.2,0.027624055317315394,Snack Foods,Large,Tier 1,Grocery Store,1095.71
+12.31,316.2,0.06393310180639497,Frozen Foods,Small,Tier 3,Supermarket Type2,100.0
+4.01,104.07,0.05026555065360796,Fruits & Vegetables,Medium,Tier 1,Grocery Store,402.66
+15.67,220.54,0.05861603518379717,Household,Small,Tier 2,Supermarket Type2,467.78
+13.39,200.49,0.03377164478911225,Household,Small,Tier 3,Supermarket Type1,396.22
+15.99,258.92,0.06716740050065226,Frozen Foods,Medium,Tier 2,Supermarket Type1,100.0
+4.0,399.85,0.023840451303611194,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,767.04
+20.35,319.31,0.015912254502765347,Snack Foods,Medium,Tier 2,Supermarket Type2,1030.41
+11.44,189.25,0.08813044849790816,Soft Drinks,Small,Tier 3,Supermarket Type1,341.3
+16.43,339.64,0.04928140382155258,Snack Foods,Small,Tier 3,Supermarket Type1,456.91
+7.84,109.75,0.01795242568780718,Health & Hygiene,Medium,Tier 2,Supermarket Type2,416.92
+14.45,60.66,0.038984737144566024,Snack Foods,Medium,Tier 3,Supermarket Type2,664.57
+7.79,121.56,0.045203873859262896,Snack Foods,Small,Tier 2,Supermarket Type1,543.97
+9.5,169.14,0.0715019028390868,Health & Hygiene,Medium,Tier 1,Supermarket Type2,936.01
+19.66,228.7,0.08026746407431763,Frozen Foods,Large,Tier 3,Supermarket Type1,750.86
+11.24,265.3,0.05385374281706139,Soft Drinks,Medium,Tier 2,Grocery Store,423.0
+12.87,368.71,0.025509377392220034,Snack Foods,Small,Tier 3,Supermarket Type1,338.38
+15.48,228.45,0.014751622994167855,Frozen Foods,Medium,Tier 1,Supermarket Type1,475.4
+13.98,225.45,0.0466931249921004,Soft Drinks,Medium,Tier 2,Supermarket Type1,112.23
+12.6,67.59,0.06500798034889928,Household,Small,Tier 3,Supermarket Type1,100.0
+13.46,62.22,0.03427710872137668,Frozen Foods,Large,Tier 1,Supermarket Type1,952.05
+21.61,242.91,0.02658114620556618,Household,Large,Tier 3,Grocery Store,732.81
+11.77,203.36,0.03330704529572519,Frozen Foods,Large,Tier 3,Supermarket Type2,863.03
+12.8,343.71,0.02765300942123854,Household,Large,Tier 3,Supermarket Type1,834.75
+16.2,106.24,0.05467946238270196,Snack Foods,Medium,Tier 2,Supermarket Type2,524.05
+16.42,58.74,0.04534003177221221,Soft Drinks,Medium,Tier 2,Supermarket Type2,342.71
+16.75,207.16,0.017196923143400347,Soft Drinks,Medium,Tier 3,Supermarket Type2,401.23
+14.55,133.12,0.08789094239170833,Frozen Foods,Large,Tier 3,Supermarket Type2,497.77
+7.43,67.37,0.0642599850808655,Health & Hygiene,Medium,Tier 2,Grocery Store,294.49
+18.53,303.61,0.03642749927626547,Snack Foods,Small,Tier 3,Supermarket Type1,262.99
+7.41,89.06,0.039701251784383516,Frozen Foods,Small,Tier 2,Grocery Store,100.0
+13.21,262.91,0.018968060976843396,Health & Hygiene,Large,Tier 3,Supermarket Type1,1176.59
+8.98,148.37,0.04046963969142416,Soft Drinks,Small,Tier 1,Supermarket Type1,542.07
+11.74,110.72,0.0030606249378428707,Soft Drinks,Medium,Tier 1,Grocery Store,276.99
+13.32,182.91,0.0382200334742296,Household,Large,Tier 2,Supermarket Type2,269.53
+13.29,330.51,0.0644269603712357,Snack Foods,Medium,Tier 2,Supermarket Type2,734.32
+13.69,187.23,0.03918090516632502,Health & Hygiene,Large,Tier 3,Supermarket Type1,795.52
+18.45,312.77,0.0383075905946073,Snack Foods,Medium,Tier 1,Supermarket Type1,868.45
+13.81,93.92,0.07490907173631019,Soft Drinks,Small,Tier 3,Supermarket Type1,116.88
+11.02,320.47,0.061795319671156784,Snack Foods,Large,Tier 2,Supermarket Type2,981.31
+15.86,132.93,0.02630658407355147,Health & Hygiene,Small,Tier 2,Supermarket Type1,189.77
+16.76,287.09,0.06640737359254931,Household,Medium,Tier 1,Supermarket Type1,752.48
+7.09,248.02,0.04447011804827413,Snack Foods,Small,Tier 2,Supermarket Type1,358.03
+14.39,375.2,0.10919491429294233,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,297.59
+14.8,185.56,0.04659512644835522,Soft Drinks,Medium,Tier 1,Supermarket Type2,672.99
+10.81,73.16,0.020367822020139297,Soft Drinks,Small,Tier 2,Grocery Store,145.1
+17.5,56.7,0.026919624534035635,Fruits & Vegetables,Medium,Tier 1,Grocery Store,877.97
+11.4,339.4,0.033172214108692276,Snack Foods,Large,Tier 1,Supermarket Type2,1473.55
+12.5,233.66,0.07788814341968711,Frozen Foods,Small,Tier 3,Supermarket Type2,180.94
+11.31,321.34,0.03387939153076528,Fruits & Vegetables,Small,Tier 1,Supermarket Type2,568.87
+12.06,132.05,0.01843410326221882,Frozen Foods,Medium,Tier 2,Supermarket Type1,565.9
+7.61,170.78,0.02673759046312515,Household,Medium,Tier 1,Supermarket Type1,519.47
+6.24,60.54,0.13502387801824525,Frozen Foods,Large,Tier 2,Supermarket Type1,492.52
+18.38,386.52,0.05316416185653796,Frozen Foods,Small,Tier 2,Grocery Store,236.57
+8.61,283.75,0.03304935710448747,Soft Drinks,Large,Tier 1,Supermarket Type1,1221.87
+8.03,376.62,0.05039844943196952,Soft Drinks,Medium,Tier 3,Grocery Store,537.81
+4.0,142.92,0.036067030149551496,Snack Foods,Medium,Tier 3,Supermarket Type1,911.0
+9.44,264.01,0.019111614529596106,Fruits & Vegetables,Small,Tier 1,Supermarket Type2,889.66
+6.71,287.47,0.07567892366857315,Health & Hygiene,Medium,Tier 3,Supermarket Type1,484.96
+18.57,161.14,0.03406179932318638,Soft Drinks,Small,Tier 1,Supermarket Type2,407.89
+16.04,346.84,0.09648976364368138,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,332.43
+9.25,381.51,0.04676447366044231,Health & Hygiene,Medium,Tier 1,Supermarket Type1,963.34
+21.01,359.7,0.03586688460231672,Household,Large,Tier 2,Supermarket Type1,973.11
+15.93,308.67,0.08838261727013745,Snack Foods,Medium,Tier 2,Supermarket Type1,796.41
+10.7,147.11,0.04444030948893262,Snack Foods,Medium,Tier 2,Supermarket Type1,1020.01
+4.0,148.57,0.021792144415049855,Frozen Foods,Medium,Tier 3,Supermarket Type2,169.49
+21.16,387.18,0.0737461910673798,Health & Hygiene,Medium,Tier 2,Grocery Store,422.38
+6.44,53.6,0.046602179432316475,Snack Foods,Large,Tier 2,Supermarket Type2,809.29
+5.42,300.62,0.10102514849800846,Fruits & Vegetables,Medium,Tier 2,Grocery Store,479.11
+16.09,297.19,0.04780328631943185,Health & Hygiene,Small,Tier 3,Supermarket Type2,315.15
+21.76,267.94,0.0338391254657818,Health & Hygiene,Small,Tier 1,Supermarket Type1,320.05
+17.54,396.54,0.009553168404649053,Soft Drinks,Medium,Tier 2,Supermarket Type2,895.75
+14.26,159.16,0.04451381984106321,Snack Foods,Medium,Tier 2,Supermarket Type1,364.19
+14.38,168.99,0.09085033771583403,Fruits & Vegetables,Small,Tier 2,Grocery Store,100.0
+15.41,77.63,0.037806291448837355,Soft Drinks,Large,Tier 2,Supermarket Type2,606.18
+15.04,204.98,0.05495575950052434,Fruits & Vegetables,Medium,Tier 2,Grocery Store,340.98
+13.12,141.37,0.058475472041732555,Fruits & Vegetables,Medium,Tier 2,Grocery Store,505.49
+12.42,170.19,0.053543378166353565,Snack Foods,Small,Tier 2,Supermarket Type2,516.77
+11.75,342.1,0.04002298881750181,Household,Small,Tier 2,Grocery Store,664.76
+8.98,377.42,0.05792939863664076,Fruits & Vegetables,Large,Tier 1,Grocery Store,825.79
+10.88,115.01,0.030113996061703212,Frozen Foods,Large,Tier 2,Supermarket Type1,673.83
+5.23,180.38,0.042611783304241445,Fruits & Vegetables,Small,Tier 2,Supermarket Type2,411.34
+11.61,375.02,0.020750095948696305,Household,Small,Tier 2,Grocery Store,450.9
+8.05,71.63,0.10779435899204069,Fruits & Vegetables,Medium,Tier 3,Supermarket Type1,365.44
+7.59,82.33,0.031697760314431,Household,Small,Tier 2,Supermarket Type1,291.79
+12.72,106.98,0.07921990130222832,Soft Drinks,Medium,Tier 1,Supermarket Type2,100.0
+17.57,258.32,0.058759885485600516,Health & Hygiene,Large,Tier 2,Supermarket Type2,1043.49
+15.67,102.67,0.08863192085393976,Snack Foods,Small,Tier 3,Supermarket Type1,332.03
+5.72,388.83,0.021389094560022772,Snack Foods,Small,Tier 3,Supermarket Type1,836.99
+8.04,206.35,0.04862726926304583,Fruits & Vegetables,Large,Tier 2,Supermarket Type1,387.47
+15.76,225.53,0.06163577596580952,Fruits & Vegetables,Small,Tier 1,Grocery Store,168.57
+8.07,136.33,0.04068141754584841,Household,Large,Tier 2,Supermarket Type1,557.91
+11.1,214.84,0.0803368386690585,Snack Foods,Medium,Tier 2,Supermarket Type2,429.25
+14.2,281.67,0.03595217708001254,Soft Drinks,Large,Tier 3,Supermarket Type1,1072.13
+8.13,312.91,0.05069013247016749,Snack Foods,Small,Tier 2,Grocery Store,542.59
+12.42,313.85,0.05200383026008634,Frozen Foods,Small,Tier 2,Supermarket Type1,346.01
+6.66,252.26,0.03673519710602002,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,619.44
+9.59,366.53,0.04436635185283705,Soft Drinks,Medium,Tier 2,Supermarket Type1,808.71
+13.28,336.09,0.027778576654520337,Frozen Foods,Small,Tier 3,Supermarket Type1,100.0
+5.63,314.97,0.016118769835412966,Soft Drinks,Large,Tier 2,Supermarket Type1,740.27
+13.76,69.46,0.03309528824456665,Snack Foods,Large,Tier 3,Grocery Store,471.16
+11.92,52.41,0.06739423709355444,Soft Drinks,Medium,Tier 2,Supermarket Type2,351.91
+14.21,124.36,0.047668676409967185,Health & Hygiene,Small,Tier 1,Supermarket Type1,287.31
+12.9,282.23,0.038880923183508095,Health & Hygiene,Medium,Tier 2,Grocery Store,429.89
+17.46,193.92,0.042181440148326185,Snack Foods,Medium,Tier 1,Supermarket Type1,387.9
+12.5,190.84,0.11107216637834443,Snack Foods,Medium,Tier 1,Supermarket Type2,604.08
+10.28,359.61,0.1070431548501547,Household,Large,Tier 2,Supermarket Type2,948.11
+12.49,363.45,0.044448498575515215,Health & Hygiene,Small,Tier 2,Supermarket Type1,567.78
+14.17,368.21,0.012311035334514461,Snack Foods,Small,Tier 2,Grocery Store,831.15
+12.2,159.86,0.14699783481643391,Fruits & Vegetables,Small,Tier 1,Grocery Store,100.0
+12.16,291.87,0.1803546083072489,Snack Foods,Medium,Tier 2,Supermarket Type1,738.72
+9.19,145.07,0.07845534772388424,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,478.04
+9.35,116.71,0.04358297755907861,Snack Foods,Small,Tier 3,Supermarket Type1,203.18
+6.39,114.62,0.09973079511377077,Snack Foods,Small,Tier 2,Supermarket Type1,100.0
+19.0,169.74,0.08102368357822473,Frozen Foods,Small,Tier 2,Supermarket Type1,375.12
+7.02,200.49,0.056147813753737265,Fruits & Vegetables,Small,Tier 1,Grocery Store,256.24
+9.23,340.83,0.05196438834784495,Health & Hygiene,Medium,Tier 3,Grocery Store,546.0
+9.13,91.96,0.019607221968009948,Soft Drinks,Small,Tier 2,Supermarket Type1,178.91
+15.58,307.22,0.08515423540055056,Health & Hygiene,Small,Tier 3,Grocery Store,462.48
+10.82,236.01,0.08534130997208424,Frozen Foods,Large,Tier 1,Grocery Store,741.93
+16.99,150.78,0.042625788337509865,Soft Drinks,Medium,Tier 2,Supermarket Type1,380.18
+9.31,222.49,0.016170018217970584,Snack Foods,Medium,Tier 2,Supermarket Type2,1045.06
+13.12,154.98,0.02463619446145752,Household,Small,Tier 1,Supermarket Type1,260.1
+8.66,258.63,0.025689728909716558,Fruits & Vegetables,Small,Tier 2,Supermarket Type2,445.39
+20.58,201.85,0.06448068825322749,Frozen Foods,Medium,Tier 3,Supermarket Type1,222.29
+7.25,107.54,0.046439876901229284,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,100.0
+13.24,90.8,0.08458128029326488,Health & Hygiene,Small,Tier 3,Supermarket Type1,100.0
+14.54,241.34,0.014216445588927339,Fruits & Vegetables,Large,Tier 1,Supermarket Type2,1137.67
+13.66,365.84,0.06768147699622398,Snack Foods,Large,Tier 2,Grocery Store,1273.43
+11.26,170.39,0.04968486400298541,Snack Foods,Small,Tier 2,Grocery Store,720.86
+11.48,306.55,0.07602062609331332,Household,Small,Tier 2,Supermarket Type1,274.12
+12.18,280.53,0.026721338641091313,Snack Foods,Large,Tier 3,Supermarket Type2,715.27
+11.41,376.04,0.041502921207462476,Fruits & Vegetables,Small,Tier 1,Supermarket Type2,482.3
+15.86,337.34,0.031604914309628744,Soft Drinks,Medium,Tier 3,Supermarket Type1,222.39
+20.84,248.31,0.09645835247059903,Frozen Foods,Large,Tier 2,Supermarket Type1,598.22
+9.77,279.96,0.010388270647407154,Snack Foods,Large,Tier 1,Supermarket Type1,1158.48
+6.52,364.44,0.01679499644425776,Soft Drinks,Medium,Tier 3,Supermarket Type2,615.37
+11.65,189.83,0.02181442789356763,Health & Hygiene,Small,Tier 2,Supermarket Type1,100.0
+22.32,164.38,0.020720461816317638,Health & Hygiene,Small,Tier 3,Supermarket Type2,100.0
+8.79,53.78,0.023335890360914182,Snack Foods,Large,Tier 2,Supermarket Type1,737.45
+18.56,339.29,0.040435154449801454,Frozen Foods,Large,Tier 3,Supermarket Type1,898.39
+18.71,330.34,0.06218360111509244,Snack Foods,Medium,Tier 2,Supermarket Type2,492.19
+9.79,86.56,0.014179290936732838,Soft Drinks,Medium,Tier 1,Grocery Store,618.53
+14.28,251.9,0.037568604263126366,Health & Hygiene,Medium,Tier 2,Supermarket Type2,479.17
+18.51,212.39,0.05026456581719218,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,831.34
+10.48,91.55,0.06515385147219682,Frozen Foods,Large,Tier 2,Supermarket Type2,687.54
+11.19,393.2,0.008494615555309323,Soft Drinks,Medium,Tier 1,Supermarket Type1,733.18
+9.67,125.14,0.06664757998016649,Snack Foods,Medium,Tier 1,Supermarket Type1,639.69
+7.94,73.53,0.049874099267026815,Frozen Foods,Small,Tier 1,Supermarket Type1,100.0
+9.4,258.2,0.03536939280854326,Frozen Foods,Medium,Tier 2,Supermarket Type1,492.3
+7.1,308.6,0.030813649162892646,Snack Foods,Medium,Tier 2,Supermarket Type1,886.21
+12.14,61.36,0.018912834911219343,Health & Hygiene,Small,Tier 2,Supermarket Type2,100.0
+8.92,280.55,0.01119280428780051,Snack Foods,Large,Tier 1,Supermarket Type1,1086.82
+12.94,236.3,0.06616959498842288,Household,Medium,Tier 2,Supermarket Type1,396.27
+5.78,86.14,0.014674608470785794,Household,Large,Tier 2,Supermarket Type2,767.53
+13.32,110.38,0.023343973915883148,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,100.0
+15.33,248.79,0.06283910233701939,Snack Foods,Medium,Tier 3,Supermarket Type1,504.21
+4.03,153.73,0.0035555307918618446,Snack Foods,Small,Tier 2,Grocery Store,189.32
+13.5,378.41,0.032532527390172,Household,Large,Tier 2,Supermarket Type2,1122.76
+16.91,336.56,0.03451664112572659,Soft Drinks,Small,Tier 1,Supermarket Type1,306.44
+7.16,394.25,0.03837261568213065,Soft Drinks,Medium,Tier 1,Supermarket Type1,939.48
+18.69,140.88,0.02300709444951233,Household,Medium,Tier 3,Supermarket Type2,289.4
+13.68,389.4,0.03747123331378914,Frozen Foods,Small,Tier 3,Supermarket Type2,601.23
+9.18,200.93,0.05721337580961934,Health & Hygiene,Large,Tier 1,Grocery Store,754.7
+11.78,171.63,0.09152305249115417,Frozen Foods,Large,Tier 2,Supermarket Type1,576.84
+14.23,67.62,0.03102990963361021,Soft Drinks,Small,Tier 2,Supermarket Type2,100.0
+12.3,68.47,0.033147727956655736,Snack Foods,Small,Tier 2,Grocery Store,100.0
+14.16,292.2,0.01805828504322036,Soft Drinks,Small,Tier 3,Supermarket Type2,280.87
+8.32,210.28,0.03438113753815833,Soft Drinks,Small,Tier 1,Supermarket Type1,100.0
+12.68,129.28,0.08014529378444359,Snack Foods,Large,Tier 2,Supermarket Type1,795.02
+6.35,264.89,0.06055014494013244,Health & Hygiene,Large,Tier 1,Supermarket Type1,1165.63
+11.56,138.5,0.04862273904688132,Health & Hygiene,Small,Tier 2,Supermarket Type1,283.61
+8.38,252.17,0.06594056307394762,Snack Foods,Medium,Tier 1,Grocery Store,729.88
+9.06,175.72,0.03159452306932013,Household,Medium,Tier 3,Supermarket Type1,100.0
+16.94,338.24,0.0035601094636840366,Frozen Foods,Small,Tier 2,Grocery Store,439.88
+16.37,337.24,0.02564939667446261,Soft Drinks,Small,Tier 3,Supermarket Type1,468.6
+14.44,217.07,0.06436729602609031,Snack Foods,Small,Tier 1,Grocery Store,410.06
+7.63,172.79,0.023028673657134,Household,Medium,Tier 1,Supermarket Type2,481.99
+10.73,176.9,0.07270275509643076,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,445.06
+16.85,332.0,0.042410790987079144,Soft Drinks,Medium,Tier 2,Supermarket Type1,721.09
+12.57,164.86,0.05247320247987736,Household,Small,Tier 3,Supermarket Type1,251.17
+21.28,123.17,0.07007514416464014,Snack Foods,Large,Tier 2,Supermarket Type1,618.63
+13.57,79.64,0.036376827330286264,Soft Drinks,Medium,Tier 1,Supermarket Type1,177.68
+12.77,213.34,0.1181878566524319,Snack Foods,Large,Tier 1,Supermarket Type1,1430.3
+10.76,218.75,0.037723025097935146,Fruits & Vegetables,Medium,Tier 1,Grocery Store,577.48
+12.53,344.32,0.09502795390061229,Household,Large,Tier 3,Grocery Store,709.84
+11.39,127.43,0.0542828769694634,Household,Large,Tier 2,Supermarket Type1,475.21
+14.83,183.35,0.028485428240553726,Household,Medium,Tier 2,Supermarket Type2,520.78
+15.83,332.94,0.0560201715465513,Snack Foods,Small,Tier 2,Grocery Store,862.4
+8.86,338.27,0.05453478334539203,Snack Foods,Large,Tier 1,Grocery Store,1271.64
+6.68,184.61,0.018114059492367447,Household,Medium,Tier 1,Grocery Store,1025.58
+4.66,210.69,0.07546275845693116,Fruits & Vegetables,Large,Tier 3,Supermarket Type1,535.29
+14.03,156.15,0.0653739811829502,Household,Medium,Tier 2,Supermarket Type1,302.32
+7.59,376.39,0.09386776949213545,Health & Hygiene,Medium,Tier 2,Supermarket Type2,472.63
+4.0,91.53,0.05064473395954448,Snack Foods,Small,Tier 1,Grocery Store,638.13
+13.55,376.81,0.027387369571800945,Health & Hygiene,Small,Tier 1,Grocery Store,521.24
+21.97,289.35,0.049936032030348715,Health & Hygiene,Large,Tier 1,Supermarket Type1,638.97
+11.98,236.05,0.04508150687257662,Snack Foods,Small,Tier 1,Supermarket Type1,770.05
+15.35,61.43,0.03280819118323872,Soft Drinks,Small,Tier 1,Supermarket Type1,208.91
+12.33,216.46,0.03259856179361342,Household,Medium,Tier 2,Grocery Store,307.37
+11.6,192.71,0.039709570621818346,Soft Drinks,Medium,Tier 1,Supermarket Type2,611.27
+15.68,106.43,0.09259133496972383,Household,Small,Tier 1,Supermarket Type1,100.0
+10.84,279.74,0.008621198085035666,Health & Hygiene,Small,Tier 3,Supermarket Type1,100.0
+13.07,389.9,0.03350644044437741,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,100.0
+13.29,246.77,0.1115710758254745,Soft Drinks,Small,Tier 3,Grocery Store,287.91
+9.33,300.16,0.016248715354207827,Fruits & Vegetables,Medium,Tier 2,Supermarket Type2,658.54
+15.97,73.96,0.14603409881354326,Health & Hygiene,Small,Tier 2,Supermarket Type2,100.0
+11.3,196.18,0.06456106818508765,Household,Large,Tier 1,Supermarket Type1,733.53
+8.98,90.73,0.02350026520021536,Snack Foods,Large,Tier 2,Supermarket Type1,365.24
+14.15,264.48,0.05674197844653528,Snack Foods,Medium,Tier 1,Supermarket Type1,624.21
+8.41,378.47,0.029350598093349996,Frozen Foods,Small,Tier 1,Supermarket Type1,611.36
+12.11,281.62,0.02448208867377097,Snack Foods,Medium,Tier 3,Supermarket Type1,774.3
+11.96,76.88,0.05836621811413929,Health & Hygiene,Medium,Tier 2,Supermarket Type2,414.8
+16.34,174.13,0.00729181926913342,Fruits & Vegetables,Small,Tier 3,Grocery Store,122.01
+13.9,242.73,0.010505950423876175,Health & Hygiene,Large,Tier 2,Grocery Store,1080.85
+11.9,191.12,0.05975105407423013,Snack Foods,Medium,Tier 2,Supermarket Type1,520.41
+15.27,341.78,0.02699353429581056,Health & Hygiene,Large,Tier 2,Grocery Store,1163.38
+17.56,335.13,0.07520000927464837,Frozen Foods,Small,Tier 2,Supermarket Type1,275.04
+14.23,264.14,0.042367313859335475,Snack Foods,Small,Tier 2,Grocery Store,377.29
+12.04,180.71,0.027932462002004242,Health & Hygiene,Large,Tier 3,Supermarket Type1,344.69
+6.75,139.37,0.07095446322899501,Frozen Foods,Medium,Tier 1,Grocery Store,301.71
+7.74,87.06,0.05084988846603305,Snack Foods,Medium,Tier 2,Supermarket Type1,732.49
+10.78,174.21,0.16768936809197935,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,100.0
+9.56,194.61,0.03089333650856544,Household,Small,Tier 1,Supermarket Type2,224.9
+11.25,286.54,0.013539196606284278,Snack Foods,Medium,Tier 2,Supermarket Type2,1027.81
+12.23,280.36,0.09926058314961851,Soft Drinks,Small,Tier 2,Supermarket Type2,263.2
+14.12,74.54,0.03472480508652394,Snack Foods,Medium,Tier 1,Supermarket Type1,927.21
+11.72,188.34,0.016114452893688003,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,727.55
+13.95,113.62,0.056193677091400024,Snack Foods,Large,Tier 2,Supermarket Type1,734.54
+12.26,104.88,0.043931125897196076,Frozen Foods,Medium,Tier 2,Supermarket Type2,359.21
+4.1,339.56,0.04121593457462658,Snack Foods,Small,Tier 2,Grocery Store,733.39
+8.24,64.67,0.06620708207894832,Health & Hygiene,Medium,Tier 1,Supermarket Type1,249.76
+11.42,196.71,0.03384705168260544,Soft Drinks,Small,Tier 1,Grocery Store,142.96
+7.16,108.87,0.09167807880188882,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,100.0
+14.4,357.77,0.05802590178471919,Health & Hygiene,Small,Tier 3,Supermarket Type1,642.62
+18.12,244.96,0.01779338193058375,Snack Foods,Medium,Tier 2,Supermarket Type1,628.38
+16.88,130.98,0.06614559352558413,Soft Drinks,Small,Tier 3,Supermarket Type1,212.63
+11.15,225.85,0.037857861764098846,Fruits & Vegetables,Medium,Tier 2,Supermarket Type2,436.64
+17.96,306.02,0.15133990873513098,Snack Foods,Large,Tier 1,Supermarket Type1,1199.59
+12.59,385.34,0.02797520638208255,Household,Medium,Tier 1,Supermarket Type2,875.75
+10.65,127.16,0.01723603130009282,Snack Foods,Small,Tier 3,Supermarket Type1,480.56
+9.55,360.16,0.02644635555597434,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,485.4
+10.79,377.01,0.03425919294878814,Household,Medium,Tier 3,Supermarket Type1,740.0
+10.45,370.75,0.04138784965791624,Fruits & Vegetables,Large,Tier 3,Supermarket Type1,765.06
+12.68,272.4,0.063933014194452,Household,Small,Tier 2,Supermarket Type1,621.25
+12.64,270.44,0.009440198588831161,Fruits & Vegetables,Large,Tier 1,Supermarket Type1,605.36
+12.01,191.12,0.022213899120437475,Soft Drinks,Medium,Tier 1,Supermarket Type1,640.21
+13.75,313.34,0.04633049102352897,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,740.49
+16.76,235.95,0.016140912076089243,Snack Foods,Large,Tier 1,Supermarket Type1,958.6
+15.8,287.1,0.06282090605367113,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,660.86
+6.06,199.96,0.02185024043774593,Health & Hygiene,Large,Tier 1,Supermarket Type1,578.16
+4.0,306.02,0.02662878023738133,Health & Hygiene,Small,Tier 1,Grocery Store,413.28
+15.74,338.57,0.014387813885818234,Household,Medium,Tier 2,Supermarket Type1,183.41
+6.53,101.25,0.01439640315795907,Snack Foods,Medium,Tier 2,Grocery Store,961.89
+11.1,341.53,0.07810913064755397,Fruits & Vegetables,Small,Tier 2,Grocery Store,301.1
+7.32,239.1,0.04467085621719639,Health & Hygiene,Medium,Tier 2,Grocery Store,897.18
+4.79,345.63,0.027969207447891446,Snack Foods,Small,Tier 2,Grocery Store,853.03
+14.17,200.96,0.06854044562356372,Fruits & Vegetables,Small,Tier 3,Grocery Store,124.09
+15.04,182.66,0.15501250575184405,Frozen Foods,Small,Tier 1,Supermarket Type1,100.0
+9.69,370.27,0.0355226410291604,Fruits & Vegetables,Medium,Tier 1,Grocery Store,601.99
+4.0,137.91,0.09615921377074961,Frozen Foods,Large,Tier 3,Supermarket Type1,539.86
+9.82,345.47,0.07475534519363196,Snack Foods,Medium,Tier 2,Supermarket Type2,757.8
+13.57,219.41,0.047820583139235075,Snack Foods,Medium,Tier 3,Supermarket Type1,317.42
+6.08,229.93,0.04498429561827533,Frozen Foods,Small,Tier 1,Supermarket Type1,174.38
+12.73,157.96,0.14158869742611793,Fruits & Vegetables,Large,Tier 3,Supermarket Type2,145.72
+11.94,250.56,0.01463400731682973,Household,Medium,Tier 3,Supermarket Type1,761.43
+14.32,163.82,0.09580198526195112,Fruits & Vegetables,Medium,Tier 2,Grocery Store,692.85
+12.48,63.74,0.03776476698489019,Health & Hygiene,Medium,Tier 1,Supermarket Type2,513.35
+8.11,145.2,0.030289565002684288,Fruits & Vegetables,Small,Tier 3,Supermarket Type2,100.0
+16.79,52.23,0.014679559722126888,Snack Foods,Medium,Tier 3,Supermarket Type1,410.03
+11.37,392.42,0.03548548546235567,Frozen Foods,Large,Tier 3,Supermarket Type1,579.37
+11.89,388.01,0.011819255058738393,Household,Small,Tier 1,Supermarket Type1,943.97
+8.27,188.3,0.08576139901916907,Snack Foods,Medium,Tier 3,Grocery Store,749.85
+10.23,304.93,0.034857965818047044,Snack Foods,Large,Tier 1,Grocery Store,1053.21
+8.46,171.03,0.07329039109222142,Frozen Foods,Small,Tier 1,Supermarket Type1,330.27
+11.31,284.88,0.042494688026479724,Snack Foods,Large,Tier 2,Supermarket Type2,912.21
+18.85,331.9,0.052800834747655546,Snack Foods,Large,Tier 1,Grocery Store,1033.62
+6.51,381.36,0.027980680710084093,Household,Medium,Tier 2,Supermarket Type1,837.6
+5.55,190.07,0.03413718097652913,Snack Foods,Small,Tier 2,Grocery Store,258.09
+17.88,324.15,0.01769086866992603,Snack Foods,Small,Tier 1,Supermarket Type1,873.11
+11.16,143.07,0.0714972697275671,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,270.25
+9.32,396.62,0.03035881028791915,Snack Foods,Large,Tier 3,Supermarket Type1,1045.12
+16.16,59.02,0.07052748720086091,Fruits & Vegetables,Large,Tier 1,Grocery Store,877.58
+9.58,261.24,0.0030675416121771167,Household,Medium,Tier 2,Supermarket Type1,641.51
+19.3,280.83,0.09181899031498766,Snack Foods,Small,Tier 2,Supermarket Type1,630.3
+14.71,290.82,0.04172343395510527,Health & Hygiene,Small,Tier 2,Grocery Store,100.0
+10.05,92.14,0.05888509336786431,Health & Hygiene,Medium,Tier 1,Grocery Store,400.86
+20.63,378.49,0.0032527532142628142,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,737.85
+9.58,113.41,0.008151225479878399,Frozen Foods,Large,Tier 1,Supermarket Type1,368.8
+14.97,267.96,0.16520057993555204,Snack Foods,Medium,Tier 3,Grocery Store,171.76
+13.2,127.94,0.027650824701353265,Fruits & Vegetables,Large,Tier 2,Supermarket Type1,528.11
+17.21,157.53,0.1073232258813017,Soft Drinks,Medium,Tier 2,Supermarket Type2,417.25
+18.25,241.26,0.024143652412152227,Soft Drinks,Medium,Tier 2,Grocery Store,317.59
+12.13,196.02,0.04199116809716421,Health & Hygiene,Medium,Tier 2,Supermarket Type1,319.08
+8.99,106.08,0.04784111242497407,Fruits & Vegetables,Large,Tier 2,Grocery Store,834.52
+13.84,109.83,0.022943562946286765,Household,Medium,Tier 2,Grocery Store,108.6
+9.29,196.35,0.03950775470168436,Health & Hygiene,Small,Tier 2,Grocery Store,100.0
+20.05,315.05,0.016462940770507774,Snack Foods,Small,Tier 1,Supermarket Type1,720.67
+12.55,364.29,0.11584910152837088,Health & Hygiene,Small,Tier 1,Supermarket Type2,126.32
+10.54,79.44,0.05140628170120325,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,100.0
+12.74,187.59,0.042565210717562856,Snack Foods,Small,Tier 3,Supermarket Type1,457.9
+6.61,85.09,0.01731303125243944,Snack Foods,Small,Tier 1,Supermarket Type1,778.98
+8.11,55.81,0.06106544757767272,Fruits & Vegetables,Medium,Tier 1,Grocery Store,577.59
+16.8,281.6,0.01480151269057194,Snack Foods,Small,Tier 1,Supermarket Type1,918.32
+9.37,260.86,0.017904009858380497,Snack Foods,Large,Tier 3,Supermarket Type1,1130.21
+7.81,107.06,0.022688377922922012,Household,Medium,Tier 3,Supermarket Type2,100.0
+14.15,131.83,0.005565161827754159,Household,Medium,Tier 2,Supermarket Type2,527.2
+16.74,58.3,0.014733103044119589,Snack Foods,Small,Tier 3,Supermarket Type1,147.51
+14.88,342.23,0.044422750908997645,Snack Foods,Small,Tier 2,Supermarket Type1,409.8
+15.98,391.14,0.06141403831969917,Health & Hygiene,Medium,Tier 3,Grocery Store,556.83
+8.97,97.41,0.01427511834895946,Frozen Foods,Large,Tier 1,Supermarket Type1,535.09
+6.31,131.02,0.06537588341427236,Household,Medium,Tier 1,Supermarket Type2,161.54
+18.01,353.94,0.0708566733116828,Health & Hygiene,Small,Tier 2,Grocery Store,374.57
+10.71,374.26,0.07962923424401012,Health & Hygiene,Medium,Tier 2,Supermarket Type1,510.56
+11.0,196.87,0.07800808157976932,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,146.37
+17.31,67.72,0.03744948075136878,Soft Drinks,Large,Tier 2,Supermarket Type1,479.01
+14.22,63.79,0.03251927256154561,Fruits & Vegetables,Large,Tier 2,Grocery Store,790.16
+13.82,250.88,0.042339889850259764,Fruits & Vegetables,Medium,Tier 1,Supermarket Type2,708.87
+20.66,187.51,0.0506302305818912,Household,Medium,Tier 1,Supermarket Type1,619.91
+9.43,60.03,0.07526818654604028,Household,Large,Tier 3,Grocery Store,160.62
+15.71,254.14,0.010454707942179406,Health & Hygiene,Medium,Tier 3,Grocery Store,381.08
+12.23,53.96,0.044515624956246676,Soft Drinks,Medium,Tier 3,Supermarket Type1,315.36
+13.07,325.58,0.042025815815069305,Health & Hygiene,Large,Tier 2,Grocery Store,1083.79
+18.11,157.25,0.04606225837845457,Soft Drinks,Medium,Tier 2,Grocery Store,326.78
+14.03,64.09,0.0320356650771914,Frozen Foods,Medium,Tier 2,Supermarket Type1,308.08
+14.15,255.92,0.025874841601065,Soft Drinks,Large,Tier 1,Supermarket Type1,999.51
+16.29,189.19,0.05258491693103283,Health & Hygiene,Medium,Tier 1,Supermarket Type1,620.47
+10.54,390.83,0.052731867337163466,Soft Drinks,Medium,Tier 1,Supermarket Type1,534.41
+8.64,240.47,0.05175587795435036,Soft Drinks,Small,Tier 3,Supermarket Type1,100.0
+7.82,146.33,0.030047249028547166,Health & Hygiene,Small,Tier 1,Supermarket Type2,651.56
+4.13,298.3,0.03461473344140186,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,565.77
+20.22,145.02,0.006452417441412656,Soft Drinks,Medium,Tier 2,Supermarket Type1,366.42
+7.59,366.49,0.02517059178731539,Health & Hygiene,Medium,Tier 2,Supermarket Type2,384.98
+11.11,181.15,0.011228336279395,Health & Hygiene,Large,Tier 1,Supermarket Type1,908.16
+10.89,242.45,0.0744481798956223,Household,Medium,Tier 1,Supermarket Type1,507.63
+13.23,67.7,0.028670877076232188,Snack Foods,Medium,Tier 3,Grocery Store,658.92
+15.26,199.14,0.05215134963604747,Soft Drinks,Small,Tier 1,Supermarket Type1,424.89
+15.44,341.33,0.039051770341329395,Household,Large,Tier 1,Supermarket Type1,855.26
+9.67,331.98,0.04127479255052518,Snack Foods,Medium,Tier 1,Supermarket Type1,681.51
+11.33,128.51,0.014801639327868927,Household,Medium,Tier 1,Supermarket Type2,738.39
+13.13,129.13,0.03130618929780898,Frozen Foods,Small,Tier 1,Grocery Store,437.86
+11.01,336.06,0.08410634738103213,Snack Foods,Medium,Tier 2,Grocery Store,1032.88
+18.43,375.64,0.07076876449047027,Snack Foods,Medium,Tier 2,Grocery Store,535.76
+13.96,83.38,0.09713765997364131,Snack Foods,Medium,Tier 2,Supermarket Type1,861.84
+14.94,207.52,0.10077975037837184,Snack Foods,Large,Tier 1,Grocery Store,707.38
+14.65,168.11,0.04258619983679479,Household,Large,Tier 3,Supermarket Type1,733.88
+16.69,354.74,0.0506390845128731,Household,Large,Tier 3,Supermarket Type1,426.79
+12.72,79.23,0.03198209360887564,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,352.16
+6.81,123.89,0.04221198282457782,Household,Large,Tier 2,Grocery Store,1017.6
+13.6,313.36,0.054213184165686185,Snack Foods,Large,Tier 1,Supermarket Type2,1301.31
+9.39,67.95,0.0743026778703279,Soft Drinks,Small,Tier 3,Supermarket Type1,100.0
+9.89,222.39,0.08011288261886354,Household,Medium,Tier 2,Supermarket Type2,317.42
+14.35,204.74,0.041579350011495264,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,100.0
+16.95,167.04,0.04993630692741396,Soft Drinks,Small,Tier 1,Grocery Store,473.09
+12.09,188.1,0.04043497149052824,Household,Small,Tier 2,Grocery Store,516.0
+13.24,235.48,0.04867385913078522,Health & Hygiene,Small,Tier 1,Supermarket Type2,366.16
+18.81,106.48,0.0377474878070647,Soft Drinks,Medium,Tier 2,Supermarket Type1,100.0
+12.96,250.2,0.060174946757818336,Household,Medium,Tier 2,Grocery Store,505.52
+22.41,331.9,0.02302279562671095,Household,Small,Tier 1,Supermarket Type1,399.11
+14.26,316.06,0.029982260369260924,Snack Foods,Medium,Tier 2,Supermarket Type1,601.45
+4.96,103.86,0.07522025967318811,Fruits & Vegetables,Large,Tier 2,Supermarket Type1,644.68
+15.01,102.24,0.06013824739808009,Fruits & Vegetables,Large,Tier 3,Grocery Store,430.99
+13.52,143.86,0.02911844333307176,Household,Medium,Tier 1,Supermarket Type2,616.87
+17.16,176.38,0.10022047178068837,Soft Drinks,Medium,Tier 3,Grocery Store,100.0
+14.69,192.96,0.005362870830852805,Snack Foods,Small,Tier 3,Supermarket Type1,457.14
+11.45,287.89,0.04439257038884548,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,100.0
+7.1,69.84,0.04245841242354772,Snack Foods,Small,Tier 3,Grocery Store,100.0
+11.16,62.14,0.08547387429346068,Frozen Foods,Medium,Tier 3,Supermarket Type1,100.0
+8.6,187.17,0.024223402171565416,Snack Foods,Large,Tier 2,Grocery Store,1296.23
+9.68,294.01,0.0386868245806366,Household,Small,Tier 1,Supermarket Type1,540.23
+14.35,117.7,0.03246446167920535,Snack Foods,Small,Tier 2,Supermarket Type2,647.05
+18.68,274.53,0.021273621278220543,Health & Hygiene,Small,Tier 2,Supermarket Type1,669.9
+13.58,140.94,0.052536660768501324,Fruits & Vegetables,Medium,Tier 3,Supermarket Type1,901.52
+7.22,360.13,0.04403069417702202,Household,Small,Tier 2,Supermarket Type1,318.8
+13.78,363.49,0.08141793038496956,Household,Medium,Tier 1,Supermarket Type1,862.02
+16.79,154.05,0.14066659624546574,Household,Small,Tier 2,Supermarket Type2,191.25
+9.56,130.5,0.08196599178771338,Frozen Foods,Medium,Tier 3,Grocery Store,321.08
+11.46,193.96,0.040288814476533256,Health & Hygiene,Small,Tier 1,Supermarket Type2,719.12
+12.06,134.19,0.014523708682934764,Health & Hygiene,Medium,Tier 2,Supermarket Type1,372.62
+8.86,285.33,0.024967961814443832,Household,Small,Tier 2,Supermarket Type1,265.03
+14.59,339.12,0.033723267887704994,Snack Foods,Medium,Tier 1,Grocery Store,935.34
+11.52,285.58,0.019300560569881466,Snack Foods,Medium,Tier 1,Grocery Store,945.14
+13.68,338.52,0.07514240464889067,Snack Foods,Medium,Tier 2,Supermarket Type1,795.73
+8.45,188.95,0.060020119153831056,Snack Foods,Medium,Tier 3,Supermarket Type2,860.59
+10.25,104.71,0.03972926115346696,Household,Small,Tier 1,Supermarket Type1,198.47
+14.89,308.28,0.041862224816841494,Snack Foods,Small,Tier 2,Grocery Store,566.18
+10.51,176.17,0.056550052181129754,Frozen Foods,Medium,Tier 3,Grocery Store,299.98
+18.91,284.94,0.06107132234189665,Soft Drinks,Medium,Tier 3,Supermarket Type1,218.84
+10.4,144.73,0.03632163808154526,Soft Drinks,Medium,Tier 3,Supermarket Type1,100.0
+12.9,78.43,0.03655520570405619,Fruits & Vegetables,Medium,Tier 2,Grocery Store,227.05
+15.73,397.4,0.0714861792247016,Fruits & Vegetables,Large,Tier 3,Grocery Store,882.05
+6.33,104.67,0.02721037196740723,Health & Hygiene,Medium,Tier 1,Supermarket Type1,796.11
+4.96,395.95,0.08069136067962371,Snack Foods,Small,Tier 2,Supermarket Type1,277.12
+5.9,392.05,0.05513730527541886,Health & Hygiene,Medium,Tier 2,Supermarket Type1,364.74
+17.05,327.84,0.09704416243762656,Fruits & Vegetables,Small,Tier 1,Supermarket Type2,349.09
+9.79,280.8,0.041974791038850316,Snack Foods,Medium,Tier 2,Supermarket Type1,339.55
+22.23,252.23,0.018594400867716784,Snack Foods,Small,Tier 1,Grocery Store,615.97
+9.74,353.14,0.0541724112567511,Health & Hygiene,Small,Tier 3,Supermarket Type1,100.0
+12.74,151.3,0.02457239842329403,Fruits & Vegetables,Large,Tier 2,Supermarket Type2,1001.91
+18.17,213.69,0.024254032547315445,Household,Medium,Tier 2,Supermarket Type2,255.16
+20.02,266.79,0.10524239629305332,Frozen Foods,Small,Tier 1,Supermarket Type2,674.81
+20.25,193.92,0.06777138782747501,Health & Hygiene,Small,Tier 1,Supermarket Type1,541.42
+16.83,199.62,0.0423595862331412,Health & Hygiene,Medium,Tier 3,Supermarket Type1,133.57
+16.1,165.6,0.057492684716801655,Health & Hygiene,Large,Tier 3,Supermarket Type2,264.34
+14.37,247.48,0.05280299134469597,Health & Hygiene,Medium,Tier 3,Supermarket Type1,217.6
+15.11,347.7,0.05545225831664397,Fruits & Vegetables,Large,Tier 1,Supermarket Type1,896.48
+9.8,120.53,0.039765422853506364,Fruits & Vegetables,Small,Tier 1,Supermarket Type2,428.88
+8.73,377.05,0.002084336387386436,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,493.2
+11.99,291.18,0.011237473021027867,Frozen Foods,Medium,Tier 2,Grocery Store,630.97
+11.32,338.15,0.032952546415387814,Health & Hygiene,Medium,Tier 1,Grocery Store,689.09
+10.19,244.67,0.03779523678167773,Health & Hygiene,Small,Tier 2,Supermarket Type1,142.2
+14.79,322.83,0.06371725708551687,Household,Medium,Tier 2,Supermarket Type1,374.65
+15.82,55.67,0.08095765092802973,Snack Foods,Medium,Tier 1,Grocery Store,586.22
+12.35,336.43,0.03166435260580614,Health & Hygiene,Medium,Tier 2,Supermarket Type1,408.92
+17.91,64.05,0.046805450382835984,Snack Foods,Medium,Tier 2,Supermarket Type1,566.69
+7.43,361.47,0.05558331726281835,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,640.06
+11.23,397.19,0.03028019555477035,Snack Foods,Medium,Tier 2,Grocery Store,879.48
+9.13,152.92,0.07716736950166474,Frozen Foods,Small,Tier 2,Supermarket Type1,474.43
+4.53,123.61,0.01043625194110942,Snack Foods,Medium,Tier 1,Grocery Store,826.85
+11.67,317.88,0.04019095694255567,Snack Foods,Medium,Tier 3,Supermarket Type1,825.91
+11.51,138.56,0.04075968914995455,Fruits & Vegetables,Large,Tier 3,Supermarket Type1,610.61
+18.05,352.95,0.06408613116748933,Health & Hygiene,Small,Tier 2,Supermarket Type2,314.13
+14.52,85.99,0.01842337398322467,Snack Foods,Medium,Tier 1,Supermarket Type1,757.03
+7.9,94.08,0.08400955246376085,Snack Foods,Small,Tier 2,Grocery Store,300.45
+19.42,392.7,0.08424976092941615,Health & Hygiene,Small,Tier 2,Supermarket Type1,499.68
+16.88,285.84,0.031977877724808604,Household,Medium,Tier 3,Supermarket Type1,219.48
+14.33,346.41,0.03686705327971807,Household,Medium,Tier 3,Supermarket Type2,225.85
+11.09,163.52,0.07653758986320659,Health & Hygiene,Small,Tier 3,Supermarket Type2,100.0
+8.16,286.77,0.07229274786251193,Household,Medium,Tier 1,Grocery Store,775.43
+10.51,257.98,0.08138977711627145,Soft Drinks,Large,Tier 3,Grocery Store,779.43
+16.35,261.1,0.022388382571381638,Household,Large,Tier 2,Grocery Store,825.73
+19.54,288.89,0.026207134722845898,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,441.16
+18.17,251.38,0.02210087552380823,Snack Foods,Medium,Tier 2,Grocery Store,841.26
+10.04,200.17,0.0873294632838091,Household,Medium,Tier 2,Grocery Store,559.43
+7.52,146.57,0.04674038512893081,Soft Drinks,Small,Tier 2,Supermarket Type1,100.0
+12.56,319.0,0.02279843852051667,Snack Foods,Medium,Tier 1,Grocery Store,660.98
+4.93,129.2,0.06872757687756904,Health & Hygiene,Medium,Tier 2,Grocery Store,278.97
+13.29,292.32,0.07738430670237101,Soft Drinks,Small,Tier 3,Supermarket Type1,100.0
+11.41,131.67,0.03818538299278339,Household,Large,Tier 1,Supermarket Type1,743.13
+10.14,268.87,0.01663845479407583,Health & Hygiene,Large,Tier 1,Supermarket Type1,551.38
+5.62,311.48,0.15247059446881966,Snack Foods,Medium,Tier 1,Supermarket Type2,1088.85
+14.05,126.55,0.03584416706893862,Snack Foods,Medium,Tier 2,Grocery Store,623.4
+9.87,70.98,0.06547499173711324,Health & Hygiene,Small,Tier 3,Supermarket Type1,100.0
+7.32,95.84,0.0358734101506234,Snack Foods,Medium,Tier 1,Supermarket Type2,1006.07
+4.0,262.1,0.02589480025959655,Snack Foods,Small,Tier 1,Supermarket Type2,193.41
+11.89,347.31,0.05532289534838383,Snack Foods,Large,Tier 3,Supermarket Type1,891.8
+19.09,65.75,0.021554909711625027,Household,Small,Tier 3,Supermarket Type1,100.0
+18.65,306.95,0.07150305648177753,Household,Small,Tier 1,Grocery Store,294.74
+10.17,169.46,0.10670928323651994,Snack Foods,Medium,Tier 3,Supermarket Type1,309.91
+9.59,217.48,0.027919017527016733,Household,Small,Tier 2,Supermarket Type2,576.44
+13.88,375.1,0.033931451570437046,Fruits & Vegetables,Medium,Tier 3,Supermarket Type1,683.65
+8.01,166.19,0.023941613785836653,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,636.28
+13.21,212.87,0.0306967256103512,Snack Foods,Large,Tier 3,Grocery Store,813.14
+15.06,54.79,0.03515468550782859,Frozen Foods,Medium,Tier 1,Supermarket Type1,198.82
+16.91,78.56,0.06932255755867567,Soft Drinks,Small,Tier 1,Supermarket Type1,100.0
+11.6,140.51,0.05746351408084677,Frozen Foods,Small,Tier 2,Supermarket Type1,100.0
+11.19,59.75,0.08626534237645103,Snack Foods,Medium,Tier 2,Grocery Store,532.34
+8.49,270.98,0.03708911220275935,Frozen Foods,Medium,Tier 3,Supermarket Type1,303.29
+8.69,199.24,0.06341280235952247,Snack Foods,Medium,Tier 2,Supermarket Type1,634.82
+11.09,241.85,0.04376592082858608,Frozen Foods,Small,Tier 1,Grocery Store,359.85
+13.47,111.13,0.006443552780965921,Health & Hygiene,Small,Tier 2,Grocery Store,637.08
+15.65,153.58,0.006731752937193725,Health & Hygiene,Small,Tier 2,Supermarket Type1,100.0
+8.79,282.34,0.016351797574667835,Health & Hygiene,Small,Tier 3,Supermarket Type1,359.69
+17.97,387.86,0.07452688136056329,Health & Hygiene,Small,Tier 2,Supermarket Type1,457.5
+10.92,67.65,0.07894877179393994,Snack Foods,Medium,Tier 2,Supermarket Type2,475.13
+11.91,361.63,0.024602200966761103,Snack Foods,Small,Tier 2,Supermarket Type1,995.18
+9.01,251.91,0.1084250737457944,Soft Drinks,Medium,Tier 3,Supermarket Type2,503.98
+4.0,247.37,0.03716203562973612,Soft Drinks,Medium,Tier 2,Supermarket Type1,372.8
+15.54,225.1,0.03569328285725829,Health & Hygiene,Small,Tier 1,Supermarket Type1,574.64
+14.95,74.29,0.11278128272510686,Soft Drinks,Medium,Tier 3,Grocery Store,133.69
+10.87,81.46,0.03355891023762479,Health & Hygiene,Medium,Tier 2,Supermarket Type1,348.97
+12.27,260.32,0.05985011037403991,Frozen Foods,Medium,Tier 2,Supermarket Type2,558.64
+14.06,169.34,0.07282690072332307,Health & Hygiene,Large,Tier 3,Supermarket Type1,331.81
+5.75,371.04,0.12926005811242358,Soft Drinks,Small,Tier 3,Supermarket Type1,100.0
+9.88,192.31,0.014858256073847954,Soft Drinks,Large,Tier 3,Grocery Store,563.91
+15.18,100.15,0.0576564121248689,Household,Medium,Tier 3,Supermarket Type2,379.58
+6.98,300.15,0.145653789400211,Soft Drinks,Medium,Tier 1,Supermarket Type1,441.8
+13.17,152.67,0.07712929550452775,Health & Hygiene,Large,Tier 2,Supermarket Type1,380.9
+6.57,233.91,0.017294916436922523,Household,Large,Tier 2,Supermarket Type1,588.17
+13.87,294.24,0.11491620616343201,Snack Foods,Medium,Tier 2,Supermarket Type1,100.0
+11.86,365.09,0.01463860929438002,Frozen Foods,Medium,Tier 3,Supermarket Type1,325.6
+5.54,327.27,0.029088280632186065,Health & Hygiene,Medium,Tier 3,Supermarket Type1,334.41
+16.66,286.73,0.03454568413051721,Snack Foods,Medium,Tier 2,Supermarket Type2,703.18
+9.06,287.87,0.018676132466476356,Household,Small,Tier 3,Supermarket Type2,567.32
+8.76,381.07,0.051810224184289426,Frozen Foods,Small,Tier 1,Supermarket Type1,760.31
+12.8,153.54,0.024134943925034843,Snack Foods,Large,Tier 2,Grocery Store,1106.45
+16.59,50.39,0.13545417818706962,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,100.0
+7.94,145.18,0.030592415110409617,Snack Foods,Small,Tier 2,Grocery Store,438.89
+12.25,126.26,0.06446165156666675,Health & Hygiene,Medium,Tier 1,Grocery Store,350.42
+13.72,281.64,0.09693629404551223,Health & Hygiene,Small,Tier 3,Supermarket Type2,100.0
+14.77,271.8,0.06461261067421269,Fruits & Vegetables,Small,Tier 2,Supermarket Type2,119.81
+12.71,257.71,0.13320871035336157,Health & Hygiene,Medium,Tier 3,Supermarket Type1,100.0
+10.53,55.69,0.08108181829251693,Soft Drinks,Medium,Tier 2,Supermarket Type2,100.0
+8.69,305.07,0.04842375857352899,Household,Medium,Tier 1,Supermarket Type2,751.83
+12.34,163.24,0.03595373087027299,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,347.16
+7.71,282.77,0.0109464920896432,Household,Medium,Tier 2,Supermarket Type1,399.82
+4.0,244.8,0.043390278185499176,Health & Hygiene,Medium,Tier 3,Supermarket Type1,393.71
+13.75,169.96,0.02259889082430247,Fruits & Vegetables,Medium,Tier 1,Grocery Store,854.55
+15.62,97.1,0.09507652434149239,Household,Medium,Tier 3,Grocery Store,103.79
+4.0,83.05,0.02052633805598613,Soft Drinks,Large,Tier 3,Supermarket Type1,640.84
+7.96,341.03,0.04707281496898815,Snack Foods,Medium,Tier 3,Supermarket Type1,426.95
+14.48,371.44,0.0688629622863658,Soft Drinks,Small,Tier 2,Grocery Store,235.7
+20.23,277.43,0.018627695702118332,Soft Drinks,Small,Tier 3,Supermarket Type1,251.91
+12.08,86.2,0.053977656753196705,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,672.45
+9.09,190.71,0.030511983487057,Health & Hygiene,Small,Tier 1,Supermarket Type2,712.35
+11.27,305.13,0.07149662930532678,Household,Medium,Tier 1,Supermarket Type1,653.81
+17.5,322.94,0.012653570956771505,Snack Foods,Large,Tier 3,Supermarket Type1,959.55
+9.42,91.38,0.12468372617663691,Snack Foods,Medium,Tier 1,Supermarket Type2,878.84
+8.8,50.01,0.050362326786177795,Household,Small,Tier 2,Supermarket Type2,256.32
+10.07,299.25,0.09552069400187319,Health & Hygiene,Medium,Tier 1,Supermarket Type1,132.03
+8.19,174.81,0.08460020692824154,Snack Foods,Small,Tier 1,Supermarket Type2,308.59
+12.49,139.07,0.02311697468196435,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,629.51
+18.5,54.51,0.068432477914179,Health & Hygiene,Medium,Tier 3,Grocery Store,100.0
+13.29,239.1,0.10613270083052297,Snack Foods,Small,Tier 2,Grocery Store,251.62
+10.99,347.9,0.09160193560587915,Soft Drinks,Large,Tier 3,Supermarket Type1,475.04
+10.83,385.17,0.056705559179200865,Snack Foods,Small,Tier 2,Supermarket Type1,689.27
+5.75,248.01,0.025596404933882124,Health & Hygiene,Large,Tier 3,Supermarket Type1,681.24
+15.53,230.06,0.05385744048771308,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,165.91
+11.69,79.77,0.0542590093511341,Household,Small,Tier 2,Grocery Store,292.25
+11.28,242.11,0.03282619434822757,Snack Foods,Small,Tier 2,Grocery Store,494.43
+24.77,182.99,0.018313489294332935,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,193.49
+13.2,262.5,0.04765784645156932,Soft Drinks,Medium,Tier 3,Grocery Store,100.0
+8.99,186.05,0.0211622238609081,Frozen Foods,Medium,Tier 2,Supermarket Type1,680.32
+10.29,134.1,0.0342011241819235,Household,Medium,Tier 3,Supermarket Type1,148.89
+16.59,83.24,0.06235599106755979,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,100.0
+12.45,160.22,0.02193780046644977,Soft Drinks,Medium,Tier 1,Supermarket Type1,667.04
+6.25,83.83,0.01505444114244614,Health & Hygiene,Medium,Tier 2,Supermarket Type1,217.8
+15.68,111.91,0.009852412640889674,Frozen Foods,Medium,Tier 1,Supermarket Type2,459.14
+9.33,395.57,0.05431183981479757,Snack Foods,Medium,Tier 2,Supermarket Type2,805.43
+19.49,205.44,0.05803502719041186,Household,Medium,Tier 2,Supermarket Type2,316.78
+16.32,236.16,0.032891247662082304,Snack Foods,Small,Tier 3,Supermarket Type1,860.42
+10.21,355.77,0.07922292563010037,Fruits & Vegetables,Medium,Tier 1,Grocery Store,595.32
+17.12,398.45,0.04160806130779614,Snack Foods,Medium,Tier 1,Supermarket Type1,1145.96
+12.27,253.95,0.04119551831384367,Snack Foods,Medium,Tier 1,Supermarket Type2,484.2
+15.41,334.37,0.037126326366287314,Health & Hygiene,Small,Tier 2,Grocery Store,137.89
+13.94,164.43,0.010115385383353926,Frozen Foods,Small,Tier 3,Supermarket Type1,100.0
+8.61,157.01,0.027061943501094362,Soft Drinks,Small,Tier 3,Grocery Store,100.0
+9.43,190.95,0.008371637938822953,Snack Foods,Small,Tier 2,Supermarket Type1,563.36
+16.12,285.38,0.034922522454995386,Health & Hygiene,Small,Tier 3,Supermarket Type1,280.29
+10.66,288.77,0.06980268437521873,Frozen Foods,Large,Tier 2,Grocery Store,890.83
+10.39,160.33,0.007920232596717959,Household,Medium,Tier 1,Supermarket Type2,630.87
+8.18,96.62,0.028858329068810508,Health & Hygiene,Medium,Tier 1,Supermarket Type1,413.6
+13.69,271.34,0.028946153221852934,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,303.4
+20.25,94.91,0.07224877245709094,Fruits & Vegetables,Large,Tier 2,Supermarket Type1,982.27
+7.73,252.47,0.02563203246356222,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,423.73
+12.1,292.7,0.08731290209241999,Health & Hygiene,Medium,Tier 2,Supermarket Type1,675.27
+17.65,295.21,0.026273230247859516,Fruits & Vegetables,Large,Tier 2,Supermarket Type1,930.86
+11.68,313.72,0.08066956218946719,Health & Hygiene,Medium,Tier 3,Supermarket Type1,398.64
+13.81,355.5,0.08378876996731029,Snack Foods,Large,Tier 1,Supermarket Type1,830.84
+7.75,224.99,0.04312789953857387,Fruits & Vegetables,Medium,Tier 3,Supermarket Type1,131.9
+13.71,305.59,0.04535374621587218,Frozen Foods,Small,Tier 2,Supermarket Type1,422.09
+11.25,266.71,0.014271406370583797,Household,Small,Tier 1,Supermarket Type1,651.39
+15.94,115.32,0.05205626577334215,Snack Foods,Small,Tier 2,Supermarket Type2,270.13
+16.75,58.99,0.07908281515877703,Snack Foods,Small,Tier 2,Grocery Store,100.0
+22.36,149.59,0.01603743965274565,Snack Foods,Medium,Tier 2,Grocery Store,617.49
+14.32,205.06,0.07970788000849087,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,317.4
+13.3,265.99,0.09387459130590359,Snack Foods,Large,Tier 2,Supermarket Type1,629.03
+12.78,347.49,0.052865148005678715,Health & Hygiene,Small,Tier 3,Grocery Store,100.0
+10.59,118.69,0.06517407851584542,Soft Drinks,Medium,Tier 2,Supermarket Type1,373.89
+13.35,93.94,0.018956900144085166,Health & Hygiene,Large,Tier 1,Supermarket Type1,824.33
+10.82,387.22,0.03187452553510707,Household,Small,Tier 2,Supermarket Type2,422.11
+12.67,87.82,0.043960269586907436,Health & Hygiene,Medium,Tier 2,Grocery Store,112.41
+17.27,217.47,0.05712488971068217,Household,Medium,Tier 1,Supermarket Type1,512.76
+7.97,254.95,0.1272998954980831,Fruits & Vegetables,Small,Tier 3,Grocery Store,276.38
+16.56,239.48,0.03978232093998472,Health & Hygiene,Medium,Tier 2,Supermarket Type1,305.26
+17.27,80.11,0.07081933025467865,Health & Hygiene,Small,Tier 3,Supermarket Type1,245.42
+11.53,69.96,0.020173192811791932,Snack Foods,Medium,Tier 3,Supermarket Type1,234.96
+4.0,86.92,0.010125629737435695,Household,Medium,Tier 2,Supermarket Type2,550.44
+9.57,254.96,0.048785156464275746,Household,Medium,Tier 2,Grocery Store,481.6
+17.19,240.52,0.07812733183504651,Snack Foods,Medium,Tier 2,Supermarket Type1,417.12
+11.91,131.81,0.06617545285739396,Health & Hygiene,Small,Tier 2,Grocery Store,100.0
+8.0,273.22,0.020481735260366712,Fruits & Vegetables,Medium,Tier 3,Supermarket Type1,551.83
+9.98,337.02,0.002829450180564435,Health & Hygiene,Large,Tier 3,Grocery Store,723.83
+15.36,64.55,0.049882581683825464,Household,Large,Tier 1,Supermarket Type2,989.06
+14.19,224.35,0.010748354216372978,Health & Hygiene,Medium,Tier 2,Supermarket Type2,859.32
+11.04,291.26,0.05475820619939406,Health & Hygiene,Medium,Tier 3,Supermarket Type2,159.4
+10.53,138.31,0.10245207942054757,Frozen Foods,Large,Tier 2,Grocery Store,289.53
+10.43,157.72,0.0632043571547955,Frozen Foods,Small,Tier 3,Supermarket Type1,100.0
+8.31,264.77,0.039239222011465485,Health & Hygiene,Medium,Tier 3,Grocery Store,150.66
+18.46,364.28,0.06291803773832734,Snack Foods,Small,Tier 2,Supermarket Type2,802.42
+10.71,333.47,0.12104646317776817,Soft Drinks,Large,Tier 2,Supermarket Type1,725.78
+16.87,254.1,0.02668783529416725,Snack Foods,Medium,Tier 2,Supermarket Type1,645.15
+18.09,305.58,0.015519900169938275,Household,Medium,Tier 2,Supermarket Type1,578.79
+15.99,177.69,0.034696016400861694,Health & Hygiene,Small,Tier 2,Grocery Store,516.45
+10.27,274.34,0.04019633639780976,Household,Medium,Tier 2,Supermarket Type1,945.83
+13.61,213.16,0.03210917112068411,Health & Hygiene,Medium,Tier 3,Supermarket Type1,371.43
+11.9,116.48,0.059022627033360066,Household,Medium,Tier 1,Supermarket Type2,100.0
+8.39,295.61,0.06529004420691899,Soft Drinks,Small,Tier 1,Supermarket Type2,513.9
+13.3,244.76,0.05287888504307172,Household,Medium,Tier 1,Supermarket Type1,840.18
+7.28,175.52,0.05251698471483225,Household,Small,Tier 2,Supermarket Type2,216.89
+16.75,368.97,0.03187962566545925,Household,Medium,Tier 2,Supermarket Type1,782.7
+10.14,57.33,0.04769206364988262,Soft Drinks,Small,Tier 2,Supermarket Type2,160.59
+12.8,160.52,0.08830661146718884,Snack Foods,Small,Tier 1,Supermarket Type1,245.14
+13.13,69.91,0.033754641174885476,Health & Hygiene,Small,Tier 2,Supermarket Type1,100.0
+10.96,318.28,0.03926300959125292,Household,Small,Tier 2,Supermarket Type1,369.42
+14.35,295.74,0.06397658002657547,Soft Drinks,Small,Tier 2,Grocery Store,502.1
+10.1,165.97,0.04735887564701156,Soft Drinks,Large,Tier 2,Supermarket Type1,566.69
+15.49,286.48,0.11865680598130608,Household,Medium,Tier 1,Grocery Store,668.37
+6.62,188.58,0.06242265548983446,Frozen Foods,Small,Tier 3,Supermarket Type2,156.72
+12.51,314.69,0.0779395565629779,Snack Foods,Medium,Tier 1,Grocery Store,1176.62
+19.76,208.96,0.015442991227202049,Frozen Foods,Medium,Tier 2,Supermarket Type1,497.4
+8.0,194.3,0.05917953023201822,Household,Large,Tier 3,Supermarket Type1,184.37
+9.29,377.16,0.07351397645256892,Soft Drinks,Small,Tier 2,Grocery Store,339.93
+14.06,137.81,0.04686069107215117,Household,Small,Tier 3,Supermarket Type1,443.58
+12.72,92.16,0.02718217174640873,Soft Drinks,Large,Tier 1,Supermarket Type1,985.2
+13.4,254.59,0.028306851745235968,Health & Hygiene,Small,Tier 2,Grocery Store,206.59
+13.96,389.26,0.11485991045526775,Snack Foods,Small,Tier 2,Supermarket Type1,391.68
+14.54,182.24,0.06496550206447978,Snack Foods,Small,Tier 1,Supermarket Type1,327.16
+16.44,71.71,0.06710031747962132,Fruits & Vegetables,Small,Tier 2,Grocery Store,478.78
+13.64,168.76,0.011332889594631055,Health & Hygiene,Large,Tier 2,Supermarket Type1,658.94
+11.03,227.08,0.05684588627319825,Household,Small,Tier 2,Supermarket Type1,100.0
+14.69,106.67,0.029799392451752574,Snack Foods,Large,Tier 3,Supermarket Type2,779.27
+19.6,280.34,0.02373935288198225,Health & Hygiene,Large,Tier 1,Supermarket Type2,926.8
+11.47,399.21,0.04733153176968892,Snack Foods,Medium,Tier 2,Supermarket Type1,1230.45
+8.1,208.11,0.04591211969828558,Soft Drinks,Small,Tier 2,Supermarket Type1,100.0
+16.43,174.15,0.0732109910079563,Snack Foods,Small,Tier 2,Supermarket Type1,627.59
+11.52,190.25,0.04445102505640106,Fruits & Vegetables,Medium,Tier 3,Supermarket Type1,320.43
+4.0,90.3,0.01938647165590832,Soft Drinks,Medium,Tier 2,Supermarket Type1,606.21
+15.39,359.15,0.016603889710143812,Fruits & Vegetables,Medium,Tier 1,Supermarket Type2,1044.8
+9.86,195.19,0.04696097042774577,Soft Drinks,Medium,Tier 2,Supermarket Type1,379.45
+11.64,185.55,0.037148164453343555,Fruits & Vegetables,Large,Tier 3,Grocery Store,540.07
+13.33,280.89,0.03314373736291918,Health & Hygiene,Medium,Tier 2,Supermarket Type1,628.29
+12.76,204.71,0.08463688638689662,Household,Medium,Tier 2,Grocery Store,382.64
+14.84,276.88,0.018166443346335624,Snack Foods,Large,Tier 1,Supermarket Type1,1009.61
+10.26,71.51,0.02833410927940638,Snack Foods,Small,Tier 1,Supermarket Type1,881.91
+14.05,334.8,0.07386723870391272,Snack Foods,Small,Tier 1,Supermarket Type1,819.25
+10.96,379.18,0.02410676765218577,Frozen Foods,Small,Tier 2,Supermarket Type1,211.95
+14.96,277.07,0.050344753943676726,Snack Foods,Small,Tier 3,Supermarket Type2,100.0
+14.46,384.1,0.031031753747756068,Household,Medium,Tier 2,Grocery Store,123.7
+8.26,103.0,0.04006343933598452,Snack Foods,Small,Tier 1,Supermarket Type2,734.45
+16.34,217.1,0.1354334152084214,Frozen Foods,Medium,Tier 1,Supermarket Type1,241.56
+9.86,260.63,0.023751217495866866,Snack Foods,Large,Tier 2,Supermarket Type2,902.09
+15.23,253.61,0.07330825773971024,Household,Small,Tier 2,Supermarket Type1,396.1
+13.47,190.51,0.02586825856199878,Health & Hygiene,Medium,Tier 2,Grocery Store,290.81
+19.35,168.33,0.10221544252876855,Snack Foods,Small,Tier 2,Supermarket Type2,504.14
+11.11,94.39,0.03155675441136376,Household,Small,Tier 2,Supermarket Type1,201.29
+10.6,187.11,0.06779275508099955,Snack Foods,Medium,Tier 1,Grocery Store,734.17
+11.92,106.93,0.01199429775739789,Health & Hygiene,Large,Tier 1,Grocery Store,567.16
+10.79,307.03,0.04221847439675368,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,380.91
+15.2,123.09,0.07168097544912998,Snack Foods,Small,Tier 1,Supermarket Type1,609.83
+5.53,70.5,0.10333552297365757,Snack Foods,Small,Tier 1,Supermarket Type1,280.22
+7.79,243.33,0.04971659405985316,Household,Small,Tier 2,Supermarket Type1,550.31
+7.73,258.33,0.0470057806910699,Health & Hygiene,Small,Tier 3,Supermarket Type1,549.52
+15.8,355.17,0.04612790907271919,Frozen Foods,Medium,Tier 2,Supermarket Type1,577.03
+18.84,251.94,0.07982688231459825,Household,Small,Tier 2,Supermarket Type1,450.88
+11.58,170.92,0.052000387265917866,Health & Hygiene,Medium,Tier 3,Supermarket Type1,349.61
+11.32,331.05,0.03893573886984858,Snack Foods,Medium,Tier 1,Supermarket Type2,745.92
+12.28,239.1,0.04239222333650475,Health & Hygiene,Medium,Tier 3,Grocery Store,396.31
+16.65,77.75,0.0618298434737372,Snack Foods,Small,Tier 2,Supermarket Type1,738.56
+8.29,248.05,0.038674121280348736,Soft Drinks,Large,Tier 2,Supermarket Type1,745.53
+12.95,367.81,0.023103361498290034,Health & Hygiene,Small,Tier 2,Supermarket Type1,144.76
+15.9,188.71,0.06329086446377327,Fruits & Vegetables,Medium,Tier 1,Grocery Store,300.8
+14.0,153.71,0.08087569175532487,Soft Drinks,Small,Tier 3,Grocery Store,100.0
+12.76,100.21,0.043484389667707,Snack Foods,Medium,Tier 1,Supermarket Type1,573.99
+16.0,103.01,0.013919453063055214,Fruits & Vegetables,Small,Tier 2,Supermarket Type2,546.3
+4.0,201.47,0.07421099325434304,Snack Foods,Small,Tier 2,Supermarket Type1,448.26
+14.71,258.49,0.04894844719501848,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,682.57
+9.38,78.22,0.03972932464979994,Soft Drinks,Small,Tier 1,Supermarket Type1,216.91
+4.68,378.85,0.06532598320418716,Snack Foods,Large,Tier 1,Supermarket Type1,901.8
+14.04,314.3,0.022180172002146094,Health & Hygiene,Medium,Tier 1,Grocery Store,448.82
+17.49,255.32,0.06739485052161216,Household,Small,Tier 3,Supermarket Type1,100.0
+11.45,339.95,0.025474954588927335,Snack Foods,Medium,Tier 2,Supermarket Type1,795.85
+15.81,78.07,0.012833204660517416,Household,Large,Tier 1,Grocery Store,949.36
+18.45,216.89,0.0028635858889061506,Snack Foods,Medium,Tier 2,Grocery Store,913.61
+17.26,270.53,0.021009860323637778,Soft Drinks,Small,Tier 3,Supermarket Type1,100.0
+18.56,340.03,0.05411279997079125,Soft Drinks,Large,Tier 1,Supermarket Type2,929.89
+14.97,324.21,0.02552587814023572,Health & Hygiene,Small,Tier 1,Supermarket Type2,269.12
+12.3,146.97,0.0802194553045418,Health & Hygiene,Medium,Tier 3,Supermarket Type1,238.66
+5.59,379.31,0.019028015436255003,Fruits & Vegetables,Medium,Tier 1,Grocery Store,842.18
+11.02,93.52,0.04601021267058253,Frozen Foods,Large,Tier 2,Supermarket Type1,418.51
+8.63,356.3,0.05886396640178761,Soft Drinks,Large,Tier 1,Grocery Store,1214.09
+20.68,389.83,0.06713442486915133,Snack Foods,Large,Tier 3,Supermarket Type1,1485.51
+11.3,112.0,0.09155889040293769,Household,Small,Tier 3,Supermarket Type1,104.14
+12.49,302.72,0.0374300103332952,Snack Foods,Large,Tier 3,Supermarket Type1,989.52
+14.21,64.1,0.10754866589381619,Frozen Foods,Small,Tier 2,Supermarket Type2,100.0
+12.17,191.9,0.03334313749891905,Frozen Foods,Small,Tier 2,Supermarket Type1,269.73
+18.78,230.7,0.024424054042446564,Health & Hygiene,Medium,Tier 1,Supermarket Type1,449.18
+9.51,253.23,0.060684925088325944,Frozen Foods,Medium,Tier 3,Supermarket Type1,382.35
+12.78,377.58,0.030189479796891988,Fruits & Vegetables,Medium,Tier 3,Supermarket Type2,241.86
+9.03,285.29,0.02927241328296367,Fruits & Vegetables,Medium,Tier 2,Grocery Store,219.3
+6.72,218.45,0.06354486231296524,Health & Hygiene,Large,Tier 2,Supermarket Type2,748.96
+9.55,333.39,0.02070295663284456,Health & Hygiene,Small,Tier 1,Supermarket Type1,612.49
+11.85,382.69,0.010125680498477058,Soft Drinks,Small,Tier 2,Grocery Store,456.04
+10.28,57.72,0.020261130420869244,Frozen Foods,Large,Tier 2,Supermarket Type2,411.39
+9.23,393.88,0.12861426552952065,Health & Hygiene,Small,Tier 2,Grocery Store,361.64
+6.37,80.15,0.05523909747940835,Snack Foods,Medium,Tier 2,Supermarket Type2,335.33
+11.67,335.04,0.021557622684517726,Health & Hygiene,Medium,Tier 1,Supermarket Type1,644.68
+5.98,148.12,0.06060662147140956,Soft Drinks,Medium,Tier 3,Supermarket Type2,606.86
+15.04,96.26,0.0821282782673411,Frozen Foods,Medium,Tier 3,Supermarket Type1,260.82
+12.33,203.95,0.01552723863245924,Snack Foods,Small,Tier 3,Supermarket Type1,127.25
+6.17,275.38,0.07173662798078251,Household,Large,Tier 2,Supermarket Type1,459.99
+10.76,183.33,0.05785362585492507,Household,Small,Tier 2,Grocery Store,162.02
+8.99,69.1,0.06623480493472123,Soft Drinks,Medium,Tier 1,Supermarket Type2,144.87
+13.28,259.81,0.019928681445698745,Health & Hygiene,Small,Tier 3,Grocery Store,100.0
+17.36,365.84,0.0312100399489952,Soft Drinks,Medium,Tier 2,Supermarket Type1,631.13
+4.5,184.13,0.09047938196720194,Snack Foods,Medium,Tier 2,Supermarket Type1,597.61
+12.46,125.72,0.04139108699639018,Fruits & Vegetables,Large,Tier 2,Supermarket Type1,764.94
+11.36,204.9,0.040059686577228214,Fruits & Vegetables,Medium,Tier 3,Grocery Store,358.97
+14.69,66.93,0.03474464271743668,Frozen Foods,Medium,Tier 1,Grocery Store,462.15
+12.85,337.17,0.07780344520814214,Snack Foods,Large,Tier 1,Grocery Store,1069.18
+8.99,339.22,0.06908566066892288,Snack Foods,Medium,Tier 2,Supermarket Type2,948.45
+10.72,255.8,0.049469426505629764,Fruits & Vegetables,Medium,Tier 3,Grocery Store,619.66
+8.82,173.59,0.026443730709618023,Health & Hygiene,Medium,Tier 2,Supermarket Type2,387.85
+16.3,329.92,0.0036351081140453797,Frozen Foods,Medium,Tier 2,Grocery Store,517.69
+12.09,244.14,0.043061405693015496,Health & Hygiene,Large,Tier 2,Grocery Store,474.71
+19.6,339.08,0.00986844343292208,Snack Foods,Small,Tier 2,Supermarket Type1,399.2
+11.76,271.01,0.04781192136017502,Fruits & Vegetables,Medium,Tier 2,Grocery Store,520.71
+9.17,324.54,0.017090811261534954,Soft Drinks,Medium,Tier 2,Supermarket Type1,183.77
+5.95,259.5,0.036328224768420805,Soft Drinks,Large,Tier 1,Supermarket Type2,1022.29
+4.79,194.95,0.040686161192662,Snack Foods,Large,Tier 3,Grocery Store,939.43
+5.66,385.28,0.09775400586775966,Snack Foods,Medium,Tier 2,Supermarket Type1,410.39
+13.07,239.39,0.06501592331046661,Fruits & Vegetables,Medium,Tier 3,Supermarket Type1,100.0
+14.03,261.78,0.05527115965209522,Snack Foods,Small,Tier 1,Grocery Store,763.68
+5.68,127.17,0.03814765389715868,Health & Hygiene,Medium,Tier 2,Grocery Store,329.26
+15.58,268.98,0.049896323022496206,Fruits & Vegetables,Large,Tier 3,Supermarket Type2,811.3
+10.07,250.06,0.042340562963394744,Household,Large,Tier 1,Grocery Store,831.2
+12.59,114.69,0.0146566343763923,Health & Hygiene,Large,Tier 2,Supermarket Type2,950.1
+18.45,70.86,0.04267747863754564,Household,Small,Tier 2,Supermarket Type1,100.0
+15.59,261.53,0.033528013646120035,Snack Foods,Large,Tier 3,Grocery Store,799.47
+10.93,317.29,0.0276408192139044,Snack Foods,Large,Tier 1,Supermarket Type1,941.7
+8.44,233.19,0.08441344937415009,Snack Foods,Small,Tier 1,Supermarket Type2,749.27
+4.0,129.37,0.06365703803009524,Frozen Foods,Medium,Tier 3,Supermarket Type1,222.05
+9.12,283.28,0.12125931188279562,Household,Medium,Tier 2,Supermarket Type1,509.17
+11.16,78.04,0.07367707938069241,Fruits & Vegetables,Medium,Tier 1,Supermarket Type2,534.11
+8.05,204.64,0.0616986586524121,Soft Drinks,Large,Tier 1,Grocery Store,512.23
+11.47,107.18,0.0473976425986439,Soft Drinks,Medium,Tier 3,Supermarket Type2,100.0
+12.31,114.56,0.015436540004327608,Snack Foods,Medium,Tier 1,Supermarket Type2,607.08
+11.1,120.8,0.03385727125825502,Snack Foods,Medium,Tier 2,Supermarket Type1,477.95
+9.4,185.35,0.04048212703589101,Household,Medium,Tier 2,Supermarket Type2,403.17
+12.67,67.9,0.059499499952857,Fruits & Vegetables,Large,Tier 3,Supermarket Type1,661.48
+13.77,189.23,0.046299655081452985,Health & Hygiene,Medium,Tier 3,Supermarket Type1,501.3
+7.64,229.1,0.013326826612952664,Snack Foods,Medium,Tier 2,Supermarket Type1,765.21
+17.64,219.15,0.10546471483139895,Household,Small,Tier 1,Supermarket Type1,194.71
+11.61,183.97,0.0025834520058728642,Fruits & Vegetables,Small,Tier 3,Supermarket Type1,100.0
+12.08,343.7,0.07959941346055832,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,420.14
+14.83,100.86,0.034139691075652095,Frozen Foods,Large,Tier 3,Supermarket Type1,537.42
+12.93,226.99,0.11482843226667422,Health & Hygiene,Small,Tier 2,Supermarket Type1,299.51
+15.81,71.71,0.03419480501884389,Health & Hygiene,Small,Tier 2,Grocery Store,302.79
+13.15,74.9,0.038014532355851595,Health & Hygiene,Small,Tier 1,Supermarket Type1,100.0
+9.55,250.85,0.026913504230370817,Health & Hygiene,Medium,Tier 2,Supermarket Type2,461.84
+13.45,248.11,0.018155919393688814,Health & Hygiene,Large,Tier 2,Supermarket Type1,1079.38
+7.43,357.31,0.058275923135503185,Snack Foods,Medium,Tier 2,Supermarket Type1,821.44
+12.43,245.26,0.04184093801213554,Household,Medium,Tier 1,Grocery Store,913.34
+11.87,385.93,0.028963033347233758,Soft Drinks,Medium,Tier 1,Supermarket Type1,678.56
+11.17,67.04,0.051320569701384024,Household,Small,Tier 1,Grocery Store,308.75
+11.49,84.3,0.07075371359624254,Household,Medium,Tier 2,Grocery Store,100.0
+4.47,65.42,0.033820990836453076,Household,Medium,Tier 3,Supermarket Type1,100.0
+9.81,114.85,0.019917554059828813,Snack Foods,Medium,Tier 2,Supermarket Type1,840.4
+12.37,239.44,0.03180878602604219,Household,Large,Tier 2,Grocery Store,947.88
+12.64,275.95,0.04614175819234516,Household,Medium,Tier 1,Supermarket Type1,682.31
+7.89,65.95,0.023484046016947847,Snack Foods,Medium,Tier 2,Supermarket Type2,354.16
+17.06,381.09,0.044352447964727953,Health & Hygiene,Large,Tier 2,Grocery Store,831.64
+8.54,344.76,0.07403783054359742,Snack Foods,Large,Tier 3,Grocery Store,1164.31
+15.88,153.81,0.06977327983044633,Health & Hygiene,Medium,Tier 3,Supermarket Type1,591.37
+13.71,77.02,0.041734981584110174,Household,Small,Tier 2,Grocery Store,100.0
+9.42,109.46,0.037962097736311214,Household,Medium,Tier 3,Supermarket Type2,100.0
+19.1,94.43,0.03446790248662283,Snack Foods,Medium,Tier 1,Supermarket Type1,956.79
+7.23,93.15,0.03439025477243545,Snack Foods,Small,Tier 2,Supermarket Type1,339.15
+15.68,231.5,0.035014440022967275,Snack Foods,Small,Tier 1,Supermarket Type1,849.44
+16.0,136.05,0.026143503626833427,Soft Drinks,Small,Tier 2,Supermarket Type1,283.22
+9.32,175.35,0.026831612056780172,Soft Drinks,Medium,Tier 1,Grocery Store,420.91
+17.57,396.33,0.05402307659519609,Health & Hygiene,Medium,Tier 2,Supermarket Type2,478.39
+11.0,289.51,0.029047362854149418,Frozen Foods,Small,Tier 2,Supermarket Type1,699.71
+13.15,382.14,0.08475189916539107,Household,Small,Tier 3,Grocery Store,193.07
+13.04,99.89,0.03986431859711409,Snack Foods,Medium,Tier 2,Supermarket Type1,393.86
+11.46,183.75,0.06874545956296507,Fruits & Vegetables,Small,Tier 1,Grocery Store,100.0
+15.24,244.16,0.03435999048146489,Household,Small,Tier 2,Grocery Store,100.0
+15.17,76.87,0.07379159404613447,Household,Medium,Tier 3,Supermarket Type1,100.0
+5.01,51.47,0.04215064031834923,Frozen Foods,Medium,Tier 3,Supermarket Type1,338.97
+17.22,284.65,0.015885986270865116,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,215.04
+5.35,274.64,0.017119272933358923,Fruits & Vegetables,Medium,Tier 3,Grocery Store,678.69
+16.13,193.78,0.04452714639635235,Snack Foods,Small,Tier 3,Supermarket Type1,100.0
+16.51,221.38,0.024970031867698663,Snack Foods,Medium,Tier 1,Grocery Store,1385.12
+7.64,195.41,0.009107183213223189,Soft Drinks,Small,Tier 1,Supermarket Type1,771.1
+10.36,58.4,0.03634097216184583,Snack Foods,Small,Tier 1,Supermarket Type1,537.4
+7.58,167.38,0.15171995225427118,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,100.0
+11.14,111.98,0.06111160289641994,Household,Medium,Tier 2,Supermarket Type2,319.84
+10.77,84.45,0.020048453472597736,Fruits & Vegetables,Small,Tier 3,Supermarket Type2,100.0
+15.12,384.85,0.09235655991353338,Health & Hygiene,Small,Tier 2,Supermarket Type2,100.0
+17.24,259.78,0.0783020293835057,Soft Drinks,Large,Tier 2,Supermarket Type2,719.18
+17.58,305.03,0.037929798150757664,Household,Medium,Tier 2,Supermarket Type1,336.24
+9.75,160.38,0.046098634526820656,Frozen Foods,Small,Tier 1,Supermarket Type2,205.75
+11.16,187.6,0.018689188601980492,Health & Hygiene,Medium,Tier 1,Supermarket Type2,554.27
+5.27,132.92,0.019264293992330952,Snack Foods,Small,Tier 2,Supermarket Type1,338.65
+8.78,83.94,0.0652974670421704,Health & Hygiene,Medium,Tier 2,Grocery Store,728.09
+15.86,112.66,0.04337073125759529,Household,Small,Tier 3,Grocery Store,100.0
+18.46,329.13,0.0747531126066854,Household,Small,Tier 2,Supermarket Type2,367.38
+7.06,287.14,0.008465384250868775,Soft Drinks,Small,Tier 3,Supermarket Type1,347.26
+9.63,241.43,0.05997204833298394,Soft Drinks,Medium,Tier 2,Supermarket Type2,526.95
+11.89,216.28,0.022124011856692435,Soft Drinks,Medium,Tier 2,Supermarket Type1,608.29
+13.12,372.85,0.06590772225325423,Snack Foods,Medium,Tier 2,Supermarket Type1,943.43
+8.76,75.46,0.029289911689815026,Snack Foods,Small,Tier 1,Supermarket Type1,583.49
+13.7,148.21,0.004244036522873458,Soft Drinks,Small,Tier 1,Supermarket Type2,477.63
+10.1,172.48,0.05574240451471733,Household,Medium,Tier 1,Grocery Store,562.75
+11.94,323.85,0.059936357783115075,Frozen Foods,Small,Tier 2,Supermarket Type2,189.4
+14.19,397.38,0.11621813904734994,Health & Hygiene,Medium,Tier 2,Supermarket Type1,262.45
+12.03,134.23,0.044993662301419844,Household,Small,Tier 1,Supermarket Type1,350.96
+10.25,356.01,0.0069540104004429315,Snack Foods,Medium,Tier 2,Supermarket Type1,863.46
+11.56,340.72,0.08547219578488433,Soft Drinks,Medium,Tier 1,Grocery Store,689.82
+11.65,128.63,0.039358377955350146,Health & Hygiene,Large,Tier 3,Grocery Store,563.17
+10.52,189.77,0.02771122586963674,Snack Foods,Small,Tier 3,Supermarket Type1,350.57
+10.96,193.39,0.06960755918556291,Frozen Foods,Small,Tier 3,Grocery Store,100.0
+18.39,392.38,0.030552805154777138,Health & Hygiene,Medium,Tier 2,Grocery Store,582.9
+14.24,113.31,0.02951999081997023,Health & Hygiene,Large,Tier 1,Supermarket Type2,889.25
+10.82,329.71,0.03137289368895619,Soft Drinks,Large,Tier 3,Supermarket Type1,574.51
+14.79,166.97,0.020901607423775892,Snack Foods,Medium,Tier 1,Supermarket Type1,868.64
+10.66,305.8,0.1036253264192629,Household,Medium,Tier 1,Grocery Store,791.33
+16.69,197.0,0.03338530771385666,Snack Foods,Medium,Tier 1,Supermarket Type2,736.77
+13.48,252.43,0.08139076340806652,Health & Hygiene,Medium,Tier 2,Supermarket Type2,603.29
+11.57,341.41,0.099571220025316,Health & Hygiene,Medium,Tier 2,Supermarket Type1,436.62
+13.79,331.46,0.04602364395423112,Fruits & Vegetables,Large,Tier 2,Supermarket Type2,1274.66
+5.72,353.25,0.0242731416362278,Frozen Foods,Medium,Tier 2,Supermarket Type2,568.15
+7.49,70.87,0.025928007295692185,Snack Foods,Medium,Tier 1,Supermarket Type1,880.08
+7.22,292.22,0.08370640636433536,Health & Hygiene,Medium,Tier 3,Supermarket Type1,276.11
+12.57,99.0,0.009736124260485398,Snack Foods,Medium,Tier 2,Grocery Store,390.12
+18.93,195.54,0.006065110532523443,Frozen Foods,Medium,Tier 2,Supermarket Type1,461.64
+20.93,242.01,0.024663192509955995,Fruits & Vegetables,Medium,Tier 2,Grocery Store,659.87
+14.55,190.96,0.07784808393163557,Snack Foods,Small,Tier 1,Grocery Store,534.26
+14.0,231.86,0.11283762097511303,Fruits & Vegetables,Small,Tier 1,Grocery Store,100.0
+4.8,398.78,0.052622756534587915,Health & Hygiene,Medium,Tier 2,Supermarket Type2,505.55
+9.83,97.33,0.08263014266367272,Soft Drinks,Large,Tier 1,Grocery Store,478.0
+8.85,286.41,0.05744608832724776,Snack Foods,Small,Tier 1,Supermarket Type2,633.08
+9.52,188.6,0.08701123340302505,Frozen Foods,Medium,Tier 3,Supermarket Type1,490.3
+11.33,96.55,0.04187982744011605,Health & Hygiene,Small,Tier 2,Grocery Store,269.89
+10.11,105.56,0.05299981640681077,Household,Small,Tier 2,Supermarket Type1,437.0
+4.08,382.25,0.06986381456681273,Household,Large,Tier 2,Grocery Store,853.57
+14.99,357.86,0.0249028419222543,Health & Hygiene,Large,Tier 3,Supermarket Type2,768.35
+7.71,367.46,0.016527977074221593,Health & Hygiene,Small,Tier 1,Supermarket Type2,437.22
+12.96,397.04,0.04961655519253373,Health & Hygiene,Medium,Tier 3,Grocery Store,195.55
+20.3,122.91,0.013288287487912635,Household,Small,Tier 2,Supermarket Type2,100.0
+8.32,174.4,0.04306598242167846,Fruits & Vegetables,Large,Tier 1,Supermarket Type1,574.67
+4.0,284.23,0.07210613639633415,Fruits & Vegetables,Small,Tier 1,Grocery Store,748.96
+10.86,219.33,0.10763122933539858,Household,Small,Tier 2,Supermarket Type1,100.0
+16.4,196.44,0.021498263691187153,Soft Drinks,Medium,Tier 2,Supermarket Type1,742.33
+19.83,175.23,0.07132234620890332,Household,Large,Tier 1,Grocery Store,1066.31
+7.08,257.82,0.010575972360040884,Soft Drinks,Small,Tier 2,Supermarket Type1,450.49
+13.99,251.46,0.11708609693544489,Household,Medium,Tier 2,Grocery Store,164.8
+10.14,106.51,0.024194325651902958,Frozen Foods,Small,Tier 2,Supermarket Type1,100.0
+11.58,215.11,0.06957093072866781,Health & Hygiene,Large,Tier 3,Grocery Store,415.56
+22.58,243.72,0.020944672882874594,Household,Small,Tier 3,Supermarket Type2,340.13
+5.99,249.6,0.02798129893233862,Frozen Foods,Large,Tier 2,Supermarket Type1,811.71
+13.01,123.54,0.051240652367052913,Household,Medium,Tier 3,Grocery Store,100.0
+13.87,309.79,0.05155699192328676,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,787.81
+16.34,58.82,0.05368842445847485,Snack Foods,Large,Tier 1,Grocery Store,1339.93
+12.39,174.19,0.06356707492344318,Frozen Foods,Large,Tier 2,Supermarket Type1,683.18
+13.23,323.07,0.030625401774277722,Soft Drinks,Medium,Tier 2,Grocery Store,612.43
+10.43,247.36,0.018347187525076733,Health & Hygiene,Small,Tier 2,Supermarket Type2,100.0
+13.08,141.41,0.01354528314885308,Snack Foods,Medium,Tier 2,Supermarket Type2,611.9
+10.63,293.23,0.1601808846338039,Fruits & Vegetables,Medium,Tier 1,Supermarket Type1,475.9
+14.49,248.59,0.04262468763630491,Snack Foods,Medium,Tier 1,Grocery Store,862.53
+10.52,328.69,0.006582221389833811,Fruits & Vegetables,Medium,Tier 3,Supermarket Type1,399.98
+13.51,307.26,0.10245507870548382,Snack Foods,Small,Tier 3,Supermarket Type1,249.93
+11.88,263.54,0.053545012407822126,Soft Drinks,Medium,Tier 2,Supermarket Type1,429.52
+16.5,220.86,0.07804322666953802,Household,Medium,Tier 2,Supermarket Type1,356.05
+11.79,96.61,0.020762771127016137,Health & Hygiene,Small,Tier 2,Supermarket Type1,308.24
+4.91,141.47,0.05128618173057287,Health & Hygiene,Medium,Tier 1,Supermarket Type1,125.19
+17.05,196.68,0.06617064543243092,Health & Hygiene,Medium,Tier 2,Supermarket Type2,359.94
+8.38,259.75,0.07055116446771227,Household,Medium,Tier 2,Grocery Store,460.9
+9.38,229.8,0.17592620482084426,Snack Foods,Small,Tier 2,Supermarket Type1,125.66
+9.62,150.86,0.14277339577884773,Health & Hygiene,Medium,Tier 1,Supermarket Type1,286.19
+17.5,52.26,0.009934563636491572,Household,Small,Tier 3,Grocery Store,100.0
+4.0,223.68,0.07400975955340235,Health & Hygiene,Medium,Tier 3,Supermarket Type1,221.13
+24.55,149.97,0.014507974652720293,Fruits & Vegetables,Medium,Tier 1,Supermarket Type2,651.42
+16.22,307.11,0.014320284055706182,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,629.23
+12.89,58.38,0.014680416692651688,Soft Drinks,Small,Tier 3,Grocery Store,100.0
+11.78,254.69,0.007210092115588669,Soft Drinks,Medium,Tier 1,Grocery Store,783.27
+13.14,379.52,0.040646115648254856,Soft Drinks,Large,Tier 2,Supermarket Type1,773.92
+14.08,111.04,0.03452083024832099,Health & Hygiene,Small,Tier 2,Grocery Store,526.97
+14.58,215.08,0.06927032128491575,Fruits & Vegetables,Large,Tier 2,Supermarket Type2,452.2
+14.22,82.0,0.04118292173220277,Household,Medium,Tier 3,Supermarket Type1,100.0
+12.36,268.99,0.08268430281845054,Health & Hygiene,Medium,Tier 2,Supermarket Type1,413.83
+11.21,242.69,0.07432184952314537,Household,Small,Tier 1,Supermarket Type2,418.53
+11.39,192.58,0.02231515266869299,Soft Drinks,Small,Tier 1,Supermarket Type1,100.0
+11.22,232.48,0.09420632287847429,Snack Foods,Large,Tier 1,Supermarket Type1,900.67
+16.54,363.8,0.0474103145064915,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,603.32
+14.37,118.7,0.04220596476353898,Household,Small,Tier 2,Grocery Store,100.0
+4.0,57.9,0.0254884237099931,Snack Foods,Medium,Tier 1,Supermarket Type2,1021.91
+14.62,351.58,0.08027462027059826,Health & Hygiene,Small,Tier 2,Supermarket Type1,265.67
+12.78,251.99,0.014230819718069108,Soft Drinks,Medium,Tier 2,Supermarket Type2,397.74
+11.93,361.73,0.012477294389646934,Snack Foods,Medium,Tier 1,Supermarket Type1,1253.76
+10.45,258.93,0.00526344362648257,Snack Foods,Large,Tier 2,Supermarket Type2,1377.56
+16.5,333.56,0.019347777462788932,Household,Medium,Tier 2,Grocery Store,761.9
+15.79,200.39,0.03430600620703969,Fruits & Vegetables,Small,Tier 2,Supermarket Type2,475.89
+8.91,312.45,0.03193687203823528,Frozen Foods,Small,Tier 2,Supermarket Type2,783.49
+13.63,369.56,0.0645697069470808,Fruits & Vegetables,Medium,Tier 2,Supermarket Type1,293.98
+8.11,250.24,0.14239465221815287,Household,Medium,Tier 3,Supermarket Type1,390.36
+6.48,113.27,0.12785934217048922,Snack Foods,Large,Tier 2,Supermarket Type1,472.64
+9.49,144.08,0.0797205990166051,Frozen Foods,Medium,Tier 2,Supermarket Type2,362.25
+15.45,119.53,0.017943000781649367,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,241.15
+15.81,136.4,0.11950430586432473,Snack Foods,Large,Tier 1,Supermarket Type1,1135.97
+14.05,157.25,0.026747932030563772,Snack Foods,Small,Tier 2,Supermarket Type2,683.64
+14.9,244.3,0.013104346828752254,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,435.86
+14.06,255.8,0.08080668587739184,Health & Hygiene,Medium,Tier 1,Supermarket Type1,703.89
+9.43,199.27,0.08755969803631837,Fruits & Vegetables,Large,Tier 2,Supermarket Type2,744.34
+13.73,265.4,0.06817169670082474,Health & Hygiene,Medium,Tier 1,Grocery Store,610.97
+15.2,78.55,0.02666703700528074,Fruits & Vegetables,Small,Tier 2,Supermarket Type1,161.88
+15.02,80.73,0.04655370771682132,Health & Hygiene,Small,Tier 1,Grocery Store,590.49
+16.76,110.14,0.08449753046056532,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,559.05
+14.83,231.33,0.024749248014677688,Soft Drinks,Small,Tier 3,Supermarket Type1,100.0
+13.41,124.9,0.01887723691028088,Frozen Foods,Small,Tier 3,Supermarket Type1,100.0
+16.28,149.15,0.06982147334467395,Soft Drinks,Medium,Tier 1,Supermarket Type1,461.46
+11.89,190.11,0.023046965867872436,Frozen Foods,Large,Tier 2,Supermarket Type1,462.38
+8.47,334.15,0.09231581236494617,Fruits & Vegetables,Small,Tier 1,Supermarket Type1,257.43
+11.35,54.85,0.045707138677539956,Soft Drinks,Small,Tier 2,Grocery Store,415.83
+9.02,277.28,0.09461713654707955,Fruits & Vegetables,Large,Tier 2,Supermarket Type1,621.83
